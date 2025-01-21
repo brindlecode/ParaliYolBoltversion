@@ -1,0 +1,121 @@
+Giriş Noktası,Çıkış Noktası,Araç Sınıfı,Geçiş Ücreti
+Malkara,Kavakkoy,1. Sınıf Araç (Otomobil),120.00
+Malkara,Kavakkoy,2. Sınıf Araç (Minibüs),190.00
+Malkara,Kavakkoy,3. Sınıf Araç (Kamyon),225.00
+Malkara,Kavakkoy,4. Sınıf Araç (TIR),295.00
+Malkara,Kavakkoy,5. Sınıf Araç (Ağır Yük Kamyonu),375.00
+Malkara,Kavakkoy,6. Sınıf Araç (Motosiklet),30.00
+Malkara,Gelibolu-kuzey,1. Sınıf Araç (Otomobil),175.00
+Malkara,Gelibolu-kuzey,2. Sınıf Araç (Minibüs),275.00
+Malkara,Gelibolu-kuzey,3. Sınıf Araç (Kamyon),330.00
+Malkara,Gelibolu-kuzey,4. Sınıf Araç (TIR),435.00
+Malkara,Gelibolu-kuzey,5. Sınıf Araç (Ağır Yük Kamyonu),550.00
+Malkara,Gelibolu-kuzey,6. Sınıf Araç (Motosiklet),45.00
+Malkara,Gelibolu-guney,1. Sınıf Araç (Otomobil),215.00
+Malkara,Gelibolu-guney,2. Sınıf Araç (Minibüs),345.00
+Malkara,Gelibolu-guney,3. Sınıf Araç (Kamyon),410.00
+Malkara,Gelibolu-guney,4. Sınıf Araç (TIR),545.00
+Malkara,Gelibolu-guney,5. Sınıf Araç (Ağır Yük Kamyonu),690.00
+Malkara,Gelibolu-guney,6. Sınıf Araç (Motosiklet),55.00
+Malkara,1915canakkale-koprusu,1. Sınıf Araç (Otomobil),1005.00
+Malkara,1915canakkale-koprusu,2. Sınıf Araç (Minibüs),1325.00
+Malkara,1915canakkale-koprusu,3. Sınıf Araç (Kamyon),2180.00
+Malkara,1915canakkale-koprusu,4. Sınıf Araç (TIR),2505.00
+Malkara,1915canakkale-koprusu,5. Sınıf Araç (Ağır Yük Kamyonu),4420.00
+Malkara,1915canakkale-koprusu,6. Sınıf Araç (Motosiklet),250.00
+Kavakkoy,Malkara,1. Sınıf Araç (Otomobil),120.00
+Kavakkoy,Malkara,2. Sınıf Araç (Minibüs),190.00
+Kavakkoy,Malkara,3. Sınıf Araç (Kamyon),225.00
+Kavakkoy,Malkara,4. Sınıf Araç (TIR),295.00
+Kavakkoy,Malkara,5. Sınıf Araç (Ağır Yük Kamyonu),375.00
+Kavakkoy,Malkara,6. Sınıf Araç (Motosiklet),30.00
+Kavakkoy,Gelibolu-kuzey,1. Sınıf Araç (Otomobil),70.00
+Kavakkoy,Gelibolu-kuzey,2. Sınıf Araç (Minibüs),110.00
+Kavakkoy,Gelibolu-kuzey,3. Sınıf Araç (Kamyon),130.00
+Kavakkoy,Gelibolu-kuzey,4. Sınıf Araç (TIR),175.00
+Kavakkoy,Gelibolu-kuzey,5. Sınıf Araç (Ağır Yük Kamyonu),220.00
+Kavakkoy,Gelibolu-kuzey,6. Sınıf Araç (Motosiklet),15.00
+Kavakkoy,Gelibolu-guney,1. Sınıf Araç (Otomobil),110.00
+Kavakkoy,Gelibolu-guney,2. Sınıf Araç (Minibüs),180.00
+Kavakkoy,Gelibolu-guney,3. Sınıf Araç (Kamyon),215.00
+Kavakkoy,Gelibolu-guney,4. Sınıf Araç (TIR),285.00
+Kavakkoy,Gelibolu-guney,5. Sınıf Araç (Ağır Yük Kamyonu),355.00
+Kavakkoy,Gelibolu-guney,6. Sınıf Araç (Motosiklet),30.00
+Kavakkoy,1915canakkale-koprusu,1. Sınıf Araç (Otomobil),900.00
+Kavakkoy,1915canakkale-koprusu,2. Sınıf Araç (Minibüs),1160.00
+Kavakkoy,1915canakkale-koprusu,3. Sınıf Araç (Kamyon),1980.00
+Kavakkoy,1915canakkale-koprusu,4. Sınıf Araç (TIR),2240.00
+Kavakkoy,1915canakkale-koprusu,5. Sınıf Araç (Ağır Yük Kamyonu),4090.00
+Kavakkoy,1915canakkale-koprusu,6. Sınıf Araç (Motosiklet),225.00
+Gelibolu-kuzey,Malkara,1. Sınıf Araç (Otomobil),175.00
+Gelibolu-kuzey,Malkara,2. Sınıf Araç (Minibüs),275.00
+Gelibolu-kuzey,Malkara,3. Sınıf Araç (Kamyon),330.00
+Gelibolu-kuzey,Malkara,4. Sınıf Araç (TIR),435.00
+Gelibolu-kuzey,Malkara,5. Sınıf Araç (Ağır Yük Kamyonu),550.00
+Gelibolu-kuzey,Malkara,6. Sınıf Araç (Motosiklet),45.00
+Gelibolu-kuzey,Kavakkoy,1. Sınıf Araç (Otomobil),70.00
+Gelibolu-kuzey,Kavakkoy,2. Sınıf Araç (Minibüs),110.00
+Gelibolu-kuzey,Kavakkoy,3. Sınıf Araç (Kamyon),130.00
+Gelibolu-kuzey,Kavakkoy,4. Sınıf Araç (TIR),175.00
+Gelibolu-kuzey,Kavakkoy,5. Sınıf Araç (Ağır Yük Kamyonu),220.00
+Gelibolu-kuzey,Kavakkoy,6. Sınıf Araç (Motosiklet),15.00
+Gelibolu-kuzey,Gelibolu-guney,1. Sınıf Araç (Otomobil),60.00
+Gelibolu-kuzey,Gelibolu-guney,2. Sınıf Araç (Minibüs),95.00
+Gelibolu-kuzey,Gelibolu-guney,3. Sınıf Araç (Kamyon),115.00
+Gelibolu-kuzey,Gelibolu-guney,4. Sınıf Araç (TIR),150.00
+Gelibolu-kuzey,Gelibolu-guney,5. Sınıf Araç (Ağır Yük Kamyonu),190.00
+Gelibolu-kuzey,Gelibolu-guney,6. Sınıf Araç (Motosiklet),15.00
+Gelibolu-kuzey,1915canakkale-koprusu,1. Sınıf Araç (Otomobil),850.00
+Gelibolu-kuzey,1915canakkale-koprusu,2. Sınıf Araç (Minibüs),1075.00
+Gelibolu-kuzey,1915canakkale-koprusu,3. Sınıf Araç (Kamyon),1880.00
+Gelibolu-kuzey,1915canakkale-koprusu,4. Sınıf Araç (TIR),2110.00
+Gelibolu-kuzey,1915canakkale-koprusu,5. Sınıf Araç (Ağır Yük Kamyonu),3925.00
+Gelibolu-kuzey,1915canakkale-koprusu,6. Sınıf Araç (Motosiklet),215.00
+Gelibolu-guney,Malkara,1. Sınıf Araç (Otomobil),215.00
+Gelibolu-guney,Malkara,2. Sınıf Araç (Minibüs),345.00
+Gelibolu-guney,Malkara,3. Sınıf Araç (Kamyon),410.00
+Gelibolu-guney,Malkara,4. Sınıf Araç (TIR),545.00
+Gelibolu-guney,Malkara,5. Sınıf Araç (Ağır Yük Kamyonu),690.00
+Gelibolu-guney,Malkara,6. Sınıf Araç (Motosiklet),55.00
+Gelibolu-guney,Kavakkoy,1. Sınıf Araç (Otomobil),110.00
+Gelibolu-guney,Kavakkoy,2. Sınıf Araç (Minibüs),180.00
+Gelibolu-guney,Kavakkoy,3. Sınıf Araç (Kamyon),215.00
+Gelibolu-guney,Kavakkoy,4. Sınıf Araç (TIR),285.00
+Gelibolu-guney,Kavakkoy,5. Sınıf Araç (Ağır Yük Kamyonu),355.00
+Gelibolu-guney,Kavakkoy,6. Sınıf Araç (Motosiklet),30.00
+Gelibolu-guney,Gelibolu-kuzey,1. Sınıf Araç (Otomobil),60.00
+Gelibolu-guney,Gelibolu-kuzey,2. Sınıf Araç (Minibüs),95.00
+Gelibolu-guney,Gelibolu-kuzey,3. Sınıf Araç (Kamyon),115.00
+Gelibolu-guney,Gelibolu-kuzey,4. Sınıf Araç (TIR),150.00
+Gelibolu-guney,Gelibolu-kuzey,5. Sınıf Araç (Ağır Yük Kamyonu),190.00
+Gelibolu-guney,Gelibolu-kuzey,6. Sınıf Araç (Motosiklet),15.00
+Gelibolu-guney,1915canakkale-koprusu,1. Sınıf Araç (Otomobil),795.00
+Gelibolu-guney,1915canakkale-koprusu,2. Sınıf Araç (Minibüs),990.00
+Gelibolu-guney,1915canakkale-koprusu,3. Sınıf Araç (Kamyon),1780.00
+Gelibolu-guney,1915canakkale-koprusu,4. Sınıf Araç (TIR),1975.00
+Gelibolu-guney,1915canakkale-koprusu,5. Sınıf Araç (Ağır Yük Kamyonu),3755.00
+Gelibolu-guney,1915canakkale-koprusu,6. Sınıf Araç (Motosiklet),200.00
+1915canakkale-koprusu,Malkara,1. Sınıf Araç (Otomobil),1005.00
+1915canakkale-koprusu,Malkara,2. Sınıf Araç (Minibüs),1325.00
+1915canakkale-koprusu,Malkara,3. Sınıf Araç (Kamyon),2180.00
+1915canakkale-koprusu,Malkara,4. Sınıf Araç (TIR),2505.00
+1915canakkale-koprusu,Malkara,5. Sınıf Araç (Ağır Yük Kamyonu),4420.00
+1915canakkale-koprusu,Malkara,6. Sınıf Araç (Motosiklet),250.00
+1915canakkale-koprusu,Kavakkoy,1. Sınıf Araç (Otomobil),900.00
+1915canakkale-koprusu,Kavakkoy,2. Sınıf Araç (Minibüs),1160.00
+1915canakkale-koprusu,Kavakkoy,3. Sınıf Araç (Kamyon),1980.00
+1915canakkale-koprusu,Kavakkoy,4. Sınıf Araç (TIR),2240.00
+1915canakkale-koprusu,Kavakkoy,5. Sınıf Araç (Ağır Yük Kamyonu),4090.00
+1915canakkale-koprusu,Kavakkoy,6. Sınıf Araç (Motosiklet),225.00
+1915canakkale-koprusu,Gelibolu-kuzey,1. Sınıf Araç (Otomobil),850.00
+1915canakkale-koprusu,Gelibolu-kuzey,2. Sınıf Araç (Minibüs),1075.00
+1915canakkale-koprusu,Gelibolu-kuzey,3. Sınıf Araç (Kamyon),1880.00
+1915canakkale-koprusu,Gelibolu-kuzey,4. Sınıf Araç (TIR),2110.00
+1915canakkale-koprusu,Gelibolu-kuzey,5. Sınıf Araç (Ağır Yük Kamyonu),3925.00
+1915canakkale-koprusu,Gelibolu-kuzey,6. Sınıf Araç (Motosiklet),215.00
+1915canakkale-koprusu,Gelibolu-guney,1. Sınıf Araç (Otomobil),795.00
+1915canakkale-koprusu,Gelibolu-guney,2. Sınıf Araç (Minibüs),990.00
+1915canakkale-koprusu,Gelibolu-guney,3. Sınıf Araç (Kamyon),1780.00
+1915canakkale-koprusu,Gelibolu-guney,4. Sınıf Araç (TIR),1975.00
+1915canakkale-koprusu,Gelibolu-guney,5. Sınıf Araç (Ağır Yük Kamyonu),3755.00
+1915canakkale-koprusu,Gelibolu-guney,6. Sınıf Araç (Motosiklet),200.00

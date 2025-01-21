@@ -1,0 +1,253 @@
+Giriş Noktası,Çıkış Noktası,Araç Sınıfı,Geçiş Ücreti
+MENEMEN,ESKİFOÇA,1. Sınıf Araç (Otomobil),65.00
+MENEMEN,ESKİFOÇA,2. Sınıf Araç (Minibüs),105.00
+MENEMEN,ESKİFOÇA,3. Sınıf Araç (Kamyon),120.00
+MENEMEN,ESKİFOÇA,4. Sınıf Araç (TIR),160.00
+MENEMEN,ESKİFOÇA,5. Sınıf Araç (Kamyon Treyler),205.00
+MENEMEN,ESKİFOÇA,6. Sınıf Araç (Motosiklet),15.00
+MENEMEN,YENİFOÇA,1. Sınıf Araç (Otomobil),80.00
+MENEMEN,YENİFOÇA,2. Sınıf Araç (Minibüs),130.00
+MENEMEN,YENİFOÇA,3. Sınıf Araç (Kamyon),155.00
+MENEMEN,YENİFOÇA,4. Sınıf Araç (TIR),205.00
+MENEMEN,YENİFOÇA,5. Sınıf Araç (Kamyon Treyler),260.00
+MENEMEN,YENİFOÇA,6. Sınıf Araç (Motosiklet),20.00
+MENEMEN,ALİAĞA PETKİM,1. Sınıf Araç (Otomobil),95.00
+MENEMEN,ALİAĞA PETKİM,2. Sınıf Araç (Minibüs),150.00
+MENEMEN,ALİAĞA PETKİM,3. Sınıf Araç (Kamyon),175.00
+MENEMEN,ALİAĞA PETKİM,4. Sınıf Araç (TIR),235.00
+MENEMEN,ALİAĞA PETKİM,5. Sınıf Araç (Kamyon Treyler),295.00
+MENEMEN,ALİAĞA PETKİM,6. Sınıf Araç (Motosiklet),25.00
+MENEMEN,ALİAĞA OSB,1. Sınıf Araç (Otomobil),110.00
+MENEMEN,ALİAĞA OSB,2. Sınıf Araç (Minibüs),175.00
+MENEMEN,ALİAĞA OSB,3. Sınıf Araç (Kamyon),210.00
+MENEMEN,ALİAĞA OSB,4. Sınıf Araç (TIR),280.00
+MENEMEN,ALİAĞA OSB,5. Sınıf Araç (Kamyon Treyler),350.00
+MENEMEN,ALİAĞA OSB,6. Sınıf Araç (Motosiklet),30.00
+MENEMEN,YENİŞAKRAN,1. Sınıf Araç (Otomobil),140.00
+MENEMEN,YENİŞAKRAN,2. Sınıf Araç (Minibüs),225.00
+MENEMEN,YENİŞAKRAN,3. Sınıf Araç (Kamyon),265.00
+MENEMEN,YENİŞAKRAN,4. Sınıf Araç (TIR),350.00
+MENEMEN,YENİŞAKRAN,5. Sınıf Araç (Kamyon Treyler),445.00
+MENEMEN,YENİŞAKRAN,6. Sınıf Araç (Motosiklet),35.00
+MENEMEN,ÇANDARLI LİMAN,1. Sınıf Araç (Otomobil),165.00
+MENEMEN,ÇANDARLI LİMAN,2. Sınıf Araç (Minibüs),270.00
+MENEMEN,ÇANDARLI LİMAN,3. Sınıf Araç (Kamyon),320.00
+MENEMEN,ÇANDARLI LİMAN,4. Sınıf Araç (TIR),420.00
+MENEMEN,ÇANDARLI LİMAN,5. Sınıf Araç (Kamyon Treyler),530.00
+MENEMEN,ÇANDARLI LİMAN,6. Sınıf Araç (Motosiklet),40.00
+ESKİFOÇA,MENEMEN,1. Sınıf Araç (Otomobil),65.00
+ESKİFOÇA,MENEMEN,2. Sınıf Araç (Minibüs),105.00
+ESKİFOÇA,MENEMEN,3. Sınıf Araç (Kamyon),120.00
+ESKİFOÇA,MENEMEN,4. Sınıf Araç (TIR),160.00
+ESKİFOÇA,MENEMEN,5. Sınıf Araç (Kamyon Treyler),205.00
+ESKİFOÇA,MENEMEN,6. Sınıf Araç (Motosiklet),15.00
+ESKİFOÇA,YENİFOÇA,1. Sınıf Araç (Otomobil),40.00
+ESKİFOÇA,YENİFOÇA,2. Sınıf Araç (Minibüs),65.00
+ESKİFOÇA,YENİFOÇA,3. Sınıf Araç (Kamyon),80.00
+ESKİFOÇA,YENİFOÇA,4. Sınıf Araç (TIR),105.00
+ESKİFOÇA,YENİFOÇA,5. Sınıf Araç (Kamyon Treyler),135.00
+ESKİFOÇA,YENİFOÇA,6. Sınıf Araç (Motosiklet),10.00
+ESKİFOÇA,ALİAĞA PETKİM,1. Sınıf Araç (Otomobil),55.00
+ESKİFOÇA,ALİAĞA PETKİM,2. Sınıf Araç (Minibüs),85.00
+ESKİFOÇA,ALİAĞA PETKİM,3. Sınıf Araç (Kamyon),100.00
+ESKİFOÇA,ALİAĞA PETKİM,4. Sınıf Araç (TIR),135.00
+ESKİFOÇA,ALİAĞA PETKİM,5. Sınıf Araç (Kamyon Treyler),170.00
+ESKİFOÇA,ALİAĞA PETKİM,6. Sınıf Araç (Motosiklet),15.00
+ESKİFOÇA,ALİAĞA OSB,1. Sınıf Araç (Otomobil),70.00
+ESKİFOÇA,ALİAĞA OSB,2. Sınıf Araç (Minibüs),115.00
+ESKİFOÇA,ALİAĞA OSB,3. Sınıf Araç (Kamyon),135.00
+ESKİFOÇA,ALİAĞA OSB,4. Sınıf Araç (TIR),180.00
+ESKİFOÇA,ALİAĞA OSB,5. Sınıf Araç (Kamyon Treyler),225.00
+ESKİFOÇA,ALİAĞA OSB,6. Sınıf Araç (Motosiklet),20.00
+ESKİFOÇA,YENİŞAKRAN,1. Sınıf Araç (Otomobil),100.00
+ESKİFOÇA,YENİŞAKRAN,2. Sınıf Araç (Minibüs),160.00
+ESKİFOÇA,YENİŞAKRAN,3. Sınıf Araç (Kamyon),190.00
+ESKİFOÇA,YENİŞAKRAN,4. Sınıf Araç (TIR),250.00
+ESKİFOÇA,YENİŞAKRAN,5. Sınıf Araç (Kamyon Treyler),320.00
+ESKİFOÇA,YENİŞAKRAN,6. Sınıf Araç (Motosiklet),25.00
+ESKİFOÇA,ÇANDARLI LİMAN,1. Sınıf Araç (Otomobil),130.00
+ESKİFOÇA,ÇANDARLI LİMAN,2. Sınıf Araç (Minibüs),205.00
+ESKİFOÇA,ÇANDARLI LİMAN,3. Sınıf Araç (Kamyon),245.00
+ESKİFOÇA,ÇANDARLI LİMAN,4. Sınıf Araç (TIR),325.00
+ESKİFOÇA,ÇANDARLI LİMAN,5. Sınıf Araç (Kamyon Treyler),405.00
+ESKİFOÇA,ÇANDARLI LİMAN,6. Sınıf Araç (Motosiklet),30.00
+YENİFOÇA,MENEMEN,1. Sınıf Araç (Otomobil),80.00
+YENİFOÇA,MENEMEN,2. Sınıf Araç (Minibüs),130.00
+YENİFOÇA,MENEMEN,3. Sınıf Araç (Kamyon),155.00
+YENİFOÇA,MENEMEN,4. Sınıf Araç (TIR),205.00
+YENİFOÇA,MENEMEN,5. Sınıf Araç (Kamyon Treyler),260.00
+YENİFOÇA,MENEMEN,6. Sınıf Araç (Motosiklet),20.00
+YENİFOÇA,ESKİFOÇA,1. Sınıf Araç (Otomobil),40.00
+YENİFOÇA,ESKİFOÇA,2. Sınıf Araç (Minibüs),65.00
+YENİFOÇA,ESKİFOÇA,3. Sınıf Araç (Kamyon),80.00
+YENİFOÇA,ESKİFOÇA,4. Sınıf Araç (TIR),105.00
+YENİFOÇA,ESKİFOÇA,5. Sınıf Araç (Kamyon Treyler),135.00
+YENİFOÇA,ESKİFOÇA,6. Sınıf Araç (Motosiklet),10.00
+YENİFOÇA,ALİAĞA PETKİM,1. Sınıf Araç (Otomobil),40.00
+YENİFOÇA,ALİAĞA PETKİM,2. Sınıf Araç (Minibüs),70.00
+YENİFOÇA,ALİAĞA PETKİM,3. Sınıf Araç (Kamyon),80.00
+YENİFOÇA,ALİAĞA PETKİM,4. Sınıf Araç (TIR),105.00
+YENİFOÇA,ALİAĞA PETKİM,5. Sınıf Araç (Kamyon Treyler),135.00
+YENİFOÇA,ALİAĞA PETKİM,6. Sınıf Araç (Motosiklet),10.00
+YENİFOÇA,ALİAĞA OSB,1. Sınıf Araç (Otomobil),60.00
+YENİFOÇA,ALİAĞA OSB,2. Sınıf Araç (Minibüs),95.00
+YENİFOÇA,ALİAĞA OSB,3. Sınıf Araç (Kamyon),115.00
+YENİFOÇA,ALİAĞA OSB,4. Sınıf Araç (TIR),150.00
+YENİFOÇA,ALİAĞA OSB,5. Sınıf Araç (Kamyon Treyler),190.00
+YENİFOÇA,ALİAĞA OSB,6. Sınıf Araç (Motosiklet),15.00
+YENİFOÇA,YENİŞAKRAN,1. Sınıf Araç (Otomobil),90.00
+YENİFOÇA,YENİŞAKRAN,2. Sınıf Araç (Minibüs),140.00
+YENİFOÇA,YENİŞAKRAN,3. Sınıf Araç (Kamyon),170.00
+YENİFOÇA,YENİŞAKRAN,4. Sınıf Araç (TIR),225.00
+YENİFOÇA,YENİŞAKRAN,5. Sınıf Araç (Kamyon Treyler),285.00
+YENİFOÇA,YENİŞAKRAN,6. Sınıf Araç (Motosiklet),20.00
+YENİFOÇA,ÇANDARLI LİMAN,1. Sınıf Araç (Otomobil),115.00
+YENİFOÇA,ÇANDARLI LİMAN,2. Sınıf Araç (Minibüs),185.00
+YENİFOÇA,ÇANDARLI LİMAN,3. Sınıf Araç (Kamyon),220.00
+YENİFOÇA,ÇANDARLI LİMAN,4. Sınıf Araç (TIR),295.00
+YENİFOÇA,ÇANDARLI LİMAN,5. Sınıf Araç (Kamyon Treyler),370.00
+YENİFOÇA,ÇANDARLI LİMAN,6. Sınıf Araç (Motosiklet),30.00
+ALİAĞA PETKİM,MENEMEN,1. Sınıf Araç (Otomobil),95.00
+ALİAĞA PETKİM,MENEMEN,2. Sınıf Araç (Minibüs),150.00
+ALİAĞA PETKİM,MENEMEN,3. Sınıf Araç (Kamyon),175.00
+ALİAĞA PETKİM,MENEMEN,4. Sınıf Araç (TIR),235.00
+ALİAĞA PETKİM,MENEMEN,5. Sınıf Araç (Kamyon Treyler),295.00
+ALİAĞA PETKİM,MENEMEN,6. Sınıf Araç (Motosiklet),25.00
+ALİAĞA PETKİM,ESKİFOÇA,1. Sınıf Araç (Otomobil),55.00
+ALİAĞA PETKİM,ESKİFOÇA,2. Sınıf Araç (Minibüs),85.00
+ALİAĞA PETKİM,ESKİFOÇA,3. Sınıf Araç (Kamyon),100.00
+ALİAĞA PETKİM,ESKİFOÇA,4. Sınıf Araç (TIR),135.00
+ALİAĞA PETKİM,ESKİFOÇA,5. Sınıf Araç (Kamyon Treyler),170.00
+ALİAĞA PETKİM,ESKİFOÇA,6. Sınıf Araç (Motosiklet),15.00
+ALİAĞA PETKİM,YENİFOÇA,1. Sınıf Araç (Otomobil),40.00
+ALİAĞA PETKİM,YENİFOÇA,2. Sınıf Araç (Minibüs),70.00
+ALİAĞA PETKİM,YENİFOÇA,3. Sınıf Araç (Kamyon),80.00
+ALİAĞA PETKİM,YENİFOÇA,4. Sınıf Araç (TIR),105.00
+ALİAĞA PETKİM,YENİFOÇA,5. Sınıf Araç (Kamyon Treyler),135.00
+ALİAĞA PETKİM,YENİFOÇA,6. Sınıf Araç (Motosiklet),10.00
+ALİAĞA PETKİM,ALİAĞA OSB,1. Sınıf Araç (Otomobil),40.00
+ALİAĞA PETKİM,ALİAĞA OSB,2. Sınıf Araç (Minibüs),65.00
+ALİAĞA PETKİM,ALİAĞA OSB,3. Sınıf Araç (Kamyon),75.00
+ALİAĞA PETKİM,ALİAĞA OSB,4. Sınıf Araç (TIR),100.00
+ALİAĞA PETKİM,ALİAĞA OSB,5. Sınıf Araç (Kamyon Treyler),125.00
+ALİAĞA PETKİM,ALİAĞA OSB,6. Sınıf Araç (Motosiklet),10.00
+ALİAĞA PETKİM,YENİŞAKRAN,1. Sınıf Araç (Otomobil),70.00
+ALİAĞA PETKİM,YENİŞAKRAN,2. Sınıf Araç (Minibüs),110.00
+ALİAĞA PETKİM,YENİŞAKRAN,3. Sınıf Araç (Kamyon),130.00
+ALİAĞA PETKİM,YENİŞAKRAN,4. Sınıf Araç (TIR),170.00
+ALİAĞA PETKİM,YENİŞAKRAN,5. Sınıf Araç (Kamyon Treyler),215.00
+ALİAĞA PETKİM,YENİŞAKRAN,6. Sınıf Araç (Motosiklet),15.00
+ALİAĞA PETKİM,ÇANDARLI LİMAN,1. Sınıf Araç (Otomobil),95.00
+ALİAĞA PETKİM,ÇANDARLI LİMAN,2. Sınıf Araç (Minibüs),155.00
+ALİAĞA PETKİM,ÇANDARLI LİMAN,3. Sınıf Araç (Kamyon),185.00
+ALİAĞA PETKİM,ÇANDARLI LİMAN,4. Sınıf Araç (TIR),240.00
+ALİAĞA PETKİM,ÇANDARLI LİMAN,5. Sınıf Araç (Kamyon Treyler),305.00
+ALİAĞA PETKİM,ÇANDARLI LİMAN,6. Sınıf Araç (Motosiklet),25.00
+ALİAĞA OSB,MENEMEN,1. Sınıf Araç (Otomobil),110.00
+ALİAĞA OSB,MENEMEN,2. Sınıf Araç (Minibüs),175.00
+ALİAĞA OSB,MENEMEN,3. Sınıf Araç (Kamyon),210.00
+ALİAĞA OSB,MENEMEN,4. Sınıf Araç (TIR),280.00
+ALİAĞA OSB,MENEMEN,5. Sınıf Araç (Kamyon Treyler),350.00
+ALİAĞA OSB,MENEMEN,6. Sınıf Araç (Motosiklet),30.00
+ALİAĞA OSB,ESKİFOÇA,1. Sınıf Araç (Otomobil),70.00
+ALİAĞA OSB,ESKİFOÇA,2. Sınıf Araç (Minibüs),115.00
+ALİAĞA OSB,ESKİFOÇA,3. Sınıf Araç (Kamyon),135.00
+ALİAĞA OSB,ESKİFOÇA,4. Sınıf Araç (TIR),180.00
+ALİAĞA OSB,ESKİFOÇA,5. Sınıf Araç (Kamyon Treyler),225.00
+ALİAĞA OSB,ESKİFOÇA,6. Sınıf Araç (Motosiklet),20.00
+ALİAĞA OSB,YENİFOÇA,1. Sınıf Araç (Otomobil),60.00
+ALİAĞA OSB,YENİFOÇA,2. Sınıf Araç (Minibüs),95.00
+ALİAĞA OSB,YENİFOÇA,3. Sınıf Araç (Kamyon),115.00
+ALİAĞA OSB,YENİFOÇA,4. Sınıf Araç (TIR),150.00
+ALİAĞA OSB,YENİFOÇA,5. Sınıf Araç (Kamyon Treyler),190.00
+ALİAĞA OSB,YENİFOÇA,6. Sınıf Araç (Motosiklet),15.00
+ALİAĞA OSB,ALİAĞA PETKİM,1. Sınıf Araç (Otomobil),40.00
+ALİAĞA OSB,ALİAĞA PETKİM,2. Sınıf Araç (Minibüs),65.00
+ALİAĞA OSB,ALİAĞA PETKİM,3. Sınıf Araç (Kamyon),75.00
+ALİAĞA OSB,ALİAĞA PETKİM,4. Sınıf Araç (TIR),100.00
+ALİAĞA OSB,ALİAĞA PETKİM,5. Sınıf Araç (Kamyon Treyler),125.00
+ALİAĞA OSB,ALİAĞA PETKİM,6. Sınıf Araç (Motosiklet),10.00
+ALİAĞA OSB,YENİŞAKRAN,1. Sınıf Araç (Otomobil),60.00
+ALİAĞA OSB,YENİŞAKRAN,2. Sınıf Araç (Minibüs),100.00
+ALİAĞA OSB,YENİŞAKRAN,3. Sınıf Araç (Kamyon),115.00
+ALİAĞA OSB,YENİŞAKRAN,4. Sınıf Araç (TIR),155.00
+ALİAĞA OSB,YENİŞAKRAN,5. Sınıf Araç (Kamyon Treyler),195.00
+ALİAĞA OSB,YENİŞAKRAN,6. Sınıf Araç (Motosiklet),15.00
+ALİAĞA OSB,ÇANDARLI LİMAN,1. Sınıf Araç (Otomobil),90.00
+ALİAĞA OSB,ÇANDARLI LİMAN,2. Sınıf Araç (Minibüs),145.00
+ALİAĞA OSB,ÇANDARLI LİMAN,3. Sınıf Araç (Kamyon),170.00
+ALİAĞA OSB,ÇANDARLI LİMAN,4. Sınıf Araç (TIR),225.00
+ALİAĞA OSB,ÇANDARLI LİMAN,5. Sınıf Araç (Kamyon Treyler),285.00
+ALİAĞA OSB,ÇANDARLI LİMAN,6. Sınıf Araç (Motosiklet),20.00
+YENİŞAKRAN,MENEMEN,1. Sınıf Araç (Otomobil),140.00
+YENİŞAKRAN,MENEMEN,2. Sınıf Araç (Minibüs),225.00
+YENİŞAKRAN,MENEMEN,3. Sınıf Araç (Kamyon),265.00
+YENİŞAKRAN,MENEMEN,4. Sınıf Araç (TIR),350.00
+YENİŞAKRAN,MENEMEN,5. Sınıf Araç (Kamyon Treyler),445.00
+YENİŞAKRAN,MENEMEN,6. Sınıf Araç (Motosiklet),35.00
+YENİŞAKRAN,ESKİFOÇA,1. Sınıf Araç (Otomobil),100.00
+YENİŞAKRAN,ESKİFOÇA,2. Sınıf Araç (Minibüs),160.00
+YENİŞAKRAN,ESKİFOÇA,3. Sınıf Araç (Kamyon),190.00
+YENİŞAKRAN,ESKİFOÇA,4. Sınıf Araç (TIR),250.00
+YENİŞAKRAN,ESKİFOÇA,5. Sınıf Araç (Kamyon Treyler),320.00
+YENİŞAKRAN,ESKİFOÇA,6. Sınıf Araç (Motosiklet),25.00
+YENİŞAKRAN,YENİFOÇA,1. Sınıf Araç (Otomobil),90.00
+YENİŞAKRAN,YENİFOÇA,2. Sınıf Araç (Minibüs),140.00
+YENİŞAKRAN,YENİFOÇA,3. Sınıf Araç (Kamyon),170.00
+YENİŞAKRAN,YENİFOÇA,4. Sınıf Araç (TIR),225.00
+YENİŞAKRAN,YENİFOÇA,5. Sınıf Araç (Kamyon Treyler),285.00
+YENİŞAKRAN,YENİFOÇA,6. Sınıf Araç (Motosiklet),20.00
+YENİŞAKRAN,ALİAĞA PETKİM,1. Sınıf Araç (Otomobil),70.00
+YENİŞAKRAN,ALİAĞA PETKİM,2. Sınıf Araç (Minibüs),110.00
+YENİŞAKRAN,ALİAĞA PETKİM,3. Sınıf Araç (Kamyon),130.00
+YENİŞAKRAN,ALİAĞA PETKİM,4. Sınıf Araç (TIR),170.00
+YENİŞAKRAN,ALİAĞA PETKİM,5. Sınıf Araç (Kamyon Treyler),215.00
+YENİŞAKRAN,ALİAĞA PETKİM,6. Sınıf Araç (Motosiklet),15.00
+YENİŞAKRAN,ALİAĞA OSB,1. Sınıf Araç (Otomobil),60.00
+YENİŞAKRAN,ALİAĞA OSB,2. Sınıf Araç (Minibüs),100.00
+YENİŞAKRAN,ALİAĞA OSB,3. Sınıf Araç (Kamyon),115.00
+YENİŞAKRAN,ALİAĞA OSB,4. Sınıf Araç (TIR),155.00
+YENİŞAKRAN,ALİAĞA OSB,5. Sınıf Araç (Kamyon Treyler),195.00
+YENİŞAKRAN,ALİAĞA OSB,6. Sınıf Araç (Motosiklet),15.00
+YENİŞAKRAN,ÇANDARLI LİMAN,1. Sınıf Araç (Otomobil),40.00
+YENİŞAKRAN,ÇANDARLI LİMAN,2. Sınıf Araç (Minibüs),65.00
+YENİŞAKRAN,ÇANDARLI LİMAN,3. Sınıf Araç (Kamyon),80.00
+YENİŞAKRAN,ÇANDARLI LİMAN,4. Sınıf Araç (TIR),105.00
+YENİŞAKRAN,ÇANDARLI LİMAN,5. Sınıf Araç (Kamyon Treyler),135.00
+YENİŞAKRAN,ÇANDARLI LİMAN,6. Sınıf Araç (Motosiklet),10.00
+ÇANDARLI LİMAN,MENEMEN,1. Sınıf Araç (Otomobil),165.00
+ÇANDARLI LİMAN,MENEMEN,2. Sınıf Araç (Minibüs),270.00
+ÇANDARLI LİMAN,MENEMEN,3. Sınıf Araç (Kamyon),320.00
+ÇANDARLI LİMAN,MENEMEN,4. Sınıf Araç (TIR),420.00
+ÇANDARLI LİMAN,MENEMEN,5. Sınıf Araç (Kamyon Treyler),530.00
+ÇANDARLI LİMAN,MENEMEN,6. Sınıf Araç (Motosiklet),40.00
+ÇANDARLI LİMAN,ESKİFOÇA,1. Sınıf Araç (Otomobil),130.00
+ÇANDARLI LİMAN,ESKİFOÇA,2. Sınıf Araç (Minibüs),205.00
+ÇANDARLI LİMAN,ESKİFOÇA,3. Sınıf Araç (Kamyon),245.00
+ÇANDARLI LİMAN,ESKİFOÇA,4. Sınıf Araç (TIR),325.00
+ÇANDARLI LİMAN,ESKİFOÇA,5. Sınıf Araç (Kamyon Treyler),405.00
+ÇANDARLI LİMAN,ESKİFOÇA,6. Sınıf Araç (Motosiklet),30.00
+ÇANDARLI LİMAN,YENİFOÇA,1. Sınıf Araç (Otomobil),115.00
+ÇANDARLI LİMAN,YENİFOÇA,2. Sınıf Araç (Minibüs),185.00
+ÇANDARLI LİMAN,YENİFOÇA,3. Sınıf Araç (Kamyon),220.00
+ÇANDARLI LİMAN,YENİFOÇA,4. Sınıf Araç (TIR),295.00
+ÇANDARLI LİMAN,YENİFOÇA,5. Sınıf Araç (Kamyon Treyler),370.00
+ÇANDARLI LİMAN,YENİFOÇA,6. Sınıf Araç (Motosiklet),30.00
+ÇANDARLI LİMAN,ALİAĞA PETKİM,1. Sınıf Araç (Otomobil),95.00
+ÇANDARLI LİMAN,ALİAĞA PETKİM,2. Sınıf Araç (Minibüs),155.00
+ÇANDARLI LİMAN,ALİAĞA PETKİM,3. Sınıf Araç (Kamyon),185.00
+ÇANDARLI LİMAN,ALİAĞA PETKİM,4. Sınıf Araç (TIR),240.00
+ÇANDARLI LİMAN,ALİAĞA PETKİM,5. Sınıf Araç (Kamyon Treyler),305.00
+ÇANDARLI LİMAN,ALİAĞA PETKİM,6. Sınıf Araç (Motosiklet),25.00
+ÇANDARLI LİMAN,ALİAĞA OSB,1. Sınıf Araç (Otomobil),90.00
+ÇANDARLI LİMAN,ALİAĞA OSB,2. Sınıf Araç (Minibüs),145.00
+ÇANDARLI LİMAN,ALİAĞA OSB,3. Sınıf Araç (Kamyon),170.00
+ÇANDARLI LİMAN,ALİAĞA OSB,4. Sınıf Araç (TIR),225.00
+ÇANDARLI LİMAN,ALİAĞA OSB,5. Sınıf Araç (Kamyon Treyler),285.00
+ÇANDARLI LİMAN,ALİAĞA OSB,6. Sınıf Araç (Motosiklet),20.00
+ÇANDARLI LİMAN,YENİŞAKRAN,1. Sınıf Araç (Otomobil),40.00
+ÇANDARLI LİMAN,YENİŞAKRAN,2. Sınıf Araç (Minibüs),65.00
+ÇANDARLI LİMAN,YENİŞAKRAN,3. Sınıf Araç (Kamyon),80.00
+ÇANDARLI LİMAN,YENİŞAKRAN,4. Sınıf Araç (TIR),105.00
+ÇANDARLI LİMAN,YENİŞAKRAN,5. Sınıf Araç (Kamyon Treyler),135.00
+ÇANDARLI LİMAN,YENİŞAKRAN,6. Sınıf Araç (Motosiklet),10.00

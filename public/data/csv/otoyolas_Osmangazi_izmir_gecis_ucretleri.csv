@@ -1,0 +1,2277 @@
+Giriş Noktası,Çıkış Noktası,Araç Sınıfı,Geçiş Ücreti
+Osmangazi Köprüsü(İzmir Yönü),Altınova,1. Sınıf,"840,00"
+Osmangazi Köprüsü(İzmir Yönü),Altınova,2. Sınıf,"1340,00"
+Osmangazi Köprüsü(İzmir Yönü),Altınova,3. Sınıf,"1580,00"
+Osmangazi Köprüsü(İzmir Yönü),Altınova,4. Sınıf,"2085,00"
+Osmangazi Köprüsü(İzmir Yönü),Altınova,5. Sınıf,"2640,00"
+Osmangazi Köprüsü(İzmir Yönü),Altınova,6. Sınıf,"600,00"
+Osmangazi Köprüsü(İzmir Yönü),Kılıç,1. Sınıf,"865,00"
+Osmangazi Köprüsü(İzmir Yönü),Kılıç,2. Sınıf,"1380,00"
+Osmangazi Köprüsü(İzmir Yönü),Kılıç,3. Sınıf,"1640,00"
+Osmangazi Köprüsü(İzmir Yönü),Kılıç,4. Sınıf,"2180,00"
+Osmangazi Köprüsü(İzmir Yönü),Kılıç,5. Sınıf,"2740,00"
+Osmangazi Köprüsü(İzmir Yönü),Kılıç,6. Sınıf,"625,00"
+Osmangazi Köprüsü(İzmir Yönü),Orhangazi,1. Sınıf,"905,00"
+Osmangazi Köprüsü(İzmir Yönü),Orhangazi,2. Sınıf,"1470,00"
+Osmangazi Köprüsü(İzmir Yönü),Orhangazi,3. Sınıf,"1720,00"
+Osmangazi Köprüsü(İzmir Yönü),Orhangazi,4. Sınıf,"2285,00"
+Osmangazi Köprüsü(İzmir Yönü),Orhangazi,5. Sınıf,"2860,00"
+Osmangazi Köprüsü(İzmir Yönü),Orhangazi,6. Sınıf,"635,00"
+Osmangazi Köprüsü(İzmir Yönü),Gemlik,1. Sınıf,"945,00"
+Osmangazi Köprüsü(İzmir Yönü),Gemlik,2. Sınıf,"1505,00"
+Osmangazi Köprüsü(İzmir Yönü),Gemlik,3. Sınıf,"1790,00"
+Osmangazi Köprüsü(İzmir Yönü),Gemlik,4. Sınıf,"2365,00"
+Osmangazi Köprüsü(İzmir Yönü),Gemlik,5. Sınıf,"2990,00"
+Osmangazi Köprüsü(İzmir Yönü),Gemlik,6. Sınıf,"665,00"
+Osmangazi Köprüsü(İzmir Yönü),Bursa Serbest Bölge,1. Sınıf,"970,00"
+Osmangazi Köprüsü(İzmir Yönü),Bursa Serbest Bölge,2. Sınıf,"1550,00"
+Osmangazi Köprüsü(İzmir Yönü),Bursa Serbest Bölge,3. Sınıf,"1835,00"
+Osmangazi Köprüsü(İzmir Yönü),Bursa Serbest Bölge,4. Sınıf,"2430,00"
+Osmangazi Köprüsü(İzmir Yönü),Bursa Serbest Bölge,5. Sınıf,"3065,00"
+Osmangazi Köprüsü(İzmir Yönü),Bursa Serbest Bölge,6. Sınıf,"685,00"
+Osmangazi Köprüsü(İzmir Yönü),Bursa Kuzey,1. Sınıf,"1045,00"
+Osmangazi Köprüsü(İzmir Yönü),Bursa Kuzey,2. Sınıf,"1695,00"
+Osmangazi Köprüsü(İzmir Yönü),Bursa Kuzey,3. Sınıf,"2000,00"
+Osmangazi Köprüsü(İzmir Yönü),Bursa Kuzey,4. Sınıf,"2665,00"
+Osmangazi Köprüsü(İzmir Yönü),Bursa Kuzey,5. Sınıf,"3350,00"
+Osmangazi Köprüsü(İzmir Yönü),Bursa Kuzey,6. Sınıf,"755,00"
+Osmangazi Köprüsü(İzmir Yönü),Teknosab,1. Sınıf,"1125,00"
+Osmangazi Köprüsü(İzmir Yönü),Teknosab,2. Sınıf,"1825,00"
+Osmangazi Köprüsü(İzmir Yönü),Teknosab,3. Sınıf,"2150,00"
+Osmangazi Köprüsü(İzmir Yönü),Teknosab,4. Sınıf,"2875,00"
+Osmangazi Köprüsü(İzmir Yönü),Teknosab,5. Sınıf,"3600,00"
+Osmangazi Köprüsü(İzmir Yönü),Teknosab,6. Sınıf,"825,00"
+Osmangazi Köprüsü(İzmir Yönü),Karacabey-Mustafakemalpaşa-1,1. Sınıf,"1220,00"
+Osmangazi Köprüsü(İzmir Yönü),Karacabey-Mustafakemalpaşa-1,2. Sınıf,"1945,00"
+Osmangazi Köprüsü(İzmir Yönü),Karacabey-Mustafakemalpaşa-1,3. Sınıf,"2290,00"
+Osmangazi Köprüsü(İzmir Yönü),Karacabey-Mustafakemalpaşa-1,4. Sınıf,"3070,00"
+Osmangazi Köprüsü(İzmir Yönü),Karacabey-Mustafakemalpaşa-1,5. Sınıf,"3855,00"
+Osmangazi Köprüsü(İzmir Yönü),Karacabey-Mustafakemalpaşa-1,6. Sınıf,"885,00"
+Osmangazi Köprüsü(İzmir Yönü),Susurluk,1. Sınıf,"1295,00"
+Osmangazi Köprüsü(İzmir Yönü),Susurluk,2. Sınıf,"2100,00"
+Osmangazi Köprüsü(İzmir Yönü),Susurluk,3. Sınıf,"2490,00"
+Osmangazi Köprüsü(İzmir Yönü),Susurluk,4. Sınıf,"3300,00"
+Osmangazi Köprüsü(İzmir Yönü),Susurluk,5. Sınıf,"4155,00"
+Osmangazi Köprüsü(İzmir Yönü),Susurluk,6. Sınıf,"955,00"
+Osmangazi Köprüsü(İzmir Yönü),Balıkesir Kuzey,1. Sınıf,"1375,00"
+Osmangazi Köprüsü(İzmir Yönü),Balıkesir Kuzey,2. Sınıf,"2230,00"
+Osmangazi Köprüsü(İzmir Yönü),Balıkesir Kuzey,3. Sınıf,"2635,00"
+Osmangazi Köprüsü(İzmir Yönü),Balıkesir Kuzey,4. Sınıf,"3505,00"
+Osmangazi Köprüsü(İzmir Yönü),Balıkesir Kuzey,5. Sınıf,"4400,00"
+Osmangazi Köprüsü(İzmir Yönü),Balıkesir Kuzey,6. Sınıf,"990,00"
+Osmangazi Köprüsü(İzmir Yönü),Balıkesir Batı,1. Sınıf,"1470,00"
+Osmangazi Köprüsü(İzmir Yönü),Balıkesir Batı,2. Sınıf,"2365,00"
+Osmangazi Köprüsü(İzmir Yönü),Balıkesir Batı,3. Sınıf,"2785,00"
+Osmangazi Köprüsü(İzmir Yönü),Balıkesir Batı,4. Sınıf,"3715,00"
+Osmangazi Köprüsü(İzmir Yönü),Balıkesir Batı,5. Sınıf,"4690,00"
+Osmangazi Köprüsü(İzmir Yönü),Balıkesir Batı,6. Sınıf,"1045,00"
+Osmangazi Köprüsü(İzmir Yönü),Savaştepe,1. Sınıf,"1550,00"
+Osmangazi Köprüsü(İzmir Yönü),Savaştepe,2. Sınıf,"2500,00"
+Osmangazi Köprüsü(İzmir Yönü),Savaştepe,3. Sınıf,"2965,00"
+Osmangazi Köprüsü(İzmir Yönü),Savaştepe,4. Sınıf,"3955,00"
+Osmangazi Köprüsü(İzmir Yönü),Savaştepe,5. Sınıf,"4950,00"
+Osmangazi Köprüsü(İzmir Yönü),Savaştepe,6. Sınıf,"1115,00"
+Osmangazi Köprüsü(İzmir Yönü),Soma,1. Sınıf,"1585,00"
+Osmangazi Köprüsü(İzmir Yönü),Soma,2. Sınıf,"2580,00"
+Osmangazi Köprüsü(İzmir Yönü),Soma,3. Sınıf,"3035,00"
+Osmangazi Köprüsü(İzmir Yönü),Soma,4. Sınıf,"4055,00"
+Osmangazi Köprüsü(İzmir Yönü),Soma,5. Sınıf,"5100,00"
+Osmangazi Köprüsü(İzmir Yönü),Soma,6. Sınıf,"1135,00"
+Osmangazi Köprüsü(İzmir Yönü),Kırkağaç,1. Sınıf,"1655,00"
+Osmangazi Köprüsü(İzmir Yönü),Kırkağaç,2. Sınıf,"2690,00"
+Osmangazi Köprüsü(İzmir Yönü),Kırkağaç,3. Sınıf,"3165,00"
+Osmangazi Köprüsü(İzmir Yönü),Kırkağaç,4. Sınıf,"4200,00"
+Osmangazi Köprüsü(İzmir Yönü),Kırkağaç,5. Sınıf,"5285,00"
+Osmangazi Köprüsü(İzmir Yönü),Kırkağaç,6. Sınıf,"1180,00"
+Osmangazi Köprüsü(İzmir Yönü),Akhisar,1. Sınıf,"1715,00"
+Osmangazi Köprüsü(İzmir Yönü),Akhisar,2. Sınıf,"2765,00"
+Osmangazi Köprüsü(İzmir Yönü),Akhisar,3. Sınıf,"3290,00"
+Osmangazi Köprüsü(İzmir Yönü),Akhisar,4. Sınıf,"4370,00"
+Osmangazi Köprüsü(İzmir Yönü),Akhisar,5. Sınıf,"5485,00"
+Osmangazi Köprüsü(İzmir Yönü),Akhisar,6. Sınıf,"1245,00"
+Osmangazi Köprüsü(İzmir Yönü),Saruhanlı,1. Sınıf,"1755,00"
+Osmangazi Köprüsü(İzmir Yönü),Saruhanlı,2. Sınıf,"2860,00"
+Osmangazi Köprüsü(İzmir Yönü),Saruhanlı,3. Sınıf,"3390,00"
+Osmangazi Köprüsü(İzmir Yönü),Saruhanlı,4. Sınıf,"4500,00"
+Osmangazi Köprüsü(İzmir Yönü),Saruhanlı,5. Sınıf,"5660,00"
+Osmangazi Köprüsü(İzmir Yönü),Saruhanlı,6. Sınıf,"1260,00"
+Osmangazi Köprüsü(İzmir Yönü),Turgutlu,1. Sınıf,"1865,00"
+Osmangazi Köprüsü(İzmir Yönü),Turgutlu,2. Sınıf,"3000,00"
+Osmangazi Köprüsü(İzmir Yönü),Turgutlu,3. Sınıf,"3555,00"
+Osmangazi Köprüsü(İzmir Yönü),Turgutlu,4. Sınıf,"4725,00"
+Osmangazi Köprüsü(İzmir Yönü),Turgutlu,5. Sınıf,"5950,00"
+Osmangazi Köprüsü(İzmir Yönü),Turgutlu,6. Sınıf,"1330,00"
+Osmangazi Köprüsü(İzmir Yönü),İzmir,1. Sınıf,"1965,00"
+Osmangazi Köprüsü(İzmir Yönü),İzmir,2. Sınıf,"3165,00"
+Osmangazi Köprüsü(İzmir Yönü),İzmir,3. Sınıf,"3750,00"
+Osmangazi Köprüsü(İzmir Yönü),İzmir,4. Sınıf,"4975,00"
+Osmangazi Köprüsü(İzmir Yönü),İzmir,5. Sınıf,"6250,00"
+Osmangazi Köprüsü(İzmir Yönü),İzmir,6. Sınıf,"1415,00"
+Osmangazi Köprüsü(İzmir Yönü),Osmangazi Köprüsü(İstanbul Yönü),1. Sınıf,API Hatası
+Osmangazi Köprüsü(İzmir Yönü),Osmangazi Köprüsü(İstanbul Yönü),2. Sınıf,API Hatası
+Osmangazi Köprüsü(İzmir Yönü),Osmangazi Köprüsü(İstanbul Yönü),3. Sınıf,API Hatası
+Osmangazi Köprüsü(İzmir Yönü),Osmangazi Köprüsü(İstanbul Yönü),4. Sınıf,API Hatası
+Osmangazi Köprüsü(İzmir Yönü),Osmangazi Köprüsü(İstanbul Yönü),5. Sınıf,API Hatası
+Osmangazi Köprüsü(İzmir Yönü),Osmangazi Köprüsü(İstanbul Yönü),6. Sınıf,API Hatası
+Altınova,Osmangazi Köprüsü(İzmir Yönü),1. Sınıf,API Hatası
+Altınova,Osmangazi Köprüsü(İzmir Yönü),2. Sınıf,API Hatası
+Altınova,Osmangazi Köprüsü(İzmir Yönü),3. Sınıf,API Hatası
+Altınova,Osmangazi Köprüsü(İzmir Yönü),4. Sınıf,API Hatası
+Altınova,Osmangazi Köprüsü(İzmir Yönü),5. Sınıf,API Hatası
+Altınova,Osmangazi Köprüsü(İzmir Yönü),6. Sınıf,API Hatası
+Altınova,Kılıç,1. Sınıf,"45,00"
+Altınova,Kılıç,2. Sınıf,"80,00"
+Altınova,Kılıç,3. Sınıf,"80,00"
+Altınova,Kılıç,4. Sınıf,"130,00"
+Altınova,Kılıç,5. Sınıf,"150,00"
+Altınova,Kılıç,6. Sınıf,"45,00"
+Altınova,Orhangazi,1. Sınıf,"110,00"
+Altınova,Orhangazi,2. Sınıf,"150,00"
+Altınova,Orhangazi,3. Sınıf,"175,00"
+Altınova,Orhangazi,4. Sınıf,"235,00"
+Altınova,Orhangazi,5. Sınıf,"280,00"
+Altınova,Orhangazi,6. Sınıf,"70,00"
+Altınova,Gemlik,1. Sınıf,"130,00"
+Altınova,Gemlik,2. Sınıf,"210,00"
+Altınova,Gemlik,3. Sınıf,"235,00"
+Altınova,Gemlik,4. Sınıf,"325,00"
+Altınova,Gemlik,5. Sınıf,"405,00"
+Altınova,Gemlik,6. Sınıf,"80,00"
+Altınova,Bursa Serbest Bölge,1. Sınıf,"150,00"
+Altınova,Bursa Serbest Bölge,2. Sınıf,"235,00"
+Altınova,Bursa Serbest Bölge,3. Sınıf,"280,00"
+Altınova,Bursa Serbest Bölge,4. Sınıf,"380,00"
+Altınova,Bursa Serbest Bölge,5. Sınıf,"460,00"
+Altınova,Bursa Serbest Bölge,6. Sınıf,"110,00"
+Altınova,Bursa Kuzey,1. Sınıf,"235,00"
+Altınova,Bursa Kuzey,2. Sınıf,"380,00"
+Altınova,Bursa Kuzey,3. Sınıf,"455,00"
+Altınova,Bursa Kuzey,4. Sınıf,"590,00"
+Altınova,Bursa Kuzey,5. Sınıf,"755,00"
+Altınova,Bursa Kuzey,6. Sınıf,"175,00"
+Altınova,Teknosab,1. Sınıf,"315,00"
+Altınova,Teknosab,2. Sınıf,"510,00"
+Altınova,Teknosab,3. Sınıf,"605,00"
+Altınova,Teknosab,4. Sınıf,"800,00"
+Altınova,Teknosab,5. Sınıf,"1005,00"
+Altınova,Teknosab,6. Sınıf,"245,00"
+Altınova,Karacabey-Mustafakemalpaşa-1,1. Sınıf,"410,00"
+Altınova,Karacabey-Mustafakemalpaşa-1,2. Sınıf,"630,00"
+Altınova,Karacabey-Mustafakemalpaşa-1,3. Sınıf,"745,00"
+Altınova,Karacabey-Mustafakemalpaşa-1,4. Sınıf,"995,00"
+Altınova,Karacabey-Mustafakemalpaşa-1,5. Sınıf,"1260,00"
+Altınova,Karacabey-Mustafakemalpaşa-1,6. Sınıf,"305,00"
+Altınova,Susurluk,1. Sınıf,"485,00"
+Altınova,Susurluk,2. Sınıf,"785,00"
+Altınova,Susurluk,3. Sınıf,"945,00"
+Altınova,Susurluk,4. Sınıf,"1225,00"
+Altınova,Susurluk,5. Sınıf,"1560,00"
+Altınova,Susurluk,6. Sınıf,"375,00"
+Altınova,Balıkesir Kuzey,1. Sınıf,"565,00"
+Altınova,Balıkesir Kuzey,2. Sınıf,"915,00"
+Altınova,Balıkesir Kuzey,3. Sınıf,"1090,00"
+Altınova,Balıkesir Kuzey,4. Sınıf,"1430,00"
+Altınova,Balıkesir Kuzey,5. Sınıf,"1805,00"
+Altınova,Balıkesir Kuzey,6. Sınıf,"410,00"
+Altınova,Balıkesir Batı,1. Sınıf,"660,00"
+Altınova,Balıkesir Batı,2. Sınıf,"1050,00"
+Altınova,Balıkesir Batı,3. Sınıf,"1240,00"
+Altınova,Balıkesir Batı,4. Sınıf,"1640,00"
+Altınova,Balıkesir Batı,5. Sınıf,"2095,00"
+Altınova,Savaştepe,1. Sınıf,"740,00"
+Altınova,Savaştepe,3. Sınıf,"1420,00"
+Altınova,Savaştepe,4. Sınıf,"1880,00"
+Altınova,Savaştepe,5. Sınıf,"2355,00"
+Altınova,Savaştepe,6. Sınıf,"535,00"
+Altınova,Soma,1. Sınıf,"775,00"
+Altınova,Soma,2. Sınıf,"1265,00"
+Altınova,Soma,3. Sınıf,"1490,00"
+Altınova,Soma,4. Sınıf,"1980,00"
+Altınova,Soma,5. Sınıf,"2505,00"
+Altınova,Soma,6. Sınıf,"555,00"
+Altınova,Kırkağaç,1. Sınıf,"845,00"
+Altınova,Kırkağaç,2. Sınıf,"1375,00"
+Altınova,Kırkağaç,3. Sınıf,"1620,00"
+Altınova,Kırkağaç,4. Sınıf,"2125,00"
+Altınova,Kırkağaç,5. Sınıf,"2690,00"
+Altınova,Kırkağaç,6. Sınıf,"600,00"
+Altınova,Akhisar,1. Sınıf,"905,00"
+Altınova,Akhisar,2. Sınıf,"1450,00"
+Altınova,Akhisar,3. Sınıf,"1745,00"
+Altınova,Akhisar,4. Sınıf,"2295,00"
+Altınova,Akhisar,5. Sınıf,"2890,00"
+Altınova,Akhisar,6. Sınıf,"665,00"
+Altınova,Saruhanlı,1. Sınıf,"945,00"
+Altınova,Saruhanlı,2. Sınıf,"1545,00"
+Altınova,Saruhanlı,3. Sınıf,"1845,00"
+Altınova,Saruhanlı,4. Sınıf,"2425,00"
+Altınova,Saruhanlı,5. Sınıf,"3065,00"
+Altınova,Saruhanlı,6. Sınıf,"680,00"
+Altınova,Turgutlu,1. Sınıf,"1055,00"
+Altınova,Turgutlu,2. Sınıf,"1685,00"
+Altınova,Turgutlu,3. Sınıf,"2010,00"
+Altınova,Turgutlu,4. Sınıf,"2650,00"
+Altınova,Turgutlu,5. Sınıf,"3355,00"
+Altınova,Turgutlu,6. Sınıf,"750,00"
+Altınova,İzmir,1. Sınıf,"1155,00"
+Altınova,İzmir,2. Sınıf,"1850,00"
+Altınova,İzmir,3. Sınıf,"2205,00"
+Altınova,İzmir,4. Sınıf,"2900,00"
+Altınova,İzmir,5. Sınıf,"3655,00"
+Altınova,İzmir,6. Sınıf,"835,00"
+Altınova,Osmangazi Köprüsü(İstanbul Yönü),1. Sınıf,"840,00"
+Altınova,Osmangazi Köprüsü(İstanbul Yönü),2. Sınıf,"1340,00"
+Altınova,Osmangazi Köprüsü(İstanbul Yönü),3. Sınıf,"1580,00"
+Altınova,Osmangazi Köprüsü(İstanbul Yönü),4. Sınıf,"2085,00"
+Altınova,Osmangazi Köprüsü(İstanbul Yönü),5. Sınıf,"2640,00"
+Altınova,Osmangazi Köprüsü(İstanbul Yönü),6. Sınıf,"600,00"
+Kılıç,Osmangazi Köprüsü(İzmir Yönü),1. Sınıf,API Hatası
+Kılıç,Osmangazi Köprüsü(İzmir Yönü),2. Sınıf,API Hatası
+Kılıç,Osmangazi Köprüsü(İzmir Yönü),3. Sınıf,API Hatası
+Kılıç,Osmangazi Köprüsü(İzmir Yönü),4. Sınıf,API Hatası
+Kılıç,Osmangazi Köprüsü(İzmir Yönü),5. Sınıf,API Hatası
+Kılıç,Osmangazi Köprüsü(İzmir Yönü),6. Sınıf,API Hatası
+Kılıç,Altınova,1. Sınıf,"45,00"
+Kılıç,Altınova,2. Sınıf,"80,00"
+Kılıç,Altınova,3. Sınıf,"80,00"
+Kılıç,Altınova,4. Sınıf,"130,00"
+Kılıç,Altınova,5. Sınıf,"150,00"
+Kılıç,Altınova,6. Sınıf,"45,00"
+Kılıç,Orhangazi,1. Sınıf,"70,00"
+Kılıç,Orhangazi,2. Sınıf,"80,00"
+Kılıç,Orhangazi,3. Sınıf,"110,00"
+Kılıç,Orhangazi,4. Sınıf,"130,00"
+Kılıç,Orhangazi,5. Sınıf,"175,00"
+Kılıç,Orhangazi,6. Sınıf,"45,00"
+Kılıç,Gemlik,1. Sınıf,"110,00"
+Kılıç,Gemlik,2. Sınıf,"150,00"
+Kılıç,Gemlik,3. Sınıf,"175,00"
+Kılıç,Gemlik,4. Sınıf,"235,00"
+Kılıç,Gemlik,5. Sınıf,"280,00"
+Kılıç,Gemlik,6. Sınıf,"70,00"
+Kılıç,Bursa Serbest Bölge,1. Sınıf,"130,00"
+Kılıç,Bursa Serbest Bölge,2. Sınıf,"200,00"
+Kılıç,Bursa Serbest Bölge,3. Sınıf,"210,00"
+Kılıç,Bursa Serbest Bölge,4. Sınıf,"280,00"
+Kılıç,Bursa Serbest Bölge,5. Sınıf,"360,00"
+Kılıç,Bursa Serbest Bölge,6. Sınıf,"80,00"
+Kılıç,Bursa Kuzey,1. Sınıf,"210,00"
+Kılıç,Bursa Kuzey,2. Sınıf,"325,00"
+Kılıç,Bursa Kuzey,3. Sınıf,"380,00"
+Kılıç,Bursa Kuzey,4. Sınıf,"505,00"
+Kılıç,Bursa Kuzey,5. Sınıf,"635,00"
+Kılıç,Bursa Kuzey,6. Sınıf,"150,00"
+Kılıç,Teknosab,1. Sınıf,"290,00"
+Kılıç,Teknosab,2. Sınıf,"455,00"
+Kılıç,Teknosab,3. Sınıf,"530,00"
+Kılıç,Teknosab,4. Sınıf,"715,00"
+Kılıç,Teknosab,5. Sınıf,"885,00"
+Kılıç,Teknosab,6. Sınıf,"220,00"
+Kılıç,Karacabey-Mustafakemalpaşa-1,1. Sınıf,"385,00"
+Kılıç,Karacabey-Mustafakemalpaşa-1,2. Sınıf,"575,00"
+Kılıç,Karacabey-Mustafakemalpaşa-1,3. Sınıf,"670,00"
+Kılıç,Karacabey-Mustafakemalpaşa-1,4. Sınıf,"910,00"
+Kılıç,Karacabey-Mustafakemalpaşa-1,5. Sınıf,"1140,00"
+Kılıç,Karacabey-Mustafakemalpaşa-1,6. Sınıf,"280,00"
+Kılıç,Susurluk,1. Sınıf,"460,00"
+Kılıç,Susurluk,2. Sınıf,"730,00"
+Kılıç,Susurluk,3. Sınıf,"870,00"
+Kılıç,Susurluk,4. Sınıf,"1140,00"
+Kılıç,Susurluk,5. Sınıf,"1440,00"
+Kılıç,Susurluk,6. Sınıf,"350,00"
+Kılıç,Balıkesir Kuzey,1. Sınıf,"540,00"
+Kılıç,Balıkesir Kuzey,2. Sınıf,"860,00"
+Kılıç,Balıkesir Kuzey,3. Sınıf,"1015,00"
+Kılıç,Balıkesir Kuzey,4. Sınıf,"1345,00"
+Kılıç,Balıkesir Kuzey,5. Sınıf,"1685,00"
+Kılıç,Balıkesir Kuzey,6. Sınıf,"385,00"
+Kılıç,Balıkesir Batı,1. Sınıf,"635,00"
+Kılıç,Balıkesir Batı,2. Sınıf,"995,00"
+Kılıç,Balıkesir Batı,3. Sınıf,"1165,00"
+Kılıç,Balıkesir Batı,4. Sınıf,"1555,00"
+Kılıç,Balıkesir Batı,5. Sınıf,"1975,00"
+Kılıç,Balıkesir Batı,6. Sınıf,"440,00"
+Kılıç,Savaştepe,1. Sınıf,"715,00"
+Kılıç,Savaştepe,2. Sınıf,"1130,00"
+Kılıç,Savaştepe,3. Sınıf,"1345,00"
+Kılıç,Savaştepe,4. Sınıf,"1795,00"
+Kılıç,Savaştepe,5. Sınıf,"2235,00"
+Kılıç,Savaştepe,6. Sınıf,"510,00"
+Kılıç,Soma,1. Sınıf,"750,00"
+Kılıç,Soma,2. Sınıf,"1210,00"
+Kılıç,Soma,3. Sınıf,"1415,00"
+Kılıç,Soma,4. Sınıf,"1895,00"
+Kılıç,Soma,5. Sınıf,"2385,00"
+Kılıç,Soma,6. Sınıf,"530,00"
+Kılıç,Kırkağaç,1. Sınıf,"820,00"
+Kılıç,Kırkağaç,2. Sınıf,"1320,00"
+Kılıç,Kırkağaç,3. Sınıf,"1545,00"
+Kılıç,Kırkağaç,4. Sınıf,"2040,00"
+Kılıç,Kırkağaç,5. Sınıf,"2570,00"
+Kılıç,Kırkağaç,6. Sınıf,"575,00"
+Kılıç,Akhisar,1. Sınıf,"880,00"
+Kılıç,Akhisar,2. Sınıf,"1395,00"
+Kılıç,Akhisar,3. Sınıf,"1670,00"
+Kılıç,Akhisar,4. Sınıf,"2210,00"
+Kılıç,Akhisar,5. Sınıf,"2770,00"
+Kılıç,Akhisar,6. Sınıf,"640,00"
+Kılıç,Saruhanlı,1. Sınıf,"920,00"
+Kılıç,Saruhanlı,2. Sınıf,"1490,00"
+Kılıç,Saruhanlı,3. Sınıf,"1770,00"
+Kılıç,Saruhanlı,4. Sınıf,"2340,00"
+Kılıç,Saruhanlı,5. Sınıf,"2945,00"
+Kılıç,Saruhanlı,6. Sınıf,"655,00"
+Kılıç,Turgutlu,1. Sınıf,"1030,00"
+Kılıç,Turgutlu,2. Sınıf,"1630,00"
+Kılıç,Turgutlu,3. Sınıf,"1935,00"
+Kılıç,Turgutlu,4. Sınıf,"2565,00"
+Kılıç,Turgutlu,5. Sınıf,"3235,00"
+Kılıç,Turgutlu,6. Sınıf,"725,00"
+Kılıç,İzmir,1. Sınıf,"1130,00"
+Kılıç,İzmir,2. Sınıf,"1795,00"
+Kılıç,İzmir,3. Sınıf,"2130,00"
+Kılıç,İzmir,4. Sınıf,"2815,00"
+Kılıç,İzmir,5. Sınıf,"3535,00"
+Kılıç,İzmir,6. Sınıf,"810,00"
+Kılıç,Osmangazi Köprüsü(İstanbul Yönü),1. Sınıf,"865,00"
+Kılıç,Osmangazi Köprüsü(İstanbul Yönü),2. Sınıf,"1380,00"
+Kılıç,Osmangazi Köprüsü(İstanbul Yönü),3. Sınıf,"1640,00"
+Kılıç,Osmangazi Köprüsü(İstanbul Yönü),4. Sınıf,"2180,00"
+Kılıç,Osmangazi Köprüsü(İstanbul Yönü),5. Sınıf,"2740,00"
+Kılıç,Osmangazi Köprüsü(İstanbul Yönü),6. Sınıf,"625,00"
+Orhangazi,Osmangazi Köprüsü(İzmir Yönü),1. Sınıf,API Hatası
+Orhangazi,Osmangazi Köprüsü(İzmir Yönü),2. Sınıf,API Hatası
+Orhangazi,Osmangazi Köprüsü(İzmir Yönü),3. Sınıf,API Hatası
+Orhangazi,Osmangazi Köprüsü(İzmir Yönü),4. Sınıf,API Hatası
+Orhangazi,Osmangazi Köprüsü(İzmir Yönü),5. Sınıf,API Hatası
+Orhangazi,Osmangazi Köprüsü(İzmir Yönü),6. Sınıf,API Hatası
+Orhangazi,Altınova,1. Sınıf,"110,00"
+Orhangazi,Altınova,2. Sınıf,"150,00"
+Orhangazi,Altınova,3. Sınıf,"175,00"
+Orhangazi,Altınova,4. Sınıf,"235,00"
+Orhangazi,Altınova,5. Sınıf,"280,00"
+Orhangazi,Altınova,6. Sınıf,"70,00"
+Orhangazi,Kılıç,1. Sınıf,"70,00"
+Orhangazi,Kılıç,2. Sınıf,"80,00"
+Orhangazi,Kılıç,3. Sınıf,"110,00"
+Orhangazi,Kılıç,4. Sınıf,"130,00"
+Orhangazi,Kılıç,5. Sınıf,"175,00"
+Orhangazi,Kılıç,6. Sınıf,"45,00"
+Orhangazi,Gemlik,1. Sınıf,"45,00"
+Orhangazi,Gemlik,2. Sınıf,"80,00"
+Orhangazi,Gemlik,3. Sınıf,"80,00"
+Orhangazi,Gemlik,4. Sınıf,"110,00"
+Orhangazi,Gemlik,5. Sınıf,"150,00"
+Orhangazi,Gemlik,6. Sınıf,"45,00"
+Orhangazi,Bursa Serbest Bölge,1. Sınıf,"80,00"
+Orhangazi,Bursa Serbest Bölge,2. Sınıf,"110,00"
+Orhangazi,Bursa Serbest Bölge,3. Sınıf,"130,00"
+Orhangazi,Bursa Serbest Bölge,4. Sınıf,"175,00"
+Orhangazi,Bursa Serbest Bölge,5. Sınıf,"210,00"
+Orhangazi,Bursa Serbest Bölge,6. Sınıf,"70,00"
+Orhangazi,Bursa Kuzey,1. Sınıf,"175,00"
+Orhangazi,Bursa Kuzey,2. Sınıf,"250,00"
+Orhangazi,Bursa Kuzey,3. Sınıf,"290,00"
+Orhangazi,Bursa Kuzey,4. Sınıf,"405,00"
+Orhangazi,Bursa Kuzey,5. Sınıf,"490,00"
+Orhangazi,Bursa Kuzey,6. Sınıf,"130,00"
+Orhangazi,Teknosab,1. Sınıf,"255,00"
+Orhangazi,Teknosab,2. Sınıf,"380,00"
+Orhangazi,Teknosab,3. Sınıf,"440,00"
+Orhangazi,Teknosab,4. Sınıf,"615,00"
+Orhangazi,Teknosab,5. Sınıf,"740,00"
+Orhangazi,Teknosab,6. Sınıf,"200,00"
+Orhangazi,Karacabey-Mustafakemalpaşa-1,1. Sınıf,"350,00"
+Orhangazi,Karacabey-Mustafakemalpaşa-1,2. Sınıf,"500,00"
+Orhangazi,Karacabey-Mustafakemalpaşa-1,3. Sınıf,"580,00"
+Orhangazi,Karacabey-Mustafakemalpaşa-1,4. Sınıf,"810,00"
+Orhangazi,Karacabey-Mustafakemalpaşa-1,5. Sınıf,"995,00"
+Orhangazi,Karacabey-Mustafakemalpaşa-1,6. Sınıf,"260,00"
+Orhangazi,Susurluk,1. Sınıf,"425,00"
+Orhangazi,Susurluk,2. Sınıf,"655,00"
+Orhangazi,Susurluk,3. Sınıf,"780,00"
+Orhangazi,Susurluk,4. Sınıf,"1040,00"
+Orhangazi,Susurluk,5. Sınıf,"1295,00"
+Orhangazi,Susurluk,6. Sınıf,"330,00"
+Orhangazi,Balıkesir Kuzey,1. Sınıf,"505,00"
+Orhangazi,Balıkesir Kuzey,2. Sınıf,"785,00"
+Orhangazi,Balıkesir Kuzey,3. Sınıf,"925,00"
+Orhangazi,Balıkesir Kuzey,4. Sınıf,"1245,00"
+Orhangazi,Balıkesir Kuzey,5. Sınıf,"1540,00"
+Orhangazi,Balıkesir Kuzey,6. Sınıf,"365,00"
+Orhangazi,Balıkesir Batı,1. Sınıf,"600,00"
+Orhangazi,Balıkesir Batı,2. Sınıf,"920,00"
+Orhangazi,Balıkesir Batı,3. Sınıf,"1075,00"
+Orhangazi,Balıkesir Batı,4. Sınıf,"1455,00"
+Orhangazi,Balıkesir Batı,5. Sınıf,"1830,00"
+Orhangazi,Balıkesir Batı,6. Sınıf,"420,00"
+Orhangazi,Savaştepe,1. Sınıf,"680,00"
+Orhangazi,Savaştepe,2. Sınıf,"1055,00"
+Orhangazi,Savaştepe,3. Sınıf,"1255,00"
+Orhangazi,Savaştepe,4. Sınıf,"1695,00"
+Orhangazi,Savaştepe,5. Sınıf,"2090,00"
+Orhangazi,Savaştepe,6. Sınıf,"490,00"
+Orhangazi,Soma,1. Sınıf,"715,00"
+Orhangazi,Soma,2. Sınıf,"1135,00"
+Orhangazi,Soma,3. Sınıf,"1325,00"
+Orhangazi,Soma,4. Sınıf,"1795,00"
+Orhangazi,Soma,5. Sınıf,"2240,00"
+Orhangazi,Soma,6. Sınıf,"510,00"
+Orhangazi,Kırkağaç,1. Sınıf,"785,00"
+Orhangazi,Kırkağaç,2. Sınıf,"1245,00"
+Orhangazi,Kırkağaç,3. Sınıf,"1455,00"
+Orhangazi,Kırkağaç,4. Sınıf,"1940,00"
+Orhangazi,Kırkağaç,5. Sınıf,"2425,00"
+Orhangazi,Kırkağaç,6. Sınıf,"555,00"
+Orhangazi,Akhisar,1. Sınıf,"845,00"
+Orhangazi,Akhisar,2. Sınıf,"1320,00"
+Orhangazi,Akhisar,3. Sınıf,"1580,00"
+Orhangazi,Akhisar,4. Sınıf,"2110,00"
+Orhangazi,Akhisar,5. Sınıf,"2625,00"
+Orhangazi,Akhisar,6. Sınıf,"620,00"
+Orhangazi,Saruhanlı,1. Sınıf,"885,00"
+Orhangazi,Saruhanlı,2. Sınıf,"1415,00"
+Orhangazi,Saruhanlı,3. Sınıf,"1680,00"
+Orhangazi,Saruhanlı,4. Sınıf,"2240,00"
+Orhangazi,Saruhanlı,5. Sınıf,"2800,00"
+Orhangazi,Saruhanlı,6. Sınıf,"635,00"
+Orhangazi,Turgutlu,1. Sınıf,"995,00"
+Orhangazi,Turgutlu,2. Sınıf,"1555,00"
+Orhangazi,Turgutlu,3. Sınıf,"1845,00"
+Orhangazi,Turgutlu,4. Sınıf,"2465,00"
+Orhangazi,Turgutlu,5. Sınıf,"3090,00"
+Orhangazi,Turgutlu,6. Sınıf,"705,00"
+Orhangazi,İzmir,1. Sınıf,"1095,00"
+Orhangazi,İzmir,2. Sınıf,"1720,00"
+Orhangazi,İzmir,3. Sınıf,"2040,00"
+Orhangazi,İzmir,4. Sınıf,"2715,00"
+Orhangazi,İzmir,5. Sınıf,"3390,00"
+Orhangazi,İzmir,6. Sınıf,"790,00"
+Orhangazi,Osmangazi Köprüsü(İstanbul Yönü),1. Sınıf,"905,00"
+Orhangazi,Osmangazi Köprüsü(İstanbul Yönü),2. Sınıf,"1470,00"
+Orhangazi,Osmangazi Köprüsü(İstanbul Yönü),3. Sınıf,"1720,00"
+Orhangazi,Osmangazi Köprüsü(İstanbul Yönü),4. Sınıf,"2285,00"
+Orhangazi,Osmangazi Köprüsü(İstanbul Yönü),5. Sınıf,"2860,00"
+Orhangazi,Osmangazi Köprüsü(İstanbul Yönü),6. Sınıf,"635,00"
+Gemlik,Osmangazi Köprüsü(İzmir Yönü),1. Sınıf,API Hatası
+Gemlik,Osmangazi Köprüsü(İzmir Yönü),2. Sınıf,API Hatası
+Gemlik,Osmangazi Köprüsü(İzmir Yönü),3. Sınıf,API Hatası
+Gemlik,Osmangazi Köprüsü(İzmir Yönü),4. Sınıf,API Hatası
+Gemlik,Osmangazi Köprüsü(İzmir Yönü),5. Sınıf,API Hatası
+Gemlik,Osmangazi Köprüsü(İzmir Yönü),6. Sınıf,API Hatası
+Gemlik,Altınova,1. Sınıf,"130,00"
+Gemlik,Altınova,2. Sınıf,"210,00"
+Gemlik,Altınova,3. Sınıf,"235,00"
+Gemlik,Altınova,4. Sınıf,"325,00"
+Gemlik,Altınova,5. Sınıf,"405,00"
+Gemlik,Altınova,6. Sınıf,"80,00"
+Gemlik,Kılıç,1. Sınıf,"110,00"
+Gemlik,Kılıç,2. Sınıf,"150,00"
+Gemlik,Kılıç,3. Sınıf,"175,00"
+Gemlik,Kılıç,4. Sınıf,"235,00"
+Gemlik,Kılıç,5. Sınıf,"280,00"
+Gemlik,Kılıç,6. Sınıf,"70,00"
+Gemlik,Orhangazi,1. Sınıf,"45,00"
+Gemlik,Orhangazi,2. Sınıf,"80,00"
+Gemlik,Orhangazi,3. Sınıf,"80,00"
+Gemlik,Orhangazi,4. Sınıf,"110,00"
+Gemlik,Orhangazi,5. Sınıf,"150,00"
+Gemlik,Orhangazi,6. Sınıf,"45,00"
+Gemlik,Bursa Serbest Bölge,1. Sınıf,"45,00"
+Gemlik,Bursa Serbest Bölge,2. Sınıf,"70,00"
+Gemlik,Bursa Serbest Bölge,3. Sınıf,"70,00"
+Gemlik,Bursa Serbest Bölge,4. Sınıf,"80,00"
+Gemlik,Bursa Serbest Bölge,5. Sınıf,"110,00"
+Gemlik,Bursa Serbest Bölge,6. Sınıf,"30,00"
+Gemlik,Bursa Kuzey,1. Sınıf,"130,00"
+Gemlik,Bursa Kuzey,2. Sınıf,"200,00"
+Gemlik,Bursa Kuzey,3. Sınıf,"235,00"
+Gemlik,Bursa Kuzey,4. Sınıf,"325,00"
+Gemlik,Bursa Kuzey,5. Sınıf,"380,00"
+Gemlik,Bursa Kuzey,6. Sınıf,"80,00"
+Gemlik,Teknosab,1. Sınıf,"210,00"
+Gemlik,Teknosab,2. Sınıf,"330,00"
+Gemlik,Teknosab,3. Sınıf,"385,00"
+Gemlik,Teknosab,4. Sınıf,"535,00"
+Gemlik,Teknosab,5. Sınıf,"630,00"
+Gemlik,Teknosab,6. Sınıf,"150,00"
+Gemlik,Karacabey-Mustafakemalpaşa-1,1. Sınıf,"305,00"
+Gemlik,Karacabey-Mustafakemalpaşa-1,2. Sınıf,"450,00"
+Gemlik,Karacabey-Mustafakemalpaşa-1,3. Sınıf,"525,00"
+Gemlik,Karacabey-Mustafakemalpaşa-1,4. Sınıf,"730,00"
+Gemlik,Karacabey-Mustafakemalpaşa-1,5. Sınıf,"885,00"
+Gemlik,Karacabey-Mustafakemalpaşa-1,6. Sınıf,"210,00"
+Gemlik,Susurluk,1. Sınıf,"380,00"
+Gemlik,Susurluk,2. Sınıf,"605,00"
+Gemlik,Susurluk,3. Sınıf,"725,00"
+Gemlik,Susurluk,4. Sınıf,"960,00"
+Gemlik,Susurluk,5. Sınıf,"1185,00"
+Gemlik,Susurluk,6. Sınıf,"280,00"
+Gemlik,Balıkesir Kuzey,1. Sınıf,"460,00"
+Gemlik,Balıkesir Kuzey,2. Sınıf,"735,00"
+Gemlik,Balıkesir Kuzey,3. Sınıf,"870,00"
+Gemlik,Balıkesir Kuzey,4. Sınıf,"1165,00"
+Gemlik,Balıkesir Kuzey,5. Sınıf,"1430,00"
+Gemlik,Balıkesir Kuzey,6. Sınıf,"315,00"
+Gemlik,Balıkesir Batı,1. Sınıf,"555,00"
+Gemlik,Balıkesir Batı,2. Sınıf,"870,00"
+Gemlik,Balıkesir Batı,3. Sınıf,"1020,00"
+Gemlik,Balıkesir Batı,4. Sınıf,"1375,00"
+Gemlik,Balıkesir Batı,5. Sınıf,"1720,00"
+Gemlik,Balıkesir Batı,6. Sınıf,"370,00"
+Gemlik,Savaştepe,1. Sınıf,"635,00"
+Gemlik,Savaştepe,2. Sınıf,"1005,00"
+Gemlik,Savaştepe,3. Sınıf,"1200,00"
+Gemlik,Savaştepe,4. Sınıf,"1615,00"
+Gemlik,Savaştepe,5. Sınıf,"1980,00"
+Gemlik,Savaştepe,6. Sınıf,"440,00"
+Gemlik,Soma,1. Sınıf,"670,00"
+Gemlik,Soma,2. Sınıf,"1085,00"
+Gemlik,Soma,3. Sınıf,"1270,00"
+Gemlik,Soma,4. Sınıf,"1715,00"
+Gemlik,Soma,5. Sınıf,"2130,00"
+Gemlik,Soma,6. Sınıf,"460,00"
+Gemlik,Kırkağaç,1. Sınıf,"740,00"
+Gemlik,Kırkağaç,2. Sınıf,"1195,00"
+Gemlik,Kırkağaç,3. Sınıf,"1400,00"
+Gemlik,Kırkağaç,4. Sınıf,"1860,00"
+Gemlik,Kırkağaç,5. Sınıf,"2315,00"
+Gemlik,Kırkağaç,6. Sınıf,"505,00"
+Gemlik,Akhisar,1. Sınıf,"800,00"
+Gemlik,Akhisar,2. Sınıf,"1270,00"
+Gemlik,Akhisar,3. Sınıf,"1525,00"
+Gemlik,Akhisar,4. Sınıf,"2030,00"
+Gemlik,Akhisar,5. Sınıf,"2515,00"
+Gemlik,Akhisar,6. Sınıf,"570,00"
+Gemlik,Saruhanlı,1. Sınıf,"840,00"
+Gemlik,Saruhanlı,2. Sınıf,"1365,00"
+Gemlik,Saruhanlı,3. Sınıf,"1625,00"
+Gemlik,Saruhanlı,4. Sınıf,"2160,00"
+Gemlik,Saruhanlı,5. Sınıf,"2690,00"
+Gemlik,Saruhanlı,6. Sınıf,"585,00"
+Gemlik,Turgutlu,1. Sınıf,"950,00"
+Gemlik,Turgutlu,2. Sınıf,"1505,00"
+Gemlik,Turgutlu,3. Sınıf,"1790,00"
+Gemlik,Turgutlu,4. Sınıf,"2385,00"
+Gemlik,Turgutlu,5. Sınıf,"2980,00"
+Gemlik,Turgutlu,6. Sınıf,"655,00"
+Gemlik,İzmir,1. Sınıf,"1050,00"
+Gemlik,İzmir,2. Sınıf,"1670,00"
+Gemlik,İzmir,3. Sınıf,"1985,00"
+Gemlik,İzmir,4. Sınıf,"2635,00"
+Gemlik,İzmir,5. Sınıf,"3280,00"
+Gemlik,İzmir,6. Sınıf,"740,00"
+Gemlik,Osmangazi Köprüsü(İstanbul Yönü),1. Sınıf,"945,00"
+Gemlik,Osmangazi Köprüsü(İstanbul Yönü),2. Sınıf,"1505,00"
+Gemlik,Osmangazi Köprüsü(İstanbul Yönü),3. Sınıf,"1790,00"
+Gemlik,Osmangazi Köprüsü(İstanbul Yönü),4. Sınıf,"2365,00"
+Gemlik,Osmangazi Köprüsü(İstanbul Yönü),5. Sınıf,"2990,00"
+Gemlik,Osmangazi Köprüsü(İstanbul Yönü),6. Sınıf,"665,00"
+Bursa Serbest Bölge,Osmangazi Köprüsü(İzmir Yönü),1. Sınıf,API Hatası
+Bursa Serbest Bölge,Osmangazi Köprüsü(İzmir Yönü),2. Sınıf,API Hatası
+Bursa Serbest Bölge,Osmangazi Köprüsü(İzmir Yönü),3. Sınıf,API Hatası
+Bursa Serbest Bölge,Osmangazi Köprüsü(İzmir Yönü),4. Sınıf,API Hatası
+Bursa Serbest Bölge,Osmangazi Köprüsü(İzmir Yönü),5. Sınıf,API Hatası
+Bursa Serbest Bölge,Osmangazi Köprüsü(İzmir Yönü),6. Sınıf,API Hatası
+Bursa Serbest Bölge,Altınova,1. Sınıf,"150,00"
+Bursa Serbest Bölge,Altınova,2. Sınıf,"235,00"
+Bursa Serbest Bölge,Altınova,3. Sınıf,"280,00"
+Bursa Serbest Bölge,Altınova,4. Sınıf,"380,00"
+Bursa Serbest Bölge,Altınova,5. Sınıf,"460,00"
+Bursa Serbest Bölge,Altınova,6. Sınıf,"110,00"
+Bursa Serbest Bölge,Kılıç,1. Sınıf,"130,00"
+Bursa Serbest Bölge,Kılıç,2. Sınıf,"200,00"
+Bursa Serbest Bölge,Kılıç,3. Sınıf,"210,00"
+Bursa Serbest Bölge,Kılıç,4. Sınıf,"280,00"
+Bursa Serbest Bölge,Kılıç,5. Sınıf,"360,00"
+Bursa Serbest Bölge,Kılıç,6. Sınıf,"80,00"
+Bursa Serbest Bölge,Orhangazi,1. Sınıf,"80,00"
+Bursa Serbest Bölge,Orhangazi,2. Sınıf,"110,00"
+Bursa Serbest Bölge,Orhangazi,3. Sınıf,"130,00"
+Bursa Serbest Bölge,Orhangazi,4. Sınıf,"175,00"
+Bursa Serbest Bölge,Orhangazi,5. Sınıf,"210,00"
+Bursa Serbest Bölge,Orhangazi,6. Sınıf,"70,00"
+Bursa Serbest Bölge,Gemlik,1. Sınıf,"45,00"
+Bursa Serbest Bölge,Gemlik,2. Sınıf,"70,00"
+Bursa Serbest Bölge,Gemlik,3. Sınıf,"70,00"
+Bursa Serbest Bölge,Gemlik,4. Sınıf,"80,00"
+Bursa Serbest Bölge,Gemlik,5. Sınıf,"110,00"
+Bursa Serbest Bölge,Gemlik,6. Sınıf,"30,00"
+Bursa Serbest Bölge,Bursa Kuzey,1. Sınıf,"110,00"
+Bursa Serbest Bölge,Bursa Kuzey,2. Sınıf,"175,00"
+Bursa Serbest Bölge,Bursa Kuzey,3. Sınıf,"200,00"
+Bursa Serbest Bölge,Bursa Kuzey,4. Sınıf,"250,00"
+Bursa Serbest Bölge,Bursa Kuzey,5. Sınıf,"325,00"
+Bursa Serbest Bölge,Bursa Kuzey,6. Sınıf,"80,00"
+Bursa Serbest Bölge,Teknosab,1. Sınıf,"190,00"
+Bursa Serbest Bölge,Teknosab,2. Sınıf,"305,00"
+Bursa Serbest Bölge,Teknosab,3. Sınıf,"350,00"
+Bursa Serbest Bölge,Teknosab,4. Sınıf,"460,00"
+Bursa Serbest Bölge,Teknosab,5. Sınıf,"575,00"
+Bursa Serbest Bölge,Teknosab,6. Sınıf,"150,00"
+Bursa Serbest Bölge,Karacabey-Mustafakemalpaşa-1,1. Sınıf,"285,00"
+Bursa Serbest Bölge,Karacabey-Mustafakemalpaşa-1,2. Sınıf,"425,00"
+Bursa Serbest Bölge,Karacabey-Mustafakemalpaşa-1,3. Sınıf,"490,00"
+Bursa Serbest Bölge,Karacabey-Mustafakemalpaşa-1,4. Sınıf,"655,00"
+Bursa Serbest Bölge,Karacabey-Mustafakemalpaşa-1,5. Sınıf,"830,00"
+Bursa Serbest Bölge,Karacabey-Mustafakemalpaşa-1,6. Sınıf,"210,00"
+Bursa Serbest Bölge,Susurluk,1. Sınıf,"360,00"
+Bursa Serbest Bölge,Susurluk,2. Sınıf,"580,00"
+Bursa Serbest Bölge,Susurluk,3. Sınıf,"690,00"
+Bursa Serbest Bölge,Susurluk,4. Sınıf,"885,00"
+Bursa Serbest Bölge,Susurluk,5. Sınıf,"1130,00"
+Bursa Serbest Bölge,Susurluk,6. Sınıf,"280,00"
+Bursa Serbest Bölge,Balıkesir Kuzey,1. Sınıf,"440,00"
+Bursa Serbest Bölge,Balıkesir Kuzey,2. Sınıf,"710,00"
+Bursa Serbest Bölge,Balıkesir Kuzey,3. Sınıf,"835,00"
+Bursa Serbest Bölge,Balıkesir Kuzey,4. Sınıf,"1090,00"
+Bursa Serbest Bölge,Balıkesir Kuzey,5. Sınıf,"1375,00"
+Bursa Serbest Bölge,Balıkesir Kuzey,6. Sınıf,"315,00"
+Bursa Serbest Bölge,Balıkesir Batı,1. Sınıf,"535,00"
+Bursa Serbest Bölge,Balıkesir Batı,2. Sınıf,"845,00"
+Bursa Serbest Bölge,Balıkesir Batı,3. Sınıf,"985,00"
+Bursa Serbest Bölge,Balıkesir Batı,4. Sınıf,"1300,00"
+Bursa Serbest Bölge,Balıkesir Batı,5. Sınıf,"1665,00"
+Bursa Serbest Bölge,Balıkesir Batı,6. Sınıf,"370,00"
+Bursa Serbest Bölge,Savaştepe,1. Sınıf,"615,00"
+Bursa Serbest Bölge,Savaştepe,2. Sınıf,"980,00"
+Bursa Serbest Bölge,Savaştepe,3. Sınıf,"1165,00"
+Bursa Serbest Bölge,Savaştepe,4. Sınıf,"1540,00"
+Bursa Serbest Bölge,Savaştepe,5. Sınıf,"1925,00"
+Bursa Serbest Bölge,Savaştepe,6. Sınıf,"440,00"
+Bursa Serbest Bölge,Soma,1. Sınıf,"650,00"
+Bursa Serbest Bölge,Soma,2. Sınıf,"1060,00"
+Bursa Serbest Bölge,Soma,3. Sınıf,"1235,00"
+Bursa Serbest Bölge,Soma,4. Sınıf,"1640,00"
+Bursa Serbest Bölge,Soma,5. Sınıf,"2075,00"
+Bursa Serbest Bölge,Soma,6. Sınıf,"460,00"
+Bursa Serbest Bölge,Kırkağaç,1. Sınıf,"720,00"
+Bursa Serbest Bölge,Kırkağaç,2. Sınıf,"1170,00"
+Bursa Serbest Bölge,Kırkağaç,3. Sınıf,"1365,00"
+Bursa Serbest Bölge,Kırkağaç,4. Sınıf,"1785,00"
+Bursa Serbest Bölge,Kırkağaç,5. Sınıf,"2260,00"
+Bursa Serbest Bölge,Kırkağaç,6. Sınıf,"505,00"
+Bursa Serbest Bölge,Akhisar,1. Sınıf,"780,00"
+Bursa Serbest Bölge,Akhisar,2. Sınıf,"1245,00"
+Bursa Serbest Bölge,Akhisar,3. Sınıf,"1490,00"
+Bursa Serbest Bölge,Akhisar,4. Sınıf,"1955,00"
+Bursa Serbest Bölge,Akhisar,5. Sınıf,"2460,00"
+Bursa Serbest Bölge,Akhisar,6. Sınıf,"570,00"
+Bursa Serbest Bölge,Saruhanlı,1. Sınıf,"820,00"
+Bursa Serbest Bölge,Saruhanlı,2. Sınıf,"1340,00"
+Bursa Serbest Bölge,Saruhanlı,3. Sınıf,"1590,00"
+Bursa Serbest Bölge,Saruhanlı,4. Sınıf,"2085,00"
+Bursa Serbest Bölge,Saruhanlı,5. Sınıf,"2635,00"
+Bursa Serbest Bölge,Saruhanlı,6. Sınıf,"585,00"
+Bursa Serbest Bölge,Turgutlu,1. Sınıf,"930,00"
+Bursa Serbest Bölge,Turgutlu,2. Sınıf,"1480,00"
+Bursa Serbest Bölge,Turgutlu,3. Sınıf,"1755,00"
+Bursa Serbest Bölge,Turgutlu,4. Sınıf,"2310,00"
+Bursa Serbest Bölge,Turgutlu,5. Sınıf,"2925,00"
+Bursa Serbest Bölge,Turgutlu,6. Sınıf,"655,00"
+Bursa Serbest Bölge,İzmir,1. Sınıf,"1030,00"
+Bursa Serbest Bölge,İzmir,2. Sınıf,"1645,00"
+Bursa Serbest Bölge,İzmir,3. Sınıf,"1950,00"
+Bursa Serbest Bölge,İzmir,4. Sınıf,"2560,00"
+Bursa Serbest Bölge,İzmir,5. Sınıf,"3225,00"
+Bursa Serbest Bölge,İzmir,6. Sınıf,"740,00"
+Bursa Serbest Bölge,Osmangazi Köprüsü(İstanbul Yönü),1. Sınıf,"970,00"
+Bursa Serbest Bölge,Osmangazi Köprüsü(İstanbul Yönü),2. Sınıf,"1550,00"
+Bursa Serbest Bölge,Osmangazi Köprüsü(İstanbul Yönü),3. Sınıf,"1835,00"
+Bursa Serbest Bölge,Osmangazi Köprüsü(İstanbul Yönü),4. Sınıf,"2430,00"
+Bursa Serbest Bölge,Osmangazi Köprüsü(İstanbul Yönü),5. Sınıf,"3065,00"
+Bursa Serbest Bölge,Osmangazi Köprüsü(İstanbul Yönü),6. Sınıf,"685,00"
+Bursa Kuzey,Osmangazi Köprüsü(İzmir Yönü),1. Sınıf,API Hatası
+Bursa Kuzey,Osmangazi Köprüsü(İzmir Yönü),2. Sınıf,API Hatası
+Bursa Kuzey,Osmangazi Köprüsü(İzmir Yönü),3. Sınıf,API Hatası
+Bursa Kuzey,Osmangazi Köprüsü(İzmir Yönü),4. Sınıf,API Hatası
+Bursa Kuzey,Osmangazi Köprüsü(İzmir Yönü),5. Sınıf,API Hatası
+Bursa Kuzey,Osmangazi Köprüsü(İzmir Yönü),6. Sınıf,API Hatası
+Bursa Kuzey,Altınova,1. Sınıf,"235,00"
+Bursa Kuzey,Altınova,2. Sınıf,"380,00"
+Bursa Kuzey,Altınova,3. Sınıf,"455,00"
+Bursa Kuzey,Altınova,4. Sınıf,"590,00"
+Bursa Kuzey,Altınova,5. Sınıf,"755,00"
+Bursa Kuzey,Altınova,6. Sınıf,"175,00"
+Bursa Kuzey,Kılıç,1. Sınıf,"210,00"
+Bursa Kuzey,Kılıç,2. Sınıf,"325,00"
+Bursa Kuzey,Kılıç,3. Sınıf,"380,00"
+Bursa Kuzey,Kılıç,4. Sınıf,"505,00"
+Bursa Kuzey,Kılıç,5. Sınıf,"635,00"
+Bursa Kuzey,Kılıç,6. Sınıf,"150,00"
+Bursa Kuzey,Orhangazi,1. Sınıf,"175,00"
+Bursa Kuzey,Orhangazi,2. Sınıf,"250,00"
+Bursa Kuzey,Orhangazi,3. Sınıf,"290,00"
+Bursa Kuzey,Orhangazi,4. Sınıf,"405,00"
+Bursa Kuzey,Orhangazi,5. Sınıf,"490,00"
+Bursa Kuzey,Orhangazi,6. Sınıf,"130,00"
+Bursa Kuzey,Gemlik,1. Sınıf,"130,00"
+Bursa Kuzey,Gemlik,2. Sınıf,"200,00"
+Bursa Kuzey,Gemlik,3. Sınıf,"235,00"
+Bursa Kuzey,Gemlik,4. Sınıf,"325,00"
+Bursa Kuzey,Gemlik,5. Sınıf,"380,00"
+Bursa Kuzey,Gemlik,6. Sınıf,"80,00"
+Bursa Kuzey,Bursa Serbest Bölge,1. Sınıf,"110,00"
+Bursa Kuzey,Bursa Serbest Bölge,2. Sınıf,"175,00"
+Bursa Kuzey,Bursa Serbest Bölge,3. Sınıf,"200,00"
+Bursa Kuzey,Bursa Serbest Bölge,4. Sınıf,"250,00"
+Bursa Kuzey,Bursa Serbest Bölge,5. Sınıf,"325,00"
+Bursa Kuzey,Bursa Serbest Bölge,6. Sınıf,"80,00"
+Bursa Kuzey,Teknosab,1. Sınıf,API Hatası
+Bursa Kuzey,Teknosab,2. Sınıf,API Hatası
+Bursa Kuzey,Teknosab,3. Sınıf,API Hatası
+Bursa Kuzey,Teknosab,4. Sınıf,API Hatası
+Bursa Kuzey,Teknosab,5. Sınıf,API Hatası
+Bursa Kuzey,Teknosab,6. Sınıf,API Hatası
+Bursa Kuzey,Karacabey-Mustafakemalpaşa-1,1. Sınıf,API Hatası
+Bursa Kuzey,Karacabey-Mustafakemalpaşa-1,2. Sınıf,API Hatası
+Bursa Kuzey,Karacabey-Mustafakemalpaşa-1,3. Sınıf,API Hatası
+Bursa Kuzey,Karacabey-Mustafakemalpaşa-1,4. Sınıf,API Hatası
+Bursa Kuzey,Karacabey-Mustafakemalpaşa-1,5. Sınıf,API Hatası
+Bursa Kuzey,Karacabey-Mustafakemalpaşa-1,6. Sınıf,API Hatası
+Bursa Kuzey,Susurluk,1. Sınıf,API Hatası
+Bursa Kuzey,Susurluk,2. Sınıf,API Hatası
+Bursa Kuzey,Susurluk,3. Sınıf,API Hatası
+Bursa Kuzey,Susurluk,4. Sınıf,API Hatası
+Bursa Kuzey,Susurluk,5. Sınıf,API Hatası
+Bursa Kuzey,Susurluk,6. Sınıf,API Hatası
+Bursa Kuzey,Balıkesir Kuzey,1. Sınıf,API Hatası
+Bursa Kuzey,Balıkesir Kuzey,2. Sınıf,API Hatası
+Bursa Kuzey,Balıkesir Kuzey,3. Sınıf,API Hatası
+Bursa Kuzey,Balıkesir Kuzey,4. Sınıf,API Hatası
+Bursa Kuzey,Balıkesir Kuzey,5. Sınıf,API Hatası
+Bursa Kuzey,Balıkesir Kuzey,6. Sınıf,API Hatası
+Bursa Kuzey,Balıkesir Batı,1. Sınıf,API Hatası
+Bursa Kuzey,Balıkesir Batı,2. Sınıf,API Hatası
+Bursa Kuzey,Balıkesir Batı,3. Sınıf,API Hatası
+Bursa Kuzey,Balıkesir Batı,4. Sınıf,API Hatası
+Bursa Kuzey,Balıkesir Batı,5. Sınıf,API Hatası
+Bursa Kuzey,Balıkesir Batı,6. Sınıf,API Hatası
+Bursa Kuzey,Savaştepe,1. Sınıf,API Hatası
+Bursa Kuzey,Savaştepe,2. Sınıf,API Hatası
+Bursa Kuzey,Savaştepe,3. Sınıf,API Hatası
+Bursa Kuzey,Savaştepe,4. Sınıf,API Hatası
+Bursa Kuzey,Savaştepe,5. Sınıf,API Hatası
+Bursa Kuzey,Savaştepe,6. Sınıf,API Hatası
+Bursa Kuzey,Soma,1. Sınıf,API Hatası
+Bursa Kuzey,Soma,2. Sınıf,API Hatası
+Bursa Kuzey,Soma,3. Sınıf,API Hatası
+Bursa Kuzey,Soma,4. Sınıf,API Hatası
+Bursa Kuzey,Soma,5. Sınıf,API Hatası
+Bursa Kuzey,Soma,6. Sınıf,API Hatası
+Bursa Kuzey,Kırkağaç,1. Sınıf,API Hatası
+Bursa Kuzey,Kırkağaç,2. Sınıf,API Hatası
+Bursa Kuzey,Kırkağaç,3. Sınıf,API Hatası
+Bursa Kuzey,Kırkağaç,4. Sınıf,API Hatası
+Bursa Kuzey,Kırkağaç,5. Sınıf,API Hatası
+Bursa Kuzey,Kırkağaç,6. Sınıf,API Hatası
+Bursa Kuzey,Akhisar,1. Sınıf,API Hatası
+Bursa Kuzey,Akhisar,2. Sınıf,API Hatası
+Bursa Kuzey,Akhisar,3. Sınıf,API Hatası
+Bursa Kuzey,Akhisar,4. Sınıf,API Hatası
+Bursa Kuzey,Akhisar,5. Sınıf,API Hatası
+Bursa Kuzey,Akhisar,6. Sınıf,API Hatası
+Bursa Kuzey,Saruhanlı,1. Sınıf,API Hatası
+Bursa Kuzey,Saruhanlı,2. Sınıf,API Hatası
+Bursa Kuzey,Saruhanlı,3. Sınıf,API Hatası
+Bursa Kuzey,Saruhanlı,4. Sınıf,API Hatası
+Bursa Kuzey,Saruhanlı,5. Sınıf,API Hatası
+Bursa Kuzey,Saruhanlı,6. Sınıf,API Hatası
+Bursa Kuzey,Turgutlu,1. Sınıf,API Hatası
+Bursa Kuzey,Turgutlu,2. Sınıf,API Hatası
+Bursa Kuzey,Turgutlu,3. Sınıf,API Hatası
+Bursa Kuzey,Turgutlu,4. Sınıf,API Hatası
+Bursa Kuzey,Turgutlu,5. Sınıf,API Hatası
+Bursa Kuzey,Turgutlu,6. Sınıf,API Hatası
+Bursa Kuzey,İzmir,1. Sınıf,API Hatası
+Bursa Kuzey,İzmir,2. Sınıf,API Hatası
+Bursa Kuzey,İzmir,3. Sınıf,API Hatası
+Bursa Kuzey,İzmir,4. Sınıf,API Hatası
+Bursa Kuzey,İzmir,5. Sınıf,API Hatası
+Bursa Kuzey,İzmir,6. Sınıf,API Hatası
+Bursa Kuzey,Osmangazi Köprüsü(İstanbul Yönü),1. Sınıf,"1045,00"
+Bursa Kuzey,Osmangazi Köprüsü(İstanbul Yönü),2. Sınıf,"1695,00"
+Bursa Kuzey,Osmangazi Köprüsü(İstanbul Yönü),3. Sınıf,"2000,00"
+Bursa Kuzey,Osmangazi Köprüsü(İstanbul Yönü),4. Sınıf,"2665,00"
+Bursa Kuzey,Osmangazi Köprüsü(İstanbul Yönü),5. Sınıf,"3350,00"
+Bursa Kuzey,Osmangazi Köprüsü(İstanbul Yönü),6. Sınıf,"755,00"
+Teknosab,Osmangazi Köprüsü(İzmir Yönü),1. Sınıf,API Hatası
+Teknosab,Osmangazi Köprüsü(İzmir Yönü),2. Sınıf,API Hatası
+Teknosab,Osmangazi Köprüsü(İzmir Yönü),3. Sınıf,API Hatası
+Teknosab,Osmangazi Köprüsü(İzmir Yönü),4. Sınıf,API Hatası
+Teknosab,Osmangazi Köprüsü(İzmir Yönü),5. Sınıf,API Hatası
+Teknosab,Osmangazi Köprüsü(İzmir Yönü),6. Sınıf,API Hatası
+Teknosab,Altınova,1. Sınıf,"315,00"
+Teknosab,Altınova,2. Sınıf,"510,00"
+Teknosab,Altınova,3. Sınıf,"605,00"
+Teknosab,Altınova,4. Sınıf,"800,00"
+Teknosab,Altınova,5. Sınıf,"1005,00"
+Teknosab,Altınova,6. Sınıf,"245,00"
+Teknosab,Kılıç,1. Sınıf,"290,00"
+Teknosab,Kılıç,2. Sınıf,"455,00"
+Teknosab,Kılıç,3. Sınıf,"530,00"
+Teknosab,Kılıç,4. Sınıf,"715,00"
+Teknosab,Kılıç,5. Sınıf,"885,00"
+Teknosab,Kılıç,6. Sınıf,"220,00"
+Teknosab,Orhangazi,1. Sınıf,"255,00"
+Teknosab,Orhangazi,2. Sınıf,"380,00"
+Teknosab,Orhangazi,3. Sınıf,"440,00"
+Teknosab,Orhangazi,4. Sınıf,"615,00"
+Teknosab,Orhangazi,5. Sınıf,"740,00"
+Teknosab,Orhangazi,6. Sınıf,"200,00"
+Teknosab,Gemlik,1. Sınıf,"210,00"
+Teknosab,Gemlik,2. Sınıf,"330,00"
+Teknosab,Gemlik,3. Sınıf,"385,00"
+Teknosab,Gemlik,4. Sınıf,"535,00"
+Teknosab,Gemlik,5. Sınıf,"630,00"
+Teknosab,Gemlik,6. Sınıf,"150,00"
+Teknosab,Bursa Serbest Bölge,1. Sınıf,"190,00"
+Teknosab,Bursa Serbest Bölge,2. Sınıf,"305,00"
+Teknosab,Bursa Serbest Bölge,3. Sınıf,"350,00"
+Teknosab,Bursa Serbest Bölge,4. Sınıf,"460,00"
+Teknosab,Bursa Serbest Bölge,5. Sınıf,"575,00"
+Teknosab,Bursa Serbest Bölge,6. Sınıf,"150,00"
+Teknosab,Bursa Kuzey,1. Sınıf,API Hatası
+Teknosab,Bursa Kuzey,2. Sınıf,API Hatası
+Teknosab,Bursa Kuzey,3. Sınıf,API Hatası
+Teknosab,Bursa Kuzey,4. Sınıf,API Hatası
+Teknosab,Bursa Kuzey,5. Sınıf,API Hatası
+Teknosab,Bursa Kuzey,6. Sınıf,API Hatası
+Teknosab,Karacabey-Mustafakemalpaşa-1,1. Sınıf,"110,00"
+Teknosab,Karacabey-Mustafakemalpaşa-1,2. Sınıf,"150,00"
+Teknosab,Karacabey-Mustafakemalpaşa-1,3. Sınıf,"175,00"
+Teknosab,Karacabey-Mustafakemalpaşa-1,5. Sınıf,"290,00"
+Teknosab,Karacabey-Mustafakemalpaşa-1,6. Sınıf,"70,00"
+Teknosab,Susurluk,1. Sınıf,"200,00"
+Teknosab,Susurluk,2. Sınıf,"290,00"
+Teknosab,Susurluk,3. Sınıf,"360,00"
+Teknosab,Susurluk,4. Sınıf,"460,00"
+Teknosab,Susurluk,5. Sınıf,"590,00"
+Teknosab,Susurluk,6. Sınıf,"130,00"
+Teknosab,Balıkesir Kuzey,1. Sınıf,"280,00"
+Teknosab,Balıkesir Kuzey,2. Sınıf,"425,00"
+Teknosab,Balıkesir Kuzey,3. Sınıf,"505,00"
+Teknosab,Balıkesir Kuzey,4. Sınıf,"670,00"
+Teknosab,Balıkesir Kuzey,5. Sınıf,"840,00"
+Teknosab,Balıkesir Kuzey,6. Sınıf,"200,00"
+Teknosab,Balıkesir Batı,1. Sınıf,"360,00"
+Teknosab,Balıkesir Batı,2. Sınıf,"540,00"
+Teknosab,Balıkesir Batı,3. Sınıf,"660,00"
+Teknosab,Balıkesir Batı,4. Sınıf,"865,00"
+Teknosab,Balıkesir Batı,5. Sınıf,"1095,00"
+Teknosab,Balıkesir Batı,6. Sınıf,"250,00"
+Teknosab,Savaştepe,1. Sınıf,"455,00"
+Teknosab,Savaştepe,2. Sınıf,"705,00"
+Teknosab,Savaştepe,3. Sınıf,"840,00"
+Teknosab,Savaştepe,4. Sınıf,"1095,00"
+Teknosab,Savaştepe,5. Sınıf,"1390,00"
+Teknosab,Savaştepe,6. Sınıf,"325,00"
+Teknosab,Soma,1. Sınıf,"490,00"
+Teknosab,Soma,2. Sınıf,"785,00"
+Teknosab,Soma,3. Sınıf,"915,00"
+Teknosab,Soma,4. Sınıf,"1200,00"
+Teknosab,Soma,5. Sınıf,"1535,00"
+Teknosab,Soma,6. Sınıf,"330,00"
+Teknosab,Kırkağaç,1. Sınıf,"540,00"
+Teknosab,Kırkağaç,2. Sınıf,"865,00"
+Teknosab,Kırkağaç,3. Sınıf,"1035,00"
+Teknosab,Kırkağaç,4. Sınıf,"1375,00"
+Teknosab,Kırkağaç,5. Sınıf,"1725,00"
+Teknosab,Kırkağaç,6. Sınıf,"380,00"
+Teknosab,Akhisar,1. Sınıf,"610,00"
+Teknosab,Akhisar,2. Sınıf,"965,00"
+Teknosab,Akhisar,3. Sınıf,"1165,00"
+Teknosab,Akhisar,4. Sınıf,"1535,00"
+Teknosab,Akhisar,5. Sınıf,"1935,00"
+Teknosab,Akhisar,6. Sınıf,"425,00"
+Teknosab,Saruhanlı,1. Sınıf,"660,00"
+Teknosab,Saruhanlı,2. Sınıf,"1050,00"
+Teknosab,Saruhanlı,3. Sınıf,"1245,00"
+Teknosab,Saruhanlı,4. Sınıf,"1670,00"
+Teknosab,Saruhanlı,5. Sınıf,"2085,00"
+Teknosab,Saruhanlı,6. Sınıf,"460,00"
+Teknosab,Turgutlu,1. Sınıf,"755,00"
+Teknosab,Turgutlu,2. Sınıf,"1200,00"
+Teknosab,Turgutlu,3. Sınıf,"1425,00"
+Teknosab,Turgutlu,4. Sınıf,"1885,00"
+Teknosab,Turgutlu,5. Sınıf,"2395,00"
+Teknosab,Turgutlu,6. Sınıf,"535,00"
+Teknosab,İzmir,1. Sınıf,"840,00"
+Teknosab,İzmir,2. Sınıf,"1345,00"
+Teknosab,İzmir,3. Sınıf,"1625,00"
+Teknosab,İzmir,4. Sınıf,"2135,00"
+Teknosab,İzmir,5. Sınıf,"2690,00"
+Teknosab,İzmir,6. Sınıf,"590,00"
+Teknosab,Osmangazi Köprüsü(İstanbul Yönü),1. Sınıf,"1125,00"
+Teknosab,Osmangazi Köprüsü(İstanbul Yönü),2. Sınıf,"1825,00"
+Teknosab,Osmangazi Köprüsü(İstanbul Yönü),3. Sınıf,"2150,00"
+Teknosab,Osmangazi Köprüsü(İstanbul Yönü),4. Sınıf,"2875,00"
+Teknosab,Osmangazi Köprüsü(İstanbul Yönü),5. Sınıf,"3600,00"
+Teknosab,Osmangazi Köprüsü(İstanbul Yönü),6. Sınıf,"825,00"
+Karacabey-Mustafakemalpaşa-1,Osmangazi Köprüsü(İzmir Yönü),1. Sınıf,API Hatası
+Karacabey-Mustafakemalpaşa-1,Osmangazi Köprüsü(İzmir Yönü),2. Sınıf,API Hatası
+Karacabey-Mustafakemalpaşa-1,Osmangazi Köprüsü(İzmir Yönü),3. Sınıf,API Hatası
+Karacabey-Mustafakemalpaşa-1,Osmangazi Köprüsü(İzmir Yönü),4. Sınıf,API Hatası
+Karacabey-Mustafakemalpaşa-1,Osmangazi Köprüsü(İzmir Yönü),5. Sınıf,API Hatası
+Karacabey-Mustafakemalpaşa-1,Osmangazi Köprüsü(İzmir Yönü),6. Sınıf,API Hatası
+Karacabey-Mustafakemalpaşa-1,Altınova,1. Sınıf,"410,00"
+Karacabey-Mustafakemalpaşa-1,Altınova,2. Sınıf,"630,00"
+Karacabey-Mustafakemalpaşa-1,Altınova,3. Sınıf,"745,00"
+Karacabey-Mustafakemalpaşa-1,Altınova,4. Sınıf,"995,00"
+Karacabey-Mustafakemalpaşa-1,Altınova,5. Sınıf,"1260,00"
+Karacabey-Mustafakemalpaşa-1,Altınova,6. Sınıf,"305,00"
+Karacabey-Mustafakemalpaşa-1,Kılıç,1. Sınıf,"385,00"
+Karacabey-Mustafakemalpaşa-1,Kılıç,2. Sınıf,"575,00"
+Karacabey-Mustafakemalpaşa-1,Kılıç,3. Sınıf,"670,00"
+Karacabey-Mustafakemalpaşa-1,Kılıç,4. Sınıf,"910,00"
+Karacabey-Mustafakemalpaşa-1,Kılıç,5. Sınıf,"1140,00"
+Karacabey-Mustafakemalpaşa-1,Kılıç,6. Sınıf,"280,00"
+Karacabey-Mustafakemalpaşa-1,Orhangazi,1. Sınıf,"350,00"
+Karacabey-Mustafakemalpaşa-1,Orhangazi,2. Sınıf,"500,00"
+Karacabey-Mustafakemalpaşa-1,Orhangazi,3. Sınıf,"580,00"
+Karacabey-Mustafakemalpaşa-1,Orhangazi,4. Sınıf,"810,00"
+Karacabey-Mustafakemalpaşa-1,Orhangazi,5. Sınıf,"995,00"
+Karacabey-Mustafakemalpaşa-1,Orhangazi,6. Sınıf,"260,00"
+Karacabey-Mustafakemalpaşa-1,Gemlik,1. Sınıf,"305,00"
+Karacabey-Mustafakemalpaşa-1,Gemlik,2. Sınıf,"450,00"
+Karacabey-Mustafakemalpaşa-1,Gemlik,3. Sınıf,"525,00"
+Karacabey-Mustafakemalpaşa-1,Gemlik,4. Sınıf,"730,00"
+Karacabey-Mustafakemalpaşa-1,Gemlik,5. Sınıf,"885,00"
+Karacabey-Mustafakemalpaşa-1,Gemlik,6. Sınıf,"210,00"
+Karacabey-Mustafakemalpaşa-1,Bursa Serbest Bölge,1. Sınıf,"285,00"
+Karacabey-Mustafakemalpaşa-1,Bursa Serbest Bölge,2. Sınıf,"425,00"
+Karacabey-Mustafakemalpaşa-1,Bursa Serbest Bölge,3. Sınıf,"490,00"
+Karacabey-Mustafakemalpaşa-1,Bursa Serbest Bölge,4. Sınıf,"655,00"
+Karacabey-Mustafakemalpaşa-1,Bursa Serbest Bölge,5. Sınıf,"830,00"
+Karacabey-Mustafakemalpaşa-1,Bursa Serbest Bölge,6. Sınıf,"210,00"
+Karacabey-Mustafakemalpaşa-1,Bursa Kuzey,1. Sınıf,API Hatası
+Karacabey-Mustafakemalpaşa-1,Bursa Kuzey,2. Sınıf,API Hatası
+Karacabey-Mustafakemalpaşa-1,Bursa Kuzey,3. Sınıf,API Hatası
+Karacabey-Mustafakemalpaşa-1,Bursa Kuzey,4. Sınıf,API Hatası
+Karacabey-Mustafakemalpaşa-1,Bursa Kuzey,5. Sınıf,API Hatası
+Karacabey-Mustafakemalpaşa-1,Bursa Kuzey,6. Sınıf,API Hatası
+Karacabey-Mustafakemalpaşa-1,Teknosab,1. Sınıf,"110,00"
+Karacabey-Mustafakemalpaşa-1,Teknosab,2. Sınıf,"150,00"
+Karacabey-Mustafakemalpaşa-1,Teknosab,3. Sınıf,"175,00"
+Karacabey-Mustafakemalpaşa-1,Teknosab,4. Sınıf,"235,00"
+Karacabey-Mustafakemalpaşa-1,Teknosab,5. Sınıf,"290,00"
+Karacabey-Mustafakemalpaşa-1,Teknosab,6. Sınıf,"70,00"
+Karacabey-Mustafakemalpaşa-1,Susurluk,1. Sınıf,API Hatası
+Karacabey-Mustafakemalpaşa-1,Susurluk,2. Sınıf,API Hatası
+Karacabey-Mustafakemalpaşa-1,Susurluk,3. Sınıf,API Hatası
+Karacabey-Mustafakemalpaşa-1,Susurluk,4. Sınıf,API Hatası
+Karacabey-Mustafakemalpaşa-1,Susurluk,5. Sınıf,API Hatası
+Karacabey-Mustafakemalpaşa-1,Susurluk,6. Sınıf,API Hatası
+Karacabey-Mustafakemalpaşa-1,Balıkesir Kuzey,1. Sınıf,API Hatası
+Karacabey-Mustafakemalpaşa-1,Balıkesir Kuzey,2. Sınıf,API Hatası
+Karacabey-Mustafakemalpaşa-1,Balıkesir Kuzey,3. Sınıf,API Hatası
+Karacabey-Mustafakemalpaşa-1,Balıkesir Kuzey,4. Sınıf,API Hatası
+Karacabey-Mustafakemalpaşa-1,Balıkesir Kuzey,5. Sınıf,API Hatası
+Karacabey-Mustafakemalpaşa-1,Balıkesir Kuzey,6. Sınıf,API Hatası
+Karacabey-Mustafakemalpaşa-1,Balıkesir Batı,1. Sınıf,API Hatası
+Karacabey-Mustafakemalpaşa-1,Balıkesir Batı,2. Sınıf,API Hatası
+Karacabey-Mustafakemalpaşa-1,Balıkesir Batı,3. Sınıf,API Hatası
+Karacabey-Mustafakemalpaşa-1,Balıkesir Batı,4. Sınıf,API Hatası
+Karacabey-Mustafakemalpaşa-1,Balıkesir Batı,5. Sınıf,API Hatası
+Karacabey-Mustafakemalpaşa-1,Balıkesir Batı,6. Sınıf,API Hatası
+Karacabey-Mustafakemalpaşa-1,Savaştepe,1. Sınıf,API Hatası
+Karacabey-Mustafakemalpaşa-1,Savaştepe,2. Sınıf,API Hatası
+Karacabey-Mustafakemalpaşa-1,Savaştepe,3. Sınıf,API Hatası
+Karacabey-Mustafakemalpaşa-1,Savaştepe,4. Sınıf,API Hatası
+Karacabey-Mustafakemalpaşa-1,Savaştepe,5. Sınıf,API Hatası
+Karacabey-Mustafakemalpaşa-1,Savaştepe,6. Sınıf,API Hatası
+Karacabey-Mustafakemalpaşa-1,Soma,1. Sınıf,API Hatası
+Karacabey-Mustafakemalpaşa-1,Soma,2. Sınıf,API Hatası
+Karacabey-Mustafakemalpaşa-1,Soma,3. Sınıf,API Hatası
+Karacabey-Mustafakemalpaşa-1,Soma,4. Sınıf,API Hatası
+Karacabey-Mustafakemalpaşa-1,Soma,5. Sınıf,API Hatası
+Karacabey-Mustafakemalpaşa-1,Soma,6. Sınıf,API Hatası
+Karacabey-Mustafakemalpaşa-1,Kırkağaç,1. Sınıf,API Hatası
+Karacabey-Mustafakemalpaşa-1,Kırkağaç,2. Sınıf,API Hatası
+Karacabey-Mustafakemalpaşa-1,Kırkağaç,3. Sınıf,API Hatası
+Karacabey-Mustafakemalpaşa-1,Kırkağaç,4. Sınıf,API Hatası
+Karacabey-Mustafakemalpaşa-1,Kırkağaç,5. Sınıf,API Hatası
+Karacabey-Mustafakemalpaşa-1,Kırkağaç,6. Sınıf,API Hatası
+Karacabey-Mustafakemalpaşa-1,Akhisar,1. Sınıf,API Hatası
+Karacabey-Mustafakemalpaşa-1,Akhisar,2. Sınıf,API Hatası
+Karacabey-Mustafakemalpaşa-1,Akhisar,3. Sınıf,API Hatası
+Karacabey-Mustafakemalpaşa-1,Akhisar,4. Sınıf,API Hatası
+Karacabey-Mustafakemalpaşa-1,Akhisar,5. Sınıf,API Hatası
+Karacabey-Mustafakemalpaşa-1,Akhisar,6. Sınıf,API Hatası
+Karacabey-Mustafakemalpaşa-1,Saruhanlı,1. Sınıf,API Hatası
+Karacabey-Mustafakemalpaşa-1,Saruhanlı,2. Sınıf,API Hatası
+Karacabey-Mustafakemalpaşa-1,Saruhanlı,3. Sınıf,API Hatası
+Karacabey-Mustafakemalpaşa-1,Saruhanlı,4. Sınıf,API Hatası
+Karacabey-Mustafakemalpaşa-1,Saruhanlı,5. Sınıf,API Hatası
+Karacabey-Mustafakemalpaşa-1,Saruhanlı,6. Sınıf,API Hatası
+Karacabey-Mustafakemalpaşa-1,Turgutlu,1. Sınıf,API Hatası
+Karacabey-Mustafakemalpaşa-1,Turgutlu,2. Sınıf,API Hatası
+Karacabey-Mustafakemalpaşa-1,Turgutlu,3. Sınıf,API Hatası
+Karacabey-Mustafakemalpaşa-1,Turgutlu,4. Sınıf,API Hatası
+Karacabey-Mustafakemalpaşa-1,Turgutlu,5. Sınıf,API Hatası
+Karacabey-Mustafakemalpaşa-1,Turgutlu,6. Sınıf,API Hatası
+Karacabey-Mustafakemalpaşa-1,İzmir,1. Sınıf,API Hatası
+Karacabey-Mustafakemalpaşa-1,İzmir,2. Sınıf,API Hatası
+Karacabey-Mustafakemalpaşa-1,İzmir,3. Sınıf,API Hatası
+Karacabey-Mustafakemalpaşa-1,İzmir,4. Sınıf,API Hatası
+Karacabey-Mustafakemalpaşa-1,İzmir,5. Sınıf,API Hatası
+Karacabey-Mustafakemalpaşa-1,İzmir,6. Sınıf,API Hatası
+Karacabey-Mustafakemalpaşa-1,Osmangazi Köprüsü(İstanbul Yönü),1. Sınıf,"1220,00"
+Karacabey-Mustafakemalpaşa-1,Osmangazi Köprüsü(İstanbul Yönü),2. Sınıf,"1945,00"
+Karacabey-Mustafakemalpaşa-1,Osmangazi Köprüsü(İstanbul Yönü),3. Sınıf,"2290,00"
+Karacabey-Mustafakemalpaşa-1,Osmangazi Köprüsü(İstanbul Yönü),4. Sınıf,"3070,00"
+Karacabey-Mustafakemalpaşa-1,Osmangazi Köprüsü(İstanbul Yönü),5. Sınıf,"3855,00"
+Karacabey-Mustafakemalpaşa-1,Osmangazi Köprüsü(İstanbul Yönü),6. Sınıf,"885,00"
+Susurluk,Osmangazi Köprüsü(İzmir Yönü),1. Sınıf,API Hatası
+Susurluk,Osmangazi Köprüsü(İzmir Yönü),2. Sınıf,API Hatası
+Susurluk,Osmangazi Köprüsü(İzmir Yönü),3. Sınıf,API Hatası
+Susurluk,Osmangazi Köprüsü(İzmir Yönü),4. Sınıf,API Hatası
+Susurluk,Osmangazi Köprüsü(İzmir Yönü),5. Sınıf,API Hatası
+Susurluk,Osmangazi Köprüsü(İzmir Yönü),6. Sınıf,API Hatası
+Susurluk,Altınova,1. Sınıf,"485,00"
+Susurluk,Altınova,2. Sınıf,"785,00"
+Susurluk,Altınova,3. Sınıf,"945,00"
+Susurluk,Altınova,4. Sınıf,"1225,00"
+Susurluk,Altınova,5. Sınıf,"1560,00"
+Susurluk,Altınova,6. Sınıf,"375,00"
+Susurluk,Kılıç,1. Sınıf,"460,00"
+Susurluk,Kılıç,2. Sınıf,"730,00"
+Susurluk,Kılıç,3. Sınıf,"870,00"
+Susurluk,Kılıç,4. Sınıf,"1140,00"
+Susurluk,Kılıç,5. Sınıf,"1440,00"
+Susurluk,Kılıç,6. Sınıf,"350,00"
+Susurluk,Orhangazi,1. Sınıf,"425,00"
+Susurluk,Orhangazi,2. Sınıf,"655,00"
+Susurluk,Orhangazi,3. Sınıf,"780,00"
+Susurluk,Orhangazi,4. Sınıf,"1040,00"
+Susurluk,Orhangazi,5. Sınıf,"1295,00"
+Susurluk,Orhangazi,6. Sınıf,"330,00"
+Susurluk,Gemlik,1. Sınıf,"380,00"
+Susurluk,Gemlik,2. Sınıf,"605,00"
+Susurluk,Gemlik,3. Sınıf,"725,00"
+Susurluk,Gemlik,4. Sınıf,"960,00"
+Susurluk,Gemlik,5. Sınıf,"1185,00"
+Susurluk,Gemlik,6. Sınıf,"280,00"
+Susurluk,Bursa Serbest Bölge,1. Sınıf,"360,00"
+Susurluk,Bursa Serbest Bölge,2. Sınıf,"580,00"
+Susurluk,Bursa Serbest Bölge,3. Sınıf,"690,00"
+Susurluk,Bursa Serbest Bölge,4. Sınıf,"885,00"
+Susurluk,Bursa Serbest Bölge,5. Sınıf,"1130,00"
+Susurluk,Bursa Serbest Bölge,6. Sınıf,"280,00"
+Susurluk,Bursa Kuzey,1. Sınıf,API Hatası
+Susurluk,Bursa Kuzey,2. Sınıf,API Hatası
+Susurluk,Bursa Kuzey,3. Sınıf,API Hatası
+Susurluk,Bursa Kuzey,4. Sınıf,API Hatası
+Susurluk,Bursa Kuzey,5. Sınıf,API Hatası
+Susurluk,Bursa Kuzey,6. Sınıf,API Hatası
+Susurluk,Teknosab,1. Sınıf,"200,00"
+Susurluk,Teknosab,2. Sınıf,"290,00"
+Susurluk,Teknosab,3. Sınıf,"360,00"
+Susurluk,Teknosab,4. Sınıf,"460,00"
+Susurluk,Teknosab,5. Sınıf,"590,00"
+Susurluk,Teknosab,6. Sınıf,"130,00"
+Susurluk,Karacabey-Mustafakemalpaşa-1,1. Sınıf,API Hatası
+Susurluk,Karacabey-Mustafakemalpaşa-1,2. Sınıf,API Hatası
+Susurluk,Karacabey-Mustafakemalpaşa-1,3. Sınıf,API Hatası
+Susurluk,Karacabey-Mustafakemalpaşa-1,4. Sınıf,API Hatası
+Susurluk,Karacabey-Mustafakemalpaşa-1,5. Sınıf,API Hatası
+Susurluk,Karacabey-Mustafakemalpaşa-1,6. Sınıf,API Hatası
+Susurluk,Balıkesir Kuzey,1. Sınıf,"110,00"
+Susurluk,Balıkesir Kuzey,2. Sınıf,"150,00"
+Susurluk,Balıkesir Kuzey,3. Sınıf,"200,00"
+Susurluk,Balıkesir Kuzey,4. Sınıf,"235,00"
+Susurluk,Balıkesir Kuzey,5. Sınıf,"290,00"
+Susurluk,Balıkesir Kuzey,6. Sınıf,"70,00"
+Susurluk,Balıkesir Batı,1. Sınıf,"200,00"
+Susurluk,Balıkesir Batı,2. Sınıf,"290,00"
+Susurluk,Balıkesir Batı,3. Sınıf,"330,00"
+Susurluk,Balıkesir Batı,4. Sınıf,"455,00"
+Susurluk,Balıkesir Batı,5. Sınıf,"540,00"
+Susurluk,Balıkesir Batı,6. Sınıf,"130,00"
+Susurluk,Savaştepe,1. Sınıf,"280,00"
+Susurluk,Savaştepe,2. Sınıf,"425,00"
+Susurluk,Savaştepe,3. Sınıf,"505,00"
+Susurluk,Savaştepe,4. Sınıf,"670,00"
+Susurluk,Savaştepe,5. Sınıf,"840,00"
+Susurluk,Soma,1. Sınıf,"325,00"
+Susurluk,Soma,2. Sınıf,"505,00"
+Susurluk,Soma,3. Sınıf,"590,00"
+Susurluk,Soma,4. Sınıf,"785,00"
+Susurluk,Soma,5. Sınıf,"995,00"
+Susurluk,Soma,6. Sınıf,"235,00"
+Susurluk,Kırkağaç,1. Sınıf,"380,00"
+Susurluk,Kırkağaç,2. Sınıf,"590,00"
+Susurluk,Kırkağaç,3. Sınıf,"710,00"
+Susurluk,Kırkağaç,4. Sınıf,"955,00"
+Susurluk,Kırkağaç,5. Sınıf,"1175,00"
+Susurluk,Kırkağaç,6. Sınıf,"280,00"
+Susurluk,Akhisar,1. Sınıf,"455,00"
+Susurluk,Akhisar,2. Sınıf,"705,00"
+Susurluk,Akhisar,3. Sınıf,"820,00"
+Susurluk,Akhisar,4. Sınıf,"1095,00"
+Susurluk,Akhisar,5. Sınıf,"1390,00"
+Susurluk,Akhisar,6. Sınıf,"325,00"
+Susurluk,Saruhanlı,1. Sınıf,"490,00"
+Susurluk,Saruhanlı,2. Sınıf,"785,00"
+Susurluk,Saruhanlı,3. Sınıf,"920,00"
+Susurluk,Saruhanlı,4. Sınıf,"1215,00"
+Susurluk,Saruhanlı,5. Sınıf,"1555,00"
+Susurluk,Saruhanlı,6. Sınıf,"330,00"
+Susurluk,Turgutlu,1. Sınıf,"590,00"
+Susurluk,Turgutlu,2. Sınıf,"920,00"
+Susurluk,Turgutlu,3. Sınıf,"1095,00"
+Susurluk,Turgutlu,4. Sınıf,"1470,00"
+Susurluk,Turgutlu,5. Sınıf,"1850,00"
+Susurluk,Turgutlu,6. Sınıf,"405,00"
+Susurluk,İzmir,1. Sınıf,"670,00"
+Susurluk,İzmir,2. Sınıf,"1070,00"
+Susurluk,İzmir,3. Sınıf,"1290,00"
+Susurluk,İzmir,4. Sınıf,"1705,00"
+Susurluk,İzmir,5. Sınıf,"2135,00"
+Susurluk,İzmir,6. Sınıf,"490,00"
+Susurluk,Osmangazi Köprüsü(İstanbul Yönü),1. Sınıf,"1295,00"
+Susurluk,Osmangazi Köprüsü(İstanbul Yönü),2. Sınıf,"2100,00"
+Susurluk,Osmangazi Köprüsü(İstanbul Yönü),3. Sınıf,"2490,00"
+Susurluk,Osmangazi Köprüsü(İstanbul Yönü),4. Sınıf,"3300,00"
+Susurluk,Osmangazi Köprüsü(İstanbul Yönü),5. Sınıf,"4155,00"
+Susurluk,Osmangazi Köprüsü(İstanbul Yönü),6. Sınıf,"955,00"
+Balıkesir Kuzey,Osmangazi Köprüsü(İzmir Yönü),1. Sınıf,API Hatası
+Balıkesir Kuzey,Osmangazi Köprüsü(İzmir Yönü),2. Sınıf,API Hatası
+Balıkesir Kuzey,Osmangazi Köprüsü(İzmir Yönü),3. Sınıf,API Hatası
+Balıkesir Kuzey,Osmangazi Köprüsü(İzmir Yönü),4. Sınıf,API Hatası
+Balıkesir Kuzey,Osmangazi Köprüsü(İzmir Yönü),5. Sınıf,API Hatası
+Balıkesir Kuzey,Osmangazi Köprüsü(İzmir Yönü),6. Sınıf,API Hatası
+Balıkesir Kuzey,Altınova,1. Sınıf,"565,00"
+Balıkesir Kuzey,Altınova,2. Sınıf,"915,00"
+Balıkesir Kuzey,Altınova,3. Sınıf,"1090,00"
+Balıkesir Kuzey,Altınova,4. Sınıf,"1430,00"
+Balıkesir Kuzey,Altınova,5. Sınıf,"1805,00"
+Balıkesir Kuzey,Altınova,6. Sınıf,"410,00"
+Balıkesir Kuzey,Kılıç,1. Sınıf,"540,00"
+Balıkesir Kuzey,Kılıç,2. Sınıf,"860,00"
+Balıkesir Kuzey,Kılıç,3. Sınıf,"1015,00"
+Balıkesir Kuzey,Kılıç,4. Sınıf,"1345,00"
+Balıkesir Kuzey,Kılıç,5. Sınıf,"1685,00"
+Balıkesir Kuzey,Kılıç,6. Sınıf,"385,00"
+Balıkesir Kuzey,Orhangazi,1. Sınıf,"505,00"
+Balıkesir Kuzey,Orhangazi,2. Sınıf,"785,00"
+Balıkesir Kuzey,Orhangazi,3. Sınıf,"925,00"
+Balıkesir Kuzey,Orhangazi,4. Sınıf,"1245,00"
+Balıkesir Kuzey,Orhangazi,5. Sınıf,"1540,00"
+Balıkesir Kuzey,Orhangazi,6. Sınıf,"365,00"
+Balıkesir Kuzey,Gemlik,1. Sınıf,"460,00"
+Balıkesir Kuzey,Gemlik,2. Sınıf,"735,00"
+Balıkesir Kuzey,Gemlik,3. Sınıf,"870,00"
+Balıkesir Kuzey,Gemlik,4. Sınıf,"1165,00"
+Balıkesir Kuzey,Gemlik,5. Sınıf,"1430,00"
+Balıkesir Kuzey,Gemlik,6. Sınıf,"315,00"
+Balıkesir Kuzey,Bursa Serbest Bölge,1. Sınıf,"440,00"
+Balıkesir Kuzey,Bursa Serbest Bölge,2. Sınıf,"710,00"
+Balıkesir Kuzey,Bursa Serbest Bölge,3. Sınıf,"835,00"
+Balıkesir Kuzey,Bursa Serbest Bölge,4. Sınıf,"1090,00"
+Balıkesir Kuzey,Bursa Serbest Bölge,5. Sınıf,"1375,00"
+Balıkesir Kuzey,Bursa Serbest Bölge,6. Sınıf,"315,00"
+Balıkesir Kuzey,Bursa Kuzey,1. Sınıf,API Hatası
+Balıkesir Kuzey,Bursa Kuzey,2. Sınıf,API Hatası
+Balıkesir Kuzey,Bursa Kuzey,3. Sınıf,API Hatası
+Balıkesir Kuzey,Bursa Kuzey,4. Sınıf,API Hatası
+Balıkesir Kuzey,Bursa Kuzey,5. Sınıf,API Hatası
+Balıkesir Kuzey,Bursa Kuzey,6. Sınıf,API Hatası
+Balıkesir Kuzey,Teknosab,1. Sınıf,"280,00"
+Balıkesir Kuzey,Teknosab,2. Sınıf,"425,00"
+Balıkesir Kuzey,Teknosab,3. Sınıf,"505,00"
+Balıkesir Kuzey,Teknosab,4. Sınıf,"670,00"
+Balıkesir Kuzey,Teknosab,5. Sınıf,"840,00"
+Balıkesir Kuzey,Teknosab,6. Sınıf,"200,00"
+Balıkesir Kuzey,Karacabey-Mustafakemalpaşa-1,1. Sınıf,API Hatası
+Balıkesir Kuzey,Karacabey-Mustafakemalpaşa-1,2. Sınıf,API Hatası
+Balıkesir Kuzey,Karacabey-Mustafakemalpaşa-1,3. Sınıf,API Hatası
+Balıkesir Kuzey,Karacabey-Mustafakemalpaşa-1,4. Sınıf,API Hatası
+Balıkesir Kuzey,Karacabey-Mustafakemalpaşa-1,5. Sınıf,API Hatası
+Balıkesir Kuzey,Karacabey-Mustafakemalpaşa-1,6. Sınıf,API Hatası
+Balıkesir Kuzey,Susurluk,1. Sınıf,"110,00"
+Balıkesir Kuzey,Susurluk,2. Sınıf,"150,00"
+Balıkesir Kuzey,Susurluk,3. Sınıf,"200,00"
+Balıkesir Kuzey,Susurluk,4. Sınıf,"235,00"
+Balıkesir Kuzey,Susurluk,5. Sınıf,"290,00"
+Balıkesir Kuzey,Susurluk,6. Sınıf,"70,00"
+Balıkesir Kuzey,Balıkesir Batı,1. Sınıf,"110,00"
+Balıkesir Kuzey,Balıkesir Batı,2. Sınıf,"150,00"
+Balıkesir Kuzey,Balıkesir Batı,3. Sınıf,"200,00"
+Balıkesir Kuzey,Balıkesir Batı,4. Sınıf,"235,00"
+Balıkesir Kuzey,Balıkesir Batı,5. Sınıf,"290,00"
+Balıkesir Kuzey,Balıkesir Batı,6. Sınıf,"70,00"
+Balıkesir Kuzey,Savaştepe,1. Sınıf,"200,00"
+Balıkesir Kuzey,Savaştepe,2. Sınıf,"290,00"
+Balıkesir Kuzey,Savaştepe,3. Sınıf,"360,00"
+Balıkesir Kuzey,Savaştepe,4. Sınıf,"460,00"
+Balıkesir Kuzey,Savaştepe,5. Sınıf,"590,00"
+Balıkesir Kuzey,Savaştepe,6. Sınıf,"130,00"
+Balıkesir Kuzey,Soma,1. Sınıf,"235,00"
+Balıkesir Kuzey,Soma,2. Sınıf,"360,00"
+Balıkesir Kuzey,Soma,3. Sınıf,"455,00"
+Balıkesir Kuzey,Soma,4. Sınıf,"575,00"
+Balıkesir Kuzey,Soma,5. Sınıf,"710,00"
+Balıkesir Kuzey,Soma,6. Sınıf,"175,00"
+Balıkesir Kuzey,Kırkağaç,1. Sınıf,"290,00"
+Balıkesir Kuzey,Kırkağaç,2. Sınıf,"460,00"
+Balıkesir Kuzey,Kırkağaç,3. Sınıf,"540,00"
+Balıkesir Kuzey,Kırkağaç,4. Sınıf,"740,00"
+Balıkesir Kuzey,Kırkağaç,5. Sınıf,"920,00"
+Balıkesir Kuzey,Kırkağaç,6. Sınıf,"210,00"
+Balıkesir Kuzey,Akhisar,1. Sınıf,"360,00"
+Balıkesir Kuzey,Akhisar,2. Sınıf,"575,00"
+Balıkesir Kuzey,Akhisar,3. Sınıf,"670,00"
+Balıkesir Kuzey,Akhisar,4. Sınıf,"885,00"
+Balıkesir Kuzey,Akhisar,5. Sınıf,"1125,00"
+Balıkesir Kuzey,Akhisar,6. Sınıf,"250,00"
+Balıkesir Kuzey,Saruhanlı,1. Sınıf,"405,00"
+Balıkesir Kuzey,Saruhanlı,2. Sınıf,"660,00"
+Balıkesir Kuzey,Saruhanlı,3. Sınıf,"785,00"
+Balıkesir Kuzey,Saruhanlı,4. Sınıf,"1035,00"
+Balıkesir Kuzey,Saruhanlı,5. Sınıf,"1290,00"
+Balıkesir Kuzey,Saruhanlı,6. Sınıf,"290,00"
+Balıkesir Kuzey,Turgutlu,1. Sınıf,"505,00"
+Balıkesir Kuzey,Turgutlu,2. Sınıf,"805,00"
+Balıkesir Kuzey,Turgutlu,3. Sınıf,"955,00"
+Balıkesir Kuzey,Turgutlu,4. Sınıf,"1265,00"
+Balıkesir Kuzey,Turgutlu,5. Sınıf,"1600,00"
+Balıkesir Kuzey,Turgutlu,6. Sınıf,"360,00"
+Balıkesir Kuzey,İzmir,1. Sınıf,"590,00"
+Balıkesir Kuzey,İzmir,2. Sınıf,"955,00"
+Balıkesir Kuzey,İzmir,3. Sınıf,"1135,00"
+Balıkesir Kuzey,İzmir,4. Sınıf,"1495,00"
+Balıkesir Kuzey,İzmir,5. Sınıf,"1885,00"
+Balıkesir Kuzey,İzmir,6. Sınıf,"425,00"
+Balıkesir Kuzey,Osmangazi Köprüsü(İstanbul Yönü),1. Sınıf,"1375,00"
+Balıkesir Kuzey,Osmangazi Köprüsü(İstanbul Yönü),2. Sınıf,"2230,00"
+Balıkesir Kuzey,Osmangazi Köprüsü(İstanbul Yönü),3. Sınıf,"2635,00"
+Balıkesir Kuzey,Osmangazi Köprüsü(İstanbul Yönü),4. Sınıf,"3505,00"
+Balıkesir Kuzey,Osmangazi Köprüsü(İstanbul Yönü),5. Sınıf,"4400,00"
+Balıkesir Kuzey,Osmangazi Köprüsü(İstanbul Yönü),6. Sınıf,"990,00"
+Balıkesir Batı,Osmangazi Köprüsü(İzmir Yönü),1. Sınıf,API Hatası
+Balıkesir Batı,Osmangazi Köprüsü(İzmir Yönü),2. Sınıf,API Hatası
+Balıkesir Batı,Osmangazi Köprüsü(İzmir Yönü),3. Sınıf,API Hatası
+Balıkesir Batı,Osmangazi Köprüsü(İzmir Yönü),4. Sınıf,API Hatası
+Balıkesir Batı,Osmangazi Köprüsü(İzmir Yönü),5. Sınıf,API Hatası
+Balıkesir Batı,Osmangazi Köprüsü(İzmir Yönü),6. Sınıf,API Hatası
+Balıkesir Batı,Altınova,1. Sınıf,"660,00"
+Balıkesir Batı,Altınova,2. Sınıf,"1050,00"
+Balıkesir Batı,Altınova,3. Sınıf,"1240,00"
+Balıkesir Batı,Altınova,4. Sınıf,"1640,00"
+Balıkesir Batı,Altınova,5. Sınıf,"2095,00"
+Balıkesir Batı,Altınova,6. Sınıf,"465,00"
+Balıkesir Batı,Kılıç,1. Sınıf,"635,00"
+Balıkesir Batı,Kılıç,2. Sınıf,"995,00"
+Balıkesir Batı,Kılıç,3. Sınıf,"1165,00"
+Balıkesir Batı,Kılıç,4. Sınıf,"1555,00"
+Balıkesir Batı,Kılıç,5. Sınıf,"1975,00"
+Balıkesir Batı,Kılıç,6. Sınıf,"440,00"
+Balıkesir Batı,Orhangazi,1. Sınıf,"600,00"
+Balıkesir Batı,Orhangazi,2. Sınıf,"920,00"
+Balıkesir Batı,Orhangazi,3. Sınıf,"1075,00"
+Balıkesir Batı,Orhangazi,4. Sınıf,"1455,00"
+Balıkesir Batı,Orhangazi,5. Sınıf,"1830,00"
+Balıkesir Batı,Orhangazi,6. Sınıf,"420,00"
+Balıkesir Batı,Gemlik,1. Sınıf,"555,00"
+Balıkesir Batı,Gemlik,2. Sınıf,"870,00"
+Balıkesir Batı,Gemlik,3. Sınıf,"1020,00"
+Balıkesir Batı,Gemlik,4. Sınıf,"1375,00"
+Balıkesir Batı,Gemlik,5. Sınıf,"1720,00"
+Balıkesir Batı,Gemlik,6. Sınıf,"370,00"
+Balıkesir Batı,Bursa Serbest Bölge,1. Sınıf,"535,00"
+Balıkesir Batı,Bursa Serbest Bölge,2. Sınıf,"845,00"
+Balıkesir Batı,Bursa Serbest Bölge,3. Sınıf,"985,00"
+Balıkesir Batı,Bursa Serbest Bölge,4. Sınıf,"1300,00"
+Balıkesir Batı,Bursa Serbest Bölge,5. Sınıf,"1665,00"
+Balıkesir Batı,Bursa Serbest Bölge,6. Sınıf,"370,00"
+Balıkesir Batı,Bursa Kuzey,1. Sınıf,API Hatası
+Balıkesir Batı,Bursa Kuzey,2. Sınıf,API Hatası
+Balıkesir Batı,Bursa Kuzey,3. Sınıf,API Hatası
+Balıkesir Batı,Bursa Kuzey,4. Sınıf,API Hatası
+Balıkesir Batı,Bursa Kuzey,5. Sınıf,API Hatası
+Balıkesir Batı,Bursa Kuzey,6. Sınıf,API Hatası
+Balıkesir Batı,Teknosab,1. Sınıf,"360,00"
+Balıkesir Batı,Teknosab,2. Sınıf,"540,00"
+Balıkesir Batı,Teknosab,3. Sınıf,"660,00"
+Balıkesir Batı,Teknosab,4. Sınıf,"865,00"
+Balıkesir Batı,Teknosab,5. Sınıf,"1095,00"
+Balıkesir Batı,Teknosab,6. Sınıf,"250,00"
+Balıkesir Batı,Karacabey-Mustafakemalpaşa-1,1. Sınıf,API Hatası
+Balıkesir Batı,Karacabey-Mustafakemalpaşa-1,2. Sınıf,API Hatası
+Balıkesir Batı,Karacabey-Mustafakemalpaşa-1,3. Sınıf,API Hatası
+Balıkesir Batı,Karacabey-Mustafakemalpaşa-1,4. Sınıf,API Hatası
+Balıkesir Batı,Karacabey-Mustafakemalpaşa-1,5. Sınıf,API Hatası
+Balıkesir Batı,Karacabey-Mustafakemalpaşa-1,6. Sınıf,API Hatası
+Balıkesir Batı,Susurluk,1. Sınıf,"200,00"
+Balıkesir Batı,Susurluk,2. Sınıf,"290,00"
+Balıkesir Batı,Susurluk,3. Sınıf,"330,00"
+Balıkesir Batı,Susurluk,4. Sınıf,"455,00"
+Balıkesir Batı,Susurluk,5. Sınıf,"540,00"
+Balıkesir Batı,Susurluk,6. Sınıf,"130,00"
+Balıkesir Batı,Balıkesir Kuzey,1. Sınıf,"110,00"
+Balıkesir Batı,Balıkesir Kuzey,2. Sınıf,"150,00"
+Balıkesir Batı,Balıkesir Kuzey,3. Sınıf,"200,00"
+Balıkesir Batı,Balıkesir Kuzey,4. Sınıf,"235,00"
+Balıkesir Batı,Balıkesir Kuzey,5. Sınıf,"290,00"
+Balıkesir Batı,Balıkesir Kuzey,6. Sınıf,"70,00"
+Balıkesir Batı,Savaştepe,1. Sınıf,"110,00"
+Balıkesir Batı,Savaştepe,2. Sınıf,"175,00"
+Balıkesir Batı,Savaştepe,3. Sınıf,"200,00"
+Balıkesir Batı,Savaştepe,4. Sınıf,"250,00"
+Balıkesir Batı,Savaştepe,5. Sınıf,"325,00"
+Balıkesir Batı,Savaştepe,6. Sınıf,"80,00"
+Balıkesir Batı,Soma,1. Sınıf,"150,00"
+Balıkesir Batı,Soma,2. Sınıf,"235,00"
+Balıkesir Batı,Soma,3. Sınıf,"280,00"
+Balıkesir Batı,Soma,4. Sınıf,"360,00"
+Balıkesir Batı,Soma,5. Sınıf,"460,00"
+Balıkesir Batı,Soma,6. Sınıf,"110,00"
+Balıkesir Batı,Kırkağaç,1. Sınıf,"210,00"
+Balıkesir Batı,Kırkağaç,2. Sınıf,"330,00"
+Balıkesir Batı,Kırkağaç,3. Sınıf,"405,00"
+Balıkesir Batı,Kırkağaç,4. Sınıf,"535,00"
+Balıkesir Batı,Kırkağaç,5. Sınıf,"660,00"
+Balıkesir Batı,Kırkağaç,6. Sınıf,"150,00"
+Balıkesir Batı,Akhisar,1. Sınıf,"280,00"
+Balıkesir Batı,Akhisar,2. Sınıf,"455,00"
+Balıkesir Batı,Akhisar,3. Sınıf,"505,00"
+Balıkesir Batı,Akhisar,4. Sınıf,"670,00"
+Balıkesir Batı,Akhisar,5. Sınıf,"865,00"
+Balıkesir Batı,Akhisar,6. Sınıf,"200,00"
+Balıkesir Batı,Saruhanlı,1. Sınıf,"325,00"
+Balıkesir Batı,Saruhanlı,2. Sınıf,"505,00"
+Balıkesir Batı,Saruhanlı,3. Sınıf,"610,00"
+Balıkesir Batı,Saruhanlı,4. Sınıf,"805,00"
+Balıkesir Batı,Saruhanlı,5. Sınıf,"1010,00"
+Balıkesir Batı,Saruhanlı,6. Sınıf,"235,00"
+Balıkesir Batı,Turgutlu,1. Sınıf,"425,00"
+Balıkesir Batı,Turgutlu,2. Sınıf,"670,00"
+Balıkesir Batı,Turgutlu,3. Sınıf,"805,00"
+Balıkesir Batı,Turgutlu,4. Sınıf,"1050,00"
+Balıkesir Batı,Turgutlu,5. Sınıf,"1340,00"
+Balıkesir Batı,Turgutlu,6. Sınıf,"290,00"
+Balıkesir Batı,İzmir,1. Sınıf,"505,00"
+Balıkesir Batı,İzmir,2. Sınıf,"820,00"
+Balıkesir Batı,İzmir,3. Sınıf,"965,00"
+Balıkesir Batı,İzmir,4. Sınıf,"1290,00"
+Balıkesir Batı,İzmir,5. Sınıf,"1625,00"
+Balıkesir Batı,İzmir,6. Sınıf,"360,00"
+Balıkesir Batı,Osmangazi Köprüsü(İstanbul Yönü),1. Sınıf,"1470,00"
+Balıkesir Batı,Osmangazi Köprüsü(İstanbul Yönü),2. Sınıf,"2365,00"
+Balıkesir Batı,Osmangazi Köprüsü(İstanbul Yönü),3. Sınıf,"2785,00"
+Balıkesir Batı,Osmangazi Köprüsü(İstanbul Yönü),4. Sınıf,"3715,00"
+Balıkesir Batı,Osmangazi Köprüsü(İstanbul Yönü),5. Sınıf,"4690,00"
+Balıkesir Batı,Osmangazi Köprüsü(İstanbul Yönü),6. Sınıf,"1045,00"
+Savaştepe,Osmangazi Köprüsü(İzmir Yönü),1. Sınıf,API Hatası
+Savaştepe,Osmangazi Köprüsü(İzmir Yönü),2. Sınıf,API Hatası
+Savaştepe,Osmangazi Köprüsü(İzmir Yönü),3. Sınıf,API Hatası
+Savaştepe,Osmangazi Köprüsü(İzmir Yönü),4. Sınıf,API Hatası
+Savaştepe,Osmangazi Köprüsü(İzmir Yönü),5. Sınıf,API Hatası
+Savaştepe,Osmangazi Köprüsü(İzmir Yönü),6. Sınıf,API Hatası
+Savaştepe,Altınova,1. Sınıf,"740,00"
+Savaştepe,Altınova,2. Sınıf,"1185,00"
+Savaştepe,Altınova,3. Sınıf,"1420,00"
+Savaştepe,Altınova,4. Sınıf,"1880,00"
+Savaştepe,Altınova,5. Sınıf,"2355,00"
+Savaştepe,Altınova,6. Sınıf,"535,00"
+Savaştepe,Kılıç,1. Sınıf,"715,00"
+Savaştepe,Kılıç,2. Sınıf,"1130,00"
+Savaştepe,Kılıç,3. Sınıf,"1345,00"
+Savaştepe,Kılıç,4. Sınıf,"1795,00"
+Savaştepe,Kılıç,5. Sınıf,"2235,00"
+Savaştepe,Kılıç,6. Sınıf,"510,00"
+Savaştepe,Orhangazi,1. Sınıf,"680,00"
+Savaştepe,Orhangazi,2. Sınıf,"1055,00"
+Savaştepe,Orhangazi,3. Sınıf,"1255,00"
+Savaştepe,Orhangazi,4. Sınıf,"1695,00"
+Savaştepe,Orhangazi,5. Sınıf,"2090,00"
+Savaştepe,Orhangazi,6. Sınıf,"490,00"
+Savaştepe,Gemlik,1. Sınıf,"635,00"
+Savaştepe,Gemlik,2. Sınıf,"1005,00"
+Savaştepe,Gemlik,3. Sınıf,"1200,00"
+Savaştepe,Gemlik,4. Sınıf,"1615,00"
+Savaştepe,Gemlik,5. Sınıf,"1980,00"
+Savaştepe,Gemlik,6. Sınıf,"440,00"
+Savaştepe,Bursa Serbest Bölge,1. Sınıf,"615,00"
+Savaştepe,Bursa Serbest Bölge,2. Sınıf,"980,00"
+Savaştepe,Bursa Serbest Bölge,3. Sınıf,"1165,00"
+Savaştepe,Bursa Serbest Bölge,4. Sınıf,"1540,00"
+Savaştepe,Bursa Serbest Bölge,5. Sınıf,"1925,00"
+Savaştepe,Bursa Serbest Bölge,6. Sınıf,"440,00"
+Savaştepe,Bursa Kuzey,1. Sınıf,API Hatası
+Savaştepe,Bursa Kuzey,2. Sınıf,API Hatası
+Savaştepe,Bursa Kuzey,3. Sınıf,API Hatası
+Savaştepe,Bursa Kuzey,4. Sınıf,API Hatası
+Savaştepe,Bursa Kuzey,5. Sınıf,API Hatası
+Savaştepe,Bursa Kuzey,6. Sınıf,API Hatası
+Savaştepe,Teknosab,1. Sınıf,"455,00"
+Savaştepe,Teknosab,2. Sınıf,"705,00"
+Savaştepe,Teknosab,3. Sınıf,"840,00"
+Savaştepe,Teknosab,4. Sınıf,"1095,00"
+Savaştepe,Teknosab,5. Sınıf,"1390,00"
+Savaştepe,Teknosab,6. Sınıf,"325,00"
+Savaştepe,Karacabey-Mustafakemalpaşa-1,1. Sınıf,API Hatası
+Savaştepe,Karacabey-Mustafakemalpaşa-1,2. Sınıf,API Hatası
+Savaştepe,Karacabey-Mustafakemalpaşa-1,3. Sınıf,API Hatası
+Savaştepe,Karacabey-Mustafakemalpaşa-1,4. Sınıf,API Hatası
+Savaştepe,Karacabey-Mustafakemalpaşa-1,5. Sınıf,API Hatası
+Savaştepe,Karacabey-Mustafakemalpaşa-1,6. Sınıf,API Hatası
+Savaştepe,Susurluk,1. Sınıf,"280,00"
+Savaştepe,Susurluk,2. Sınıf,"425,00"
+Savaştepe,Susurluk,3. Sınıf,"505,00"
+Savaştepe,Susurluk,4. Sınıf,"670,00"
+Savaştepe,Susurluk,5. Sınıf,"840,00"
+Savaştepe,Susurluk,6. Sınıf,"200,00"
+Savaştepe,Balıkesir Kuzey,1. Sınıf,"200,00"
+Savaştepe,Balıkesir Kuzey,2. Sınıf,"290,00"
+Savaştepe,Balıkesir Kuzey,3. Sınıf,"360,00"
+Savaştepe,Balıkesir Kuzey,4. Sınıf,"460,00"
+Savaştepe,Balıkesir Kuzey,5. Sınıf,"590,00"
+Savaştepe,Balıkesir Kuzey,6. Sınıf,"130,00"
+Savaştepe,Balıkesir Batı,1. Sınıf,"110,00"
+Savaştepe,Balıkesir Batı,2. Sınıf,"175,00"
+Savaştepe,Balıkesir Batı,3. Sınıf,"200,00"
+Savaştepe,Balıkesir Batı,4. Sınıf,"250,00"
+Savaştepe,Balıkesir Batı,5. Sınıf,"325,00"
+Savaştepe,Balıkesir Batı,6. Sınıf,"80,00"
+Savaştepe,Soma,1. Sınıf,"70,00"
+Savaştepe,Soma,2. Sınıf,"80,00"
+Savaştepe,Soma,3. Sınıf,"110,00"
+Savaştepe,Soma,4. Sınıf,"150,00"
+Savaştepe,Soma,5. Sınıf,"175,00"
+Savaştepe,Soma,6. Sınıf,"45,00"
+Savaştepe,Kırkağaç,1. Sınıf,"130,00"
+Savaştepe,Kırkağaç,2. Sınıf,"200,00"
+Savaştepe,Kırkağaç,3. Sınıf,"235,00"
+Savaştepe,Kırkağaç,4. Sınıf,"290,00"
+Savaştepe,Kırkağaç,5. Sınıf,"380,00"
+Savaştepe,Kırkağaç,6. Sınıf,"80,00"
+Savaştepe,Akhisar,1. Sınıf,"200,00"
+Savaştepe,Akhisar,2. Sınıf,"290,00"
+Savaştepe,Akhisar,3. Sınıf,"330,00"
+Savaştepe,Akhisar,4. Sınıf,"460,00"
+Savaştepe,Akhisar,5. Sınıf,"575,00"
+Savaştepe,Akhisar,6. Sınıf,"130,00"
+Savaştepe,Saruhanlı,1. Sınıf,"235,00"
+Savaştepe,Saruhanlı,2. Sınıf,"380,00"
+Savaştepe,Saruhanlı,3. Sınıf,"455,00"
+Savaştepe,Saruhanlı,4. Sınıf,"590,00"
+Savaştepe,Saruhanlı,5. Sınıf,"740,00"
+Savaştepe,Saruhanlı,6. Sınıf,"175,00"
+Savaştepe,Turgutlu,1. Sınıf,"330,00"
+Savaştepe,Turgutlu,2. Sınıf,"535,00"
+Savaştepe,Turgutlu,3. Sınıf,"610,00"
+Savaştepe,Turgutlu,4. Sınıf,"820,00"
+Savaştepe,Turgutlu,5. Sınıf,"1035,00"
+Savaştepe,Turgutlu,6. Sınıf,"235,00"
+Savaştepe,İzmir,1. Sınıf,"425,00"
+Savaştepe,İzmir,2. Sınıf,"670,00"
+Savaştepe,İzmir,3. Sınıf,"805,00"
+Savaştepe,İzmir,4. Sınıf,"1050,00"
+Savaştepe,İzmir,5. Sınıf,"1345,00"
+Savaştepe,İzmir,6. Sınıf,"290,00"
+Savaştepe,Osmangazi Köprüsü(İstanbul Yönü),1. Sınıf,"1550,00"
+Savaştepe,Osmangazi Köprüsü(İstanbul Yönü),2. Sınıf,"2500,00"
+Savaştepe,Osmangazi Köprüsü(İstanbul Yönü),3. Sınıf,"2965,00"
+Savaştepe,Osmangazi Köprüsü(İstanbul Yönü),4. Sınıf,"3955,00"
+Savaştepe,Osmangazi Köprüsü(İstanbul Yönü),5. Sınıf,"4950,00"
+Savaştepe,Osmangazi Köprüsü(İstanbul Yönü),6. Sınıf,"1115,00"
+Soma,Osmangazi Köprüsü(İzmir Yönü),1. Sınıf,API Hatası
+Soma,Osmangazi Köprüsü(İzmir Yönü),2. Sınıf,API Hatası
+Soma,Osmangazi Köprüsü(İzmir Yönü),3. Sınıf,API Hatası
+Soma,Osmangazi Köprüsü(İzmir Yönü),4. Sınıf,API Hatası
+Soma,Osmangazi Köprüsü(İzmir Yönü),5. Sınıf,API Hatası
+Soma,Osmangazi Köprüsü(İzmir Yönü),6. Sınıf,API Hatası
+Soma,Altınova,1. Sınıf,"775,00"
+Soma,Altınova,2. Sınıf,"1265,00"
+Soma,Altınova,3. Sınıf,"1490,00"
+Soma,Altınova,4. Sınıf,"1980,00"
+Soma,Altınova,5. Sınıf,"2505,00"
+Soma,Altınova,6. Sınıf,"555,00"
+Soma,Kılıç,1. Sınıf,"750,00"
+Soma,Kılıç,2. Sınıf,"1210,00"
+Soma,Kılıç,3. Sınıf,"1415,00"
+Soma,Kılıç,4. Sınıf,"1895,00"
+Soma,Kılıç,5. Sınıf,"2385,00"
+Soma,Kılıç,6. Sınıf,"530,00"
+Soma,Orhangazi,1. Sınıf,"715,00"
+Soma,Orhangazi,2. Sınıf,"1135,00"
+Soma,Orhangazi,3. Sınıf,"1325,00"
+Soma,Orhangazi,4. Sınıf,"1795,00"
+Soma,Orhangazi,5. Sınıf,"2240,00"
+Soma,Orhangazi,6. Sınıf,"510,00"
+Soma,Gemlik,1. Sınıf,"670,00"
+Soma,Gemlik,2. Sınıf,"1085,00"
+Soma,Gemlik,3. Sınıf,"1270,00"
+Soma,Gemlik,4. Sınıf,"1715,00"
+Soma,Gemlik,5. Sınıf,"2130,00"
+Soma,Gemlik,6. Sınıf,"460,00"
+Soma,Bursa Serbest Bölge,1. Sınıf,"650,00"
+Soma,Bursa Serbest Bölge,2. Sınıf,"1060,00"
+Soma,Bursa Serbest Bölge,3. Sınıf,"1235,00"
+Soma,Bursa Serbest Bölge,4. Sınıf,"1640,00"
+Soma,Bursa Serbest Bölge,5. Sınıf,"2075,00"
+Soma,Bursa Serbest Bölge,6. Sınıf,"460,00"
+Soma,Bursa Kuzey,1. Sınıf,API Hatası
+Soma,Bursa Kuzey,2. Sınıf,API Hatası
+Soma,Bursa Kuzey,3. Sınıf,API Hatası
+Soma,Bursa Kuzey,4. Sınıf,API Hatası
+Soma,Bursa Kuzey,5. Sınıf,API Hatası
+Soma,Bursa Kuzey,6. Sınıf,API Hatası
+Soma,Teknosab,1. Sınıf,"490,00"
+Soma,Teknosab,2. Sınıf,"785,00"
+Soma,Teknosab,3. Sınıf,"915,00"
+Soma,Teknosab,4. Sınıf,"1200,00"
+Soma,Teknosab,5. Sınıf,"1535,00"
+Soma,Teknosab,6. Sınıf,"330,00"
+Soma,Karacabey-Mustafakemalpaşa-1,1. Sınıf,API Hatası
+Soma,Karacabey-Mustafakemalpaşa-1,2. Sınıf,API Hatası
+Soma,Karacabey-Mustafakemalpaşa-1,3. Sınıf,API Hatası
+Soma,Karacabey-Mustafakemalpaşa-1,4. Sınıf,API Hatası
+Soma,Karacabey-Mustafakemalpaşa-1,5. Sınıf,API Hatası
+Soma,Karacabey-Mustafakemalpaşa-1,6. Sınıf,API Hatası
+Soma,Susurluk,1. Sınıf,"325,00"
+Soma,Susurluk,2. Sınıf,"505,00"
+Soma,Susurluk,3. Sınıf,"590,00"
+Soma,Susurluk,4. Sınıf,"785,00"
+Soma,Susurluk,5. Sınıf,"995,00"
+Soma,Susurluk,6. Sınıf,"235,00"
+Soma,Balıkesir Kuzey,1. Sınıf,"235,00"
+Soma,Balıkesir Kuzey,2. Sınıf,"360,00"
+Soma,Balıkesir Kuzey,3. Sınıf,"455,00"
+Soma,Balıkesir Kuzey,4. Sınıf,"575,00"
+Soma,Balıkesir Kuzey,5. Sınıf,"710,00"
+Soma,Balıkesir Kuzey,6. Sınıf,"175,00"
+Soma,Balıkesir Batı,1. Sınıf,"150,00"
+Soma,Balıkesir Batı,2. Sınıf,"235,00"
+Soma,Balıkesir Batı,3. Sınıf,"280,00"
+Soma,Balıkesir Batı,4. Sınıf,"360,00"
+Soma,Balıkesir Batı,5. Sınıf,"460,00"
+Soma,Balıkesir Batı,6. Sınıf,"110,00"
+Soma,Savaştepe,1. Sınıf,"70,00"
+Soma,Savaştepe,2. Sınıf,"80,00"
+Soma,Savaştepe,3. Sınıf,"110,00"
+Soma,Savaştepe,4. Sınıf,"150,00"
+Soma,Savaştepe,5. Sınıf,"175,00"
+Soma,Savaştepe,6. Sınıf,"45,00"
+Soma,Kırkağaç,1. Sınıf,"80,00"
+Soma,Kırkağaç,2. Sınıf,"130,00"
+Soma,Kırkağaç,3. Sınıf,"150,00"
+Soma,Kırkağaç,4. Sınıf,"200,00"
+Soma,Kırkağaç,5. Sınıf,"250,00"
+Soma,Kırkağaç,6. Sınıf,"70,00"
+Soma,Akhisar,1. Sınıf,"150,00"
+Soma,Akhisar,2. Sınıf,"235,00"
+Soma,Akhisar,3. Sınıf,"280,00"
+Soma,Akhisar,4. Sınıf,"360,00"
+Soma,Akhisar,5. Sınıf,"455,00"
+Soma,Akhisar,6. Sınıf,"110,00"
+Soma,Saruhanlı,1. Sınıf,"200,00"
+Soma,Saruhanlı,2. Sınıf,"325,00"
+Soma,Saruhanlı,3. Sınıf,"360,00"
+Soma,Saruhanlı,4. Sınıf,"490,00"
+Soma,Saruhanlı,5. Sınıf,"610,00"
+Soma,Saruhanlı,6. Sınıf,"150,00"
+Soma,Turgutlu,1. Sınıf,"290,00"
+Soma,Turgutlu,2. Sınıf,"460,00"
+Soma,Turgutlu,3. Sınıf,"540,00"
+Soma,Turgutlu,4. Sınıf,"710,00"
+Soma,Turgutlu,5. Sınıf,"915,00"
+Soma,Turgutlu,6. Sınıf,"210,00"
+Soma,İzmir,1. Sınıf,"380,00"
+Soma,İzmir,2. Sınıf,"610,00"
+Soma,İzmir,3. Sınıf,"710,00"
+Soma,İzmir,4. Sınıf,"955,00"
+Soma,İzmir,5. Sınıf,"1200,00"
+Soma,İzmir,6. Sınıf,"280,00"
+Soma,Osmangazi Köprüsü(İstanbul Yönü),1. Sınıf,"1585,00"
+Soma,Osmangazi Köprüsü(İstanbul Yönü),2. Sınıf,"2580,00"
+Soma,Osmangazi Köprüsü(İstanbul Yönü),3. Sınıf,"3035,00"
+Soma,Osmangazi Köprüsü(İstanbul Yönü),4. Sınıf,"4055,00"
+Soma,Osmangazi Köprüsü(İstanbul Yönü),5. Sınıf,"5100,00"
+Soma,Osmangazi Köprüsü(İstanbul Yönü),6. Sınıf,"1135,00"
+Kırkağaç,Osmangazi Köprüsü(İzmir Yönü),1. Sınıf,API Hatası
+Kırkağaç,Osmangazi Köprüsü(İzmir Yönü),2. Sınıf,API Hatası
+Kırkağaç,Osmangazi Köprüsü(İzmir Yönü),3. Sınıf,API Hatası
+Kırkağaç,Osmangazi Köprüsü(İzmir Yönü),4. Sınıf,API Hatası
+Kırkağaç,Osmangazi Köprüsü(İzmir Yönü),5. Sınıf,API Hatası
+Kırkağaç,Osmangazi Köprüsü(İzmir Yönü),6. Sınıf,API Hatası
+Kırkağaç,Altınova,1. Sınıf,"845,00"
+Kırkağaç,Altınova,2. Sınıf,"1375,00"
+Kırkağaç,Altınova,3. Sınıf,"1620,00"
+Kırkağaç,Altınova,4. Sınıf,"2125,00"
+Kırkağaç,Altınova,5. Sınıf,"2690,00"
+Kırkağaç,Altınova,6. Sınıf,"600,00"
+Kırkağaç,Kılıç,1. Sınıf,"820,00"
+Kırkağaç,Kılıç,2. Sınıf,"1320,00"
+Kırkağaç,Kılıç,3. Sınıf,"1545,00"
+Kırkağaç,Kılıç,4. Sınıf,"2040,00"
+Kırkağaç,Kılıç,5. Sınıf,"2570,00"
+Kırkağaç,Kılıç,6. Sınıf,"575,00"
+Kırkağaç,Orhangazi,1. Sınıf,"785,00"
+Kırkağaç,Orhangazi,2. Sınıf,"1245,00"
+Kırkağaç,Orhangazi,3. Sınıf,"1455,00"
+Kırkağaç,Orhangazi,4. Sınıf,"1940,00"
+Kırkağaç,Orhangazi,5. Sınıf,"2425,00"
+Kırkağaç,Orhangazi,6. Sınıf,"555,00"
+Kırkağaç,Gemlik,1. Sınıf,"740,00"
+Kırkağaç,Gemlik,2. Sınıf,"1195,00"
+Kırkağaç,Gemlik,3. Sınıf,"1400,00"
+Kırkağaç,Gemlik,4. Sınıf,"1860,00"
+Kırkağaç,Gemlik,5. Sınıf,"2315,00"
+Kırkağaç,Gemlik,6. Sınıf,"505,00"
+Kırkağaç,Bursa Serbest Bölge,1. Sınıf,"720,00"
+Kırkağaç,Bursa Serbest Bölge,2. Sınıf,"1170,00"
+Kırkağaç,Bursa Serbest Bölge,3. Sınıf,"1365,00"
+Kırkağaç,Bursa Serbest Bölge,4. Sınıf,"1785,00"
+Kırkağaç,Bursa Serbest Bölge,5. Sınıf,"2260,00"
+Kırkağaç,Bursa Serbest Bölge,6. Sınıf,"505,00"
+Kırkağaç,Bursa Kuzey,1. Sınıf,API Hatası
+Kırkağaç,Bursa Kuzey,2. Sınıf,API Hatası
+Kırkağaç,Bursa Kuzey,3. Sınıf,API Hatası
+Kırkağaç,Bursa Kuzey,4. Sınıf,API Hatası
+Kırkağaç,Bursa Kuzey,5. Sınıf,API Hatası
+Kırkağaç,Bursa Kuzey,6. Sınıf,API Hatası
+Kırkağaç,Teknosab,1. Sınıf,"540,00"
+Kırkağaç,Teknosab,2. Sınıf,"865,00"
+Kırkağaç,Teknosab,3. Sınıf,"1035,00"
+Kırkağaç,Teknosab,4. Sınıf,"1375,00"
+Kırkağaç,Teknosab,5. Sınıf,"1725,00"
+Kırkağaç,Teknosab,6. Sınıf,"380,00"
+Kırkağaç,Karacabey-Mustafakemalpaşa-1,1. Sınıf,API Hatası
+Kırkağaç,Karacabey-Mustafakemalpaşa-1,2. Sınıf,API Hatası
+Kırkağaç,Karacabey-Mustafakemalpaşa-1,3. Sınıf,API Hatası
+Kırkağaç,Karacabey-Mustafakemalpaşa-1,4. Sınıf,API Hatası
+Kırkağaç,Karacabey-Mustafakemalpaşa-1,5. Sınıf,API Hatası
+Kırkağaç,Karacabey-Mustafakemalpaşa-1,6. Sınıf,API Hatası
+Kırkağaç,Susurluk,1. Sınıf,"380,00"
+Kırkağaç,Susurluk,2. Sınıf,"590,00"
+Kırkağaç,Susurluk,3. Sınıf,"710,00"
+Kırkağaç,Susurluk,4. Sınıf,"955,00"
+Kırkağaç,Susurluk,5. Sınıf,"1175,00"
+Kırkağaç,Susurluk,6. Sınıf,"280,00"
+Kırkağaç,Balıkesir Kuzey,1. Sınıf,"290,00"
+Kırkağaç,Balıkesir Kuzey,2. Sınıf,"460,00"
+Kırkağaç,Balıkesir Kuzey,3. Sınıf,"540,00"
+Kırkağaç,Balıkesir Kuzey,4. Sınıf,"740,00"
+Kırkağaç,Balıkesir Kuzey,5. Sınıf,"920,00"
+Kırkağaç,Balıkesir Kuzey,6. Sınıf,"210,00"
+Kırkağaç,Balıkesir Batı,1. Sınıf,"210,00"
+Kırkağaç,Balıkesir Batı,2. Sınıf,"330,00"
+Kırkağaç,Balıkesir Batı,3. Sınıf,"405,00"
+Kırkağaç,Balıkesir Batı,4. Sınıf,"535,00"
+Kırkağaç,Balıkesir Batı,5. Sınıf,"660,00"
+Kırkağaç,Balıkesir Batı,6. Sınıf,"150,00"
+Kırkağaç,Savaştepe,1. Sınıf,"130,00"
+Kırkağaç,Savaştepe,2. Sınıf,"200,00"
+Kırkağaç,Savaştepe,3. Sınıf,"235,00"
+Kırkağaç,Savaştepe,4. Sınıf,"290,00"
+Kırkağaç,Savaştepe,5. Sınıf,"380,00"
+Kırkağaç,Savaştepe,6. Sınıf,"80,00"
+Kırkağaç,Soma,1. Sınıf,"80,00"
+Kırkağaç,Soma,2. Sınıf,"130,00"
+Kırkağaç,Soma,3. Sınıf,"150,00"
+Kırkağaç,Soma,4. Sınıf,"200,00"
+Kırkağaç,Soma,5. Sınıf,"250,00"
+Kırkağaç,Soma,6. Sınıf,"70,00"
+Kırkağaç,Akhisar,1. Sınıf,"80,00"
+Kırkağaç,Akhisar,2. Sınıf,"130,00"
+Kırkağaç,Akhisar,3. Sınıf,"150,00"
+Kırkağaç,Akhisar,4. Sınıf,"200,00"
+Kırkağaç,Akhisar,5. Sınıf,"235,00"
+Kırkağaç,Akhisar,6. Sınıf,"70,00"
+Kırkağaç,Saruhanlı,1. Sınıf,"130,00"
+Kırkağaç,Saruhanlı,2. Sınıf,"210,00"
+Kırkağaç,Saruhanlı,3. Sınıf,"235,00"
+Kırkağaç,Saruhanlı,4. Sınıf,"325,00"
+Kırkağaç,Saruhanlı,5. Sınıf,"405,00"
+Kırkağaç,Saruhanlı,6. Sınıf,"80,00"
+Kırkağaç,Turgutlu,1. Sınıf,"235,00"
+Kırkağaç,Turgutlu,2. Sınıf,"360,00"
+Kırkağaç,Turgutlu,3. Sınıf,"425,00"
+Kırkağaç,Turgutlu,4. Sınıf,"540,00"
+Kırkağaç,Turgutlu,5. Sınıf,"705,00"
+Kırkağaç,Turgutlu,6. Sınıf,"175,00"
+Kırkağaç,İzmir,1. Sınıf,"325,00"
+Kırkağaç,İzmir,2. Sınıf,"505,00"
+Kırkağaç,İzmir,3. Sınıf,"590,00"
+Kırkağaç,İzmir,4. Sınıf,"805,00"
+Kırkağaç,İzmir,5. Sınıf,"995,00"
+Kırkağaç,İzmir,6. Sınıf,"235,00"
+Kırkağaç,Osmangazi Köprüsü(İstanbul Yönü),1. Sınıf,"1655,00"
+Kırkağaç,Osmangazi Köprüsü(İstanbul Yönü),2. Sınıf,"2690,00"
+Kırkağaç,Osmangazi Köprüsü(İstanbul Yönü),3. Sınıf,"3165,00"
+Kırkağaç,Osmangazi Köprüsü(İstanbul Yönü),4. Sınıf,"4200,00"
+Kırkağaç,Osmangazi Köprüsü(İstanbul Yönü),5. Sınıf,"5285,00"
+Kırkağaç,Osmangazi Köprüsü(İstanbul Yönü),6. Sınıf,"1180,00"
+Akhisar,Osmangazi Köprüsü(İzmir Yönü),1. Sınıf,API Hatası
+Akhisar,Osmangazi Köprüsü(İzmir Yönü),2. Sınıf,API Hatası
+Akhisar,Osmangazi Köprüsü(İzmir Yönü),3. Sınıf,API Hatası
+Akhisar,Osmangazi Köprüsü(İzmir Yönü),4. Sınıf,API Hatası
+Akhisar,Osmangazi Köprüsü(İzmir Yönü),5. Sınıf,API Hatası
+Akhisar,Osmangazi Köprüsü(İzmir Yönü),6. Sınıf,API Hatası
+Akhisar,Altınova,1. Sınıf,"905,00"
+Akhisar,Altınova,2. Sınıf,"1450,00"
+Akhisar,Altınova,3. Sınıf,"1745,00"
+Akhisar,Altınova,4. Sınıf,"2295,00"
+Akhisar,Altınova,5. Sınıf,"2890,00"
+Akhisar,Altınova,6. Sınıf,"665,00"
+Akhisar,Kılıç,1. Sınıf,"880,00"
+Akhisar,Kılıç,2. Sınıf,"1395,00"
+Akhisar,Kılıç,3. Sınıf,"1670,00"
+Akhisar,Kılıç,4. Sınıf,"2210,00"
+Akhisar,Kılıç,5. Sınıf,"2770,00"
+Akhisar,Kılıç,6. Sınıf,"640,00"
+Akhisar,Orhangazi,1. Sınıf,"845,00"
+Akhisar,Orhangazi,2. Sınıf,"1320,00"
+Akhisar,Orhangazi,3. Sınıf,"1580,00"
+Akhisar,Orhangazi,4. Sınıf,"2110,00"
+Akhisar,Orhangazi,5. Sınıf,"2625,00"
+Akhisar,Orhangazi,6. Sınıf,"620,00"
+Akhisar,Gemlik,1. Sınıf,"800,00"
+Akhisar,Gemlik,2. Sınıf,"1270,00"
+Akhisar,Gemlik,3. Sınıf,"1525,00"
+Akhisar,Gemlik,4. Sınıf,"2030,00"
+Akhisar,Gemlik,5. Sınıf,"2515,00"
+Akhisar,Gemlik,6. Sınıf,"570,00"
+Akhisar,Bursa Serbest Bölge,1. Sınıf,"780,00"
+Akhisar,Bursa Serbest Bölge,2. Sınıf,"1245,00"
+Akhisar,Bursa Serbest Bölge,3. Sınıf,"1490,00"
+Akhisar,Bursa Serbest Bölge,4. Sınıf,"1955,00"
+Akhisar,Bursa Serbest Bölge,5. Sınıf,"2460,00"
+Akhisar,Bursa Serbest Bölge,6. Sınıf,"570,00"
+Akhisar,Bursa Kuzey,1. Sınıf,API Hatası
+Akhisar,Bursa Kuzey,2. Sınıf,API Hatası
+Akhisar,Bursa Kuzey,3. Sınıf,API Hatası
+Akhisar,Bursa Kuzey,4. Sınıf,API Hatası
+Akhisar,Bursa Kuzey,5. Sınıf,API Hatası
+Akhisar,Bursa Kuzey,6. Sınıf,API Hatası
+Akhisar,Teknosab,1. Sınıf,"610,00"
+Akhisar,Teknosab,2. Sınıf,"965,00"
+Akhisar,Teknosab,3. Sınıf,"1165,00"
+Akhisar,Teknosab,4. Sınıf,"1535,00"
+Akhisar,Teknosab,5. Sınıf,"1935,00"
+Akhisar,Teknosab,6. Sınıf,"425,00"
+Akhisar,Karacabey-Mustafakemalpaşa-1,1. Sınıf,API Hatası
+Akhisar,Karacabey-Mustafakemalpaşa-1,2. Sınıf,API Hatası
+Akhisar,Karacabey-Mustafakemalpaşa-1,3. Sınıf,API Hatası
+Akhisar,Karacabey-Mustafakemalpaşa-1,4. Sınıf,API Hatası
+Akhisar,Karacabey-Mustafakemalpaşa-1,5. Sınıf,API Hatası
+Akhisar,Karacabey-Mustafakemalpaşa-1,6. Sınıf,API Hatası
+Akhisar,Susurluk,1. Sınıf,"455,00"
+Akhisar,Susurluk,2. Sınıf,"705,00"
+Akhisar,Susurluk,3. Sınıf,"820,00"
+Akhisar,Susurluk,4. Sınıf,"1095,00"
+Akhisar,Susurluk,5. Sınıf,"1390,00"
+Akhisar,Susurluk,6. Sınıf,"325,00"
+Akhisar,Balıkesir Kuzey,1. Sınıf,"360,00"
+Akhisar,Balıkesir Kuzey,2. Sınıf,"575,00"
+Akhisar,Balıkesir Kuzey,3. Sınıf,"670,00"
+Akhisar,Balıkesir Kuzey,4. Sınıf,"885,00"
+Akhisar,Balıkesir Kuzey,5. Sınıf,"1125,00"
+Akhisar,Balıkesir Kuzey,6. Sınıf,"250,00"
+Akhisar,Balıkesir Batı,1. Sınıf,"280,00"
+Akhisar,Balıkesir Batı,2. Sınıf,"455,00"
+Akhisar,Balıkesir Batı,3. Sınıf,"505,00"
+Akhisar,Balıkesir Batı,4. Sınıf,"670,00"
+Akhisar,Balıkesir Batı,5. Sınıf,"865,00"
+Akhisar,Balıkesir Batı,6. Sınıf,"200,00"
+Akhisar,Savaştepe,1. Sınıf,"200,00"
+Akhisar,Savaştepe,2. Sınıf,"290,00"
+Akhisar,Savaştepe,3. Sınıf,"330,00"
+Akhisar,Savaştepe,4. Sınıf,"460,00"
+Akhisar,Savaştepe,5. Sınıf,"575,00"
+Akhisar,Savaştepe,6. Sınıf,"130,00"
+Akhisar,Soma,1. Sınıf,"150,00"
+Akhisar,Soma,2. Sınıf,"235,00"
+Akhisar,Soma,3. Sınıf,"280,00"
+Akhisar,Soma,4. Sınıf,"360,00"
+Akhisar,Soma,5. Sınıf,"455,00"
+Akhisar,Soma,6. Sınıf,"110,00"
+Akhisar,Kırkağaç,1. Sınıf,"80,00"
+Akhisar,Kırkağaç,2. Sınıf,"130,00"
+Akhisar,Kırkağaç,3. Sınıf,"150,00"
+Akhisar,Kırkağaç,4. Sınıf,"200,00"
+Akhisar,Kırkağaç,5. Sınıf,"235,00"
+Akhisar,Kırkağaç,6. Sınıf,"70,00"
+Akhisar,Saruhanlı,1. Sınıf,"110,00"
+Akhisar,Saruhanlı,2. Sınıf,"175,00"
+Akhisar,Saruhanlı,3. Sınıf,"200,00"
+Akhisar,Saruhanlı,4. Sınıf,"250,00"
+Akhisar,Saruhanlı,5. Sınıf,"325,00"
+Akhisar,Saruhanlı,6. Sınıf,"80,00"
+Akhisar,Turgutlu,1. Sınıf,"200,00"
+Akhisar,Turgutlu,2. Sınıf,"325,00"
+Akhisar,Turgutlu,3. Sınıf,"360,00"
+Akhisar,Turgutlu,4. Sınıf,"490,00"
+Akhisar,Turgutlu,5. Sınıf,"610,00"
+Akhisar,Turgutlu,6. Sınıf,"150,00"
+Akhisar,İzmir,1. Sınıf,"290,00"
+Akhisar,İzmir,2. Sınıf,"460,00"
+Akhisar,İzmir,3. Sınıf,"540,00"
+Akhisar,İzmir,4. Sınıf,"710,00"
+Akhisar,İzmir,5. Sınıf,"915,00"
+Akhisar,İzmir,6. Sınıf,"210,00"
+Akhisar,Osmangazi Köprüsü(İstanbul Yönü),1. Sınıf,"1715,00"
+Akhisar,Osmangazi Köprüsü(İstanbul Yönü),2. Sınıf,"2765,00"
+Akhisar,Osmangazi Köprüsü(İstanbul Yönü),3. Sınıf,"3290,00"
+Akhisar,Osmangazi Köprüsü(İstanbul Yönü),4. Sınıf,"4370,00"
+Akhisar,Osmangazi Köprüsü(İstanbul Yönü),5. Sınıf,"5485,00"
+Akhisar,Osmangazi Köprüsü(İstanbul Yönü),6. Sınıf,"1245,00"
+Saruhanlı,Osmangazi Köprüsü(İzmir Yönü),1. Sınıf,API Hatası
+Saruhanlı,Osmangazi Köprüsü(İzmir Yönü),2. Sınıf,API Hatası
+Saruhanlı,Osmangazi Köprüsü(İzmir Yönü),3. Sınıf,API Hatası
+Saruhanlı,Osmangazi Köprüsü(İzmir Yönü),4. Sınıf,API Hatası
+Saruhanlı,Osmangazi Köprüsü(İzmir Yönü),5. Sınıf,API Hatası
+Saruhanlı,Osmangazi Köprüsü(İzmir Yönü),6. Sınıf,API Hatası
+Saruhanlı,Altınova,1. Sınıf,"945,00"
+Saruhanlı,Altınova,2. Sınıf,"1545,00"
+Saruhanlı,Altınova,3. Sınıf,"1845,00"
+Saruhanlı,Altınova,4. Sınıf,"2425,00"
+Saruhanlı,Altınova,5. Sınıf,"3065,00"
+Saruhanlı,Altınova,6. Sınıf,"680,00"
+Saruhanlı,Kılıç,1. Sınıf,"920,00"
+Saruhanlı,Kılıç,2. Sınıf,"1490,00"
+Saruhanlı,Kılıç,3. Sınıf,"1770,00"
+Saruhanlı,Kılıç,4. Sınıf,"2340,00"
+Saruhanlı,Kılıç,5. Sınıf,"2945,00"
+Saruhanlı,Kılıç,6. Sınıf,"655,00"
+Saruhanlı,Orhangazi,1. Sınıf,"885,00"
+Saruhanlı,Orhangazi,2. Sınıf,"1415,00"
+Saruhanlı,Orhangazi,3. Sınıf,"1680,00"
+Saruhanlı,Orhangazi,4. Sınıf,"2240,00"
+Saruhanlı,Orhangazi,5. Sınıf,"2800,00"
+Saruhanlı,Orhangazi,6. Sınıf,"635,00"
+Saruhanlı,Gemlik,1. Sınıf,"840,00"
+Saruhanlı,Gemlik,2. Sınıf,"1365,00"
+Saruhanlı,Gemlik,3. Sınıf,"1625,00"
+Saruhanlı,Gemlik,4. Sınıf,"2160,00"
+Saruhanlı,Gemlik,5. Sınıf,"2690,00"
+Saruhanlı,Gemlik,6. Sınıf,"585,00"
+Saruhanlı,Bursa Serbest Bölge,1. Sınıf,"820,00"
+Saruhanlı,Bursa Serbest Bölge,2. Sınıf,"1340,00"
+Saruhanlı,Bursa Serbest Bölge,3. Sınıf,"1590,00"
+Saruhanlı,Bursa Serbest Bölge,4. Sınıf,"2085,00"
+Saruhanlı,Bursa Serbest Bölge,5. Sınıf,"2635,00"
+Saruhanlı,Bursa Serbest Bölge,6. Sınıf,"585,00"
+Saruhanlı,Bursa Kuzey,1. Sınıf,API Hatası
+Saruhanlı,Bursa Kuzey,2. Sınıf,API Hatası
+Saruhanlı,Bursa Kuzey,3. Sınıf,API Hatası
+Saruhanlı,Bursa Kuzey,4. Sınıf,API Hatası
+Saruhanlı,Bursa Kuzey,5. Sınıf,API Hatası
+Saruhanlı,Bursa Kuzey,6. Sınıf,API Hatası
+Saruhanlı,Teknosab,1. Sınıf,"660,00"
+Saruhanlı,Teknosab,2. Sınıf,"1050,00"
+Saruhanlı,Teknosab,3. Sınıf,"1245,00"
+Saruhanlı,Teknosab,4. Sınıf,"1670,00"
+Saruhanlı,Teknosab,5. Sınıf,"2085,00"
+Saruhanlı,Teknosab,6. Sınıf,"460,00"
+Saruhanlı,Karacabey-Mustafakemalpaşa-1,1. Sınıf,API Hatası
+Saruhanlı,Karacabey-Mustafakemalpaşa-1,2. Sınıf,API Hatası
+Saruhanlı,Karacabey-Mustafakemalpaşa-1,3. Sınıf,API Hatası
+Saruhanlı,Karacabey-Mustafakemalpaşa-1,4. Sınıf,API Hatası
+Saruhanlı,Karacabey-Mustafakemalpaşa-1,5. Sınıf,API Hatası
+Saruhanlı,Karacabey-Mustafakemalpaşa-1,6. Sınıf,API Hatası
+Saruhanlı,Susurluk,1. Sınıf,"490,00"
+Saruhanlı,Susurluk,2. Sınıf,"785,00"
+Saruhanlı,Susurluk,3. Sınıf,"920,00"
+Saruhanlı,Susurluk,4. Sınıf,"1215,00"
+Saruhanlı,Susurluk,5. Sınıf,"1555,00"
+Saruhanlı,Susurluk,6. Sınıf,"330,00"
+Saruhanlı,Balıkesir Kuzey,1. Sınıf,"405,00"
+Saruhanlı,Balıkesir Kuzey,2. Sınıf,"660,00"
+Saruhanlı,Balıkesir Kuzey,3. Sınıf,"785,00"
+Saruhanlı,Balıkesir Kuzey,4. Sınıf,"1035,00"
+Saruhanlı,Balıkesir Kuzey,5. Sınıf,"1290,00"
+Saruhanlı,Balıkesir Kuzey,6. Sınıf,"290,00"
+Saruhanlı,Balıkesir Batı,1. Sınıf,"325,00"
+Saruhanlı,Balıkesir Batı,2. Sınıf,"505,00"
+Saruhanlı,Balıkesir Batı,3. Sınıf,"610,00"
+Saruhanlı,Balıkesir Batı,4. Sınıf,"805,00"
+Saruhanlı,Balıkesir Batı,5. Sınıf,"1010,00"
+Saruhanlı,Balıkesir Batı,6. Sınıf,"235,00"
+Saruhanlı,Savaştepe,1. Sınıf,"235,00"
+Saruhanlı,Savaştepe,2. Sınıf,"380,00"
+Saruhanlı,Savaştepe,3. Sınıf,"455,00"
+Saruhanlı,Savaştepe,4. Sınıf,"590,00"
+Saruhanlı,Savaştepe,5. Sınıf,"740,00"
+Saruhanlı,Savaştepe,6. Sınıf,"175,00"
+Saruhanlı,Soma,1. Sınıf,"200,00"
+Saruhanlı,Soma,2. Sınıf,"325,00"
+Saruhanlı,Soma,3. Sınıf,"360,00"
+Saruhanlı,Soma,4. Sınıf,"490,00"
+Saruhanlı,Soma,5. Sınıf,"610,00"
+Saruhanlı,Soma,6. Sınıf,"150,00"
+Saruhanlı,Kırkağaç,1. Sınıf,"130,00"
+Saruhanlı,Kırkağaç,2. Sınıf,"210,00"
+Saruhanlı,Kırkağaç,3. Sınıf,"235,00"
+Saruhanlı,Kırkağaç,4. Sınıf,"325,00"
+Saruhanlı,Kırkağaç,5. Sınıf,"405,00"
+Saruhanlı,Kırkağaç,6. Sınıf,"80,00"
+Saruhanlı,Akhisar,1. Sınıf,"110,00"
+Saruhanlı,Akhisar,2. Sınıf,"175,00"
+Saruhanlı,Akhisar,3. Sınıf,"200,00"
+Saruhanlı,Akhisar,4. Sınıf,"250,00"
+Saruhanlı,Akhisar,5. Sınıf,"325,00"
+Saruhanlı,Akhisar,6. Sınıf,"80,00"
+Saruhanlı,Turgutlu,1. Sınıf,"110,00"
+Saruhanlı,Turgutlu,2. Sınıf,"175,00"
+Saruhanlı,Turgutlu,3. Sınıf,"210,00"
+Saruhanlı,Turgutlu,4. Sınıf,"280,00"
+Saruhanlı,Turgutlu,5. Sınıf,"330,00"
+Saruhanlı,Turgutlu,6. Sınıf,"80,00"
+Saruhanlı,İzmir,1. Sınıf,"210,00"
+Saruhanlı,İzmir,2. Sınıf,"325,00"
+Saruhanlı,İzmir,3. Sınıf,"380,00"
+Saruhanlı,İzmir,4. Sınıf,"505,00"
+Saruhanlı,İzmir,5. Sınıf,"635,00"
+Saruhanlı,İzmir,6. Sınıf,"150,00"
+Saruhanlı,Osmangazi Köprüsü(İstanbul Yönü),1. Sınıf,"1755,00"
+Saruhanlı,Osmangazi Köprüsü(İstanbul Yönü),2. Sınıf,"2860,00"
+Saruhanlı,Osmangazi Köprüsü(İstanbul Yönü),3. Sınıf,"3390,00"
+Saruhanlı,Osmangazi Köprüsü(İstanbul Yönü),4. Sınıf,"4500,00"
+Saruhanlı,Osmangazi Köprüsü(İstanbul Yönü),5. Sınıf,"5660,00"
+Saruhanlı,Osmangazi Köprüsü(İstanbul Yönü),6. Sınıf,"1260,00"
+Turgutlu,Osmangazi Köprüsü(İzmir Yönü),1. Sınıf,API Hatası
+Turgutlu,Osmangazi Köprüsü(İzmir Yönü),2. Sınıf,API Hatası
+Turgutlu,Osmangazi Köprüsü(İzmir Yönü),3. Sınıf,API Hatası
+Turgutlu,Osmangazi Köprüsü(İzmir Yönü),4. Sınıf,API Hatası
+Turgutlu,Osmangazi Köprüsü(İzmir Yönü),5. Sınıf,API Hatası
+Turgutlu,Osmangazi Köprüsü(İzmir Yönü),6. Sınıf,API Hatası
+Turgutlu,Altınova,1. Sınıf,"1055,00"
+Turgutlu,Altınova,2. Sınıf,"1685,00"
+Turgutlu,Altınova,3. Sınıf,"2010,00"
+Turgutlu,Altınova,4. Sınıf,"2650,00"
+Turgutlu,Altınova,5. Sınıf,"3355,00"
+Turgutlu,Altınova,6. Sınıf,"750,00"
+Turgutlu,Kılıç,1. Sınıf,"1030,00"
+Turgutlu,Kılıç,2. Sınıf,"1630,00"
+Turgutlu,Kılıç,3. Sınıf,"1935,00"
+Turgutlu,Kılıç,4. Sınıf,"2565,00"
+Turgutlu,Kılıç,5. Sınıf,"3235,00"
+Turgutlu,Kılıç,6. Sınıf,"725,00"
+Turgutlu,Orhangazi,1. Sınıf,"995,00"
+Turgutlu,Orhangazi,2. Sınıf,"1555,00"
+Turgutlu,Orhangazi,3. Sınıf,"1845,00"
+Turgutlu,Orhangazi,4. Sınıf,"2465,00"
+Turgutlu,Orhangazi,5. Sınıf,"3090,00"
+Turgutlu,Orhangazi,6. Sınıf,"705,00"
+Turgutlu,Gemlik,1. Sınıf,"950,00"
+Turgutlu,Gemlik,2. Sınıf,"1505,00"
+Turgutlu,Gemlik,3. Sınıf,"1790,00"
+Turgutlu,Gemlik,4. Sınıf,"2385,00"
+Turgutlu,Gemlik,5. Sınıf,"2980,00"
+Turgutlu,Gemlik,6. Sınıf,"655,00"
+Turgutlu,Bursa Serbest Bölge,1. Sınıf,"930,00"
+Turgutlu,Bursa Serbest Bölge,2. Sınıf,"1480,00"
+Turgutlu,Bursa Serbest Bölge,3. Sınıf,"1755,00"
+Turgutlu,Bursa Serbest Bölge,4. Sınıf,"2310,00"
+Turgutlu,Bursa Serbest Bölge,5. Sınıf,"2925,00"
+Turgutlu,Bursa Serbest Bölge,6. Sınıf,"655,00"
+Turgutlu,Bursa Kuzey,1. Sınıf,API Hatası
+Turgutlu,Bursa Kuzey,2. Sınıf,API Hatası
+Turgutlu,Bursa Kuzey,3. Sınıf,API Hatası
+Turgutlu,Bursa Kuzey,4. Sınıf,API Hatası
+Turgutlu,Bursa Kuzey,5. Sınıf,API Hatası
+Turgutlu,Bursa Kuzey,6. Sınıf,API Hatası
+Turgutlu,Teknosab,1. Sınıf,"755,00"
+Turgutlu,Teknosab,2. Sınıf,"1200,00"
+Turgutlu,Teknosab,3. Sınıf,"1425,00"
+Turgutlu,Teknosab,4. Sınıf,"1885,00"
+Turgutlu,Teknosab,5. Sınıf,"2395,00"
+Turgutlu,Teknosab,6. Sınıf,"535,00"
+Turgutlu,Karacabey-Mustafakemalpaşa-1,1. Sınıf,API Hatası
+Turgutlu,Karacabey-Mustafakemalpaşa-1,2. Sınıf,API Hatası
+Turgutlu,Karacabey-Mustafakemalpaşa-1,3. Sınıf,API Hatası
+Turgutlu,Karacabey-Mustafakemalpaşa-1,4. Sınıf,API Hatası
+Turgutlu,Karacabey-Mustafakemalpaşa-1,5. Sınıf,API Hatası
+Turgutlu,Karacabey-Mustafakemalpaşa-1,6. Sınıf,API Hatası
+Turgutlu,Susurluk,1. Sınıf,"590,00"
+Turgutlu,Susurluk,2. Sınıf,"920,00"
+Turgutlu,Susurluk,3. Sınıf,"1095,00"
+Turgutlu,Susurluk,4. Sınıf,"1470,00"
+Turgutlu,Susurluk,5. Sınıf,"1850,00"
+Turgutlu,Susurluk,6. Sınıf,"405,00"
+Turgutlu,Balıkesir Kuzey,1. Sınıf,"505,00"
+Turgutlu,Balıkesir Kuzey,2. Sınıf,"805,00"
+Turgutlu,Balıkesir Kuzey,3. Sınıf,"955,00"
+Turgutlu,Balıkesir Kuzey,4. Sınıf,"1265,00"
+Turgutlu,Balıkesir Kuzey,5. Sınıf,"1600,00"
+Turgutlu,Balıkesir Kuzey,6. Sınıf,"360,00"
+Turgutlu,Balıkesir Batı,1. Sınıf,"425,00"
+Turgutlu,Balıkesir Batı,2. Sınıf,"670,00"
+Turgutlu,Balıkesir Batı,3. Sınıf,"805,00"
+Turgutlu,Balıkesir Batı,4. Sınıf,"1050,00"
+Turgutlu,Balıkesir Batı,5. Sınıf,"1340,00"
+Turgutlu,Balıkesir Batı,6. Sınıf,"290,00"
+Turgutlu,Savaştepe,1. Sınıf,"330,00"
+Turgutlu,Savaştepe,2. Sınıf,"535,00"
+Turgutlu,Savaştepe,3. Sınıf,"610,00"
+Turgutlu,Savaştepe,4. Sınıf,"820,00"
+Turgutlu,Savaştepe,5. Sınıf,"1035,00"
+Turgutlu,Savaştepe,6. Sınıf,"235,00"
+Turgutlu,Soma,1. Sınıf,"290,00"
+Turgutlu,Soma,2. Sınıf,"460,00"
+Turgutlu,Soma,3. Sınıf,"540,00"
+Turgutlu,Soma,4. Sınıf,"710,00"
+Turgutlu,Soma,5. Sınıf,"915,00"
+Turgutlu,Soma,6. Sınıf,"210,00"
+Turgutlu,Kırkağaç,1. Sınıf,"235,00"
+Turgutlu,Kırkağaç,2. Sınıf,"360,00"
+Turgutlu,Kırkağaç,3. Sınıf,"425,00"
+Turgutlu,Kırkağaç,4. Sınıf,"540,00"
+Turgutlu,Kırkağaç,5. Sınıf,"705,00"
+Turgutlu,Kırkağaç,6. Sınıf,"175,00"
+Turgutlu,Akhisar,1. Sınıf,"200,00"
+Turgutlu,Akhisar,2. Sınıf,"325,00"
+Turgutlu,Akhisar,3. Sınıf,"360,00"
+Turgutlu,Akhisar,4. Sınıf,"490,00"
+Turgutlu,Akhisar,5. Sınıf,"610,00"
+Turgutlu,Akhisar,6. Sınıf,"150,00"
+Turgutlu,Saruhanlı,1. Sınıf,"110,00"
+Turgutlu,Saruhanlı,2. Sınıf,"175,00"
+Turgutlu,Saruhanlı,3. Sınıf,"210,00"
+Turgutlu,Saruhanlı,4. Sınıf,"280,00"
+Turgutlu,Saruhanlı,5. Sınıf,"330,00"
+Turgutlu,Saruhanlı,6. Sınıf,"80,00"
+Turgutlu,İzmir,1. Sınıf,"110,00"
+Turgutlu,İzmir,2. Sınıf,"200,00"
+Turgutlu,İzmir,3. Sınıf,"210,00"
+Turgutlu,İzmir,4. Sınıf,"280,00"
+Turgutlu,İzmir,5. Sınıf,"360,00"
+Turgutlu,İzmir,6. Sınıf,"80,00"
+Turgutlu,Osmangazi Köprüsü(İstanbul Yönü),1. Sınıf,"1865,00"
+Turgutlu,Osmangazi Köprüsü(İstanbul Yönü),2. Sınıf,"3000,00"
+Turgutlu,Osmangazi Köprüsü(İstanbul Yönü),3. Sınıf,"3555,00"
+Turgutlu,Osmangazi Köprüsü(İstanbul Yönü),4. Sınıf,"4725,00"
+Turgutlu,Osmangazi Köprüsü(İstanbul Yönü),5. Sınıf,"5950,00"
+Turgutlu,Osmangazi Köprüsü(İstanbul Yönü),6. Sınıf,"1330,00"
+İzmir,Osmangazi Köprüsü(İzmir Yönü),1. Sınıf,API Hatası
+İzmir,Osmangazi Köprüsü(İzmir Yönü),2. Sınıf,API Hatası
+İzmir,Osmangazi Köprüsü(İzmir Yönü),3. Sınıf,API Hatası
+İzmir,Osmangazi Köprüsü(İzmir Yönü),4. Sınıf,API Hatası
+İzmir,Osmangazi Köprüsü(İzmir Yönü),5. Sınıf,API Hatası
+İzmir,Osmangazi Köprüsü(İzmir Yönü),6. Sınıf,API Hatası
+İzmir,Altınova,1. Sınıf,"1155,00"
+İzmir,Altınova,2. Sınıf,"1850,00"
+İzmir,Altınova,3. Sınıf,"2205,00"
+İzmir,Altınova,4. Sınıf,"2900,00"
+İzmir,Altınova,5. Sınıf,"3655,00"
+İzmir,Altınova,6. Sınıf,"835,00"
+İzmir,Kılıç,1. Sınıf,"1130,00"
+İzmir,Kılıç,2. Sınıf,"1795,00"
+İzmir,Kılıç,3. Sınıf,"2130,00"
+İzmir,Kılıç,4. Sınıf,"2815,00"
+İzmir,Kılıç,5. Sınıf,"3535,00"
+İzmir,Kılıç,6. Sınıf,"810,00"
+İzmir,Orhangazi,1. Sınıf,"1095,00"
+İzmir,Orhangazi,2. Sınıf,"1720,00"
+İzmir,Orhangazi,3. Sınıf,"2040,00"
+İzmir,Orhangazi,4. Sınıf,"2715,00"
+İzmir,Orhangazi,5. Sınıf,"3390,00"
+İzmir,Orhangazi,6. Sınıf,"790,00"
+İzmir,Gemlik,1. Sınıf,"1050,00"
+İzmir,Gemlik,2. Sınıf,"1670,00"
+İzmir,Gemlik,3. Sınıf,"1985,00"
+İzmir,Gemlik,4. Sınıf,"2635,00"
+İzmir,Gemlik,5. Sınıf,"3280,00"
+İzmir,Gemlik,6. Sınıf,"740,00"
+İzmir,Bursa Serbest Bölge,1. Sınıf,"1030,00"
+İzmir,Bursa Serbest Bölge,2. Sınıf,"1645,00"
+İzmir,Bursa Serbest Bölge,3. Sınıf,"1950,00"
+İzmir,Bursa Serbest Bölge,4. Sınıf,"2560,00"
+İzmir,Bursa Serbest Bölge,5. Sınıf,"3225,00"
+İzmir,Bursa Serbest Bölge,6. Sınıf,"740,00"
+İzmir,Bursa Kuzey,1. Sınıf,API Hatası
+İzmir,Bursa Kuzey,2. Sınıf,API Hatası
+İzmir,Bursa Kuzey,3. Sınıf,API Hatası
+İzmir,Bursa Kuzey,4. Sınıf,API Hatası
+İzmir,Bursa Kuzey,5. Sınıf,API Hatası
+İzmir,Bursa Kuzey,6. Sınıf,API Hatası
+İzmir,Teknosab,1. Sınıf,"840,00"
+İzmir,Teknosab,2. Sınıf,"1345,00"
+İzmir,Teknosab,3. Sınıf,"1625,00"
+İzmir,Teknosab,4. Sınıf,"2135,00"
+İzmir,Teknosab,5. Sınıf,"2690,00"
+İzmir,Teknosab,6. Sınıf,"590,00"
+İzmir,Karacabey-Mustafakemalpaşa-1,1. Sınıf,API Hatası
+İzmir,Karacabey-Mustafakemalpaşa-1,2. Sınıf,API Hatası
+İzmir,Karacabey-Mustafakemalpaşa-1,3. Sınıf,API Hatası
+İzmir,Karacabey-Mustafakemalpaşa-1,4. Sınıf,API Hatası
+İzmir,Karacabey-Mustafakemalpaşa-1,5. Sınıf,API Hatası
+İzmir,Karacabey-Mustafakemalpaşa-1,6. Sınıf,API Hatası
+İzmir,Susurluk,1. Sınıf,"670,00"
+İzmir,Susurluk,2. Sınıf,"1070,00"
+İzmir,Susurluk,3. Sınıf,"1290,00"
+İzmir,Susurluk,4. Sınıf,"1705,00"
+İzmir,Susurluk,5. Sınıf,"2135,00"
+İzmir,Susurluk,6. Sınıf,"490,00"
+İzmir,Balıkesir Kuzey,1. Sınıf,"590,00"
+İzmir,Balıkesir Kuzey,2. Sınıf,"955,00"
+İzmir,Balıkesir Kuzey,3. Sınıf,"1135,00"
+İzmir,Balıkesir Kuzey,4. Sınıf,"1495,00"
+İzmir,Balıkesir Kuzey,5. Sınıf,"1885,00"
+İzmir,Balıkesir Kuzey,6. Sınıf,"425,00"
+İzmir,Balıkesir Batı,1. Sınıf,"505,00"
+İzmir,Balıkesir Batı,2. Sınıf,"820,00"
+İzmir,Balıkesir Batı,3. Sınıf,"965,00"
+İzmir,Balıkesir Batı,4. Sınıf,"1290,00"
+İzmir,Balıkesir Batı,5. Sınıf,"1625,00"
+İzmir,Balıkesir Batı,6. Sınıf,"360,00"
+İzmir,Savaştepe,1. Sınıf,"425,00"
+İzmir,Savaştepe,2. Sınıf,"670,00"
+İzmir,Savaştepe,3. Sınıf,"805,00"
+İzmir,Savaştepe,4. Sınıf,"1050,00"
+İzmir,Savaştepe,5. Sınıf,"1345,00"
+İzmir,Savaştepe,6. Sınıf,"290,00"
+İzmir,Soma,1. Sınıf,"380,00"
+İzmir,Soma,2. Sınıf,"610,00"
+İzmir,Soma,3. Sınıf,"710,00"
+İzmir,Soma,4. Sınıf,"955,00"
+İzmir,Soma,5. Sınıf,"1200,00"
+İzmir,Soma,6. Sınıf,"280,00"
+İzmir,Kırkağaç,1. Sınıf,"325,00"
+İzmir,Kırkağaç,2. Sınıf,"505,00"
+İzmir,Kırkağaç,3. Sınıf,"590,00"
+İzmir,Kırkağaç,4. Sınıf,"805,00"
+İzmir,Kırkağaç,5. Sınıf,"995,00"
+İzmir,Kırkağaç,6. Sınıf,"235,00"
+İzmir,Akhisar,1. Sınıf,"290,00"
+İzmir,Akhisar,2. Sınıf,"460,00"
+İzmir,Akhisar,3. Sınıf,"540,00"
+İzmir,Akhisar,4. Sınıf,"710,00"
+İzmir,Akhisar,5. Sınıf,"915,00"
+İzmir,Akhisar,6. Sınıf,"210,00"
+İzmir,Saruhanlı,1. Sınıf,"210,00"
+İzmir,Saruhanlı,2. Sınıf,"325,00"
+İzmir,Saruhanlı,3. Sınıf,"380,00"
+İzmir,Saruhanlı,4. Sınıf,"505,00"
+İzmir,Saruhanlı,5. Sınıf,"635,00"
+İzmir,Saruhanlı,6. Sınıf,"150,00"
+İzmir,Turgutlu,1. Sınıf,"110,00"
+İzmir,Turgutlu,2. Sınıf,"200,00"
+İzmir,Turgutlu,3. Sınıf,"210,00"
+İzmir,Turgutlu,4. Sınıf,"280,00"
+İzmir,Turgutlu,5. Sınıf,"360,00"
+İzmir,Turgutlu,6. Sınıf,"80,00"
+İzmir,Osmangazi Köprüsü(İstanbul Yönü),1. Sınıf,"1965,00"
+İzmir,Osmangazi Köprüsü(İstanbul Yönü),2. Sınıf,"3165,00"
+İzmir,Osmangazi Köprüsü(İstanbul Yönü),3. Sınıf,"3750,00"
+İzmir,Osmangazi Köprüsü(İstanbul Yönü),4. Sınıf,"4975,00"
+İzmir,Osmangazi Köprüsü(İstanbul Yönü),5. Sınıf,"6250,00"
+İzmir,Osmangazi Köprüsü(İstanbul Yönü),6. Sınıf,"1415,00"
+Osmangazi Köprüsü(İstanbul Yönü),Osmangazi Köprüsü(İzmir Yönü),1. Sınıf,API Hatası
+Osmangazi Köprüsü(İstanbul Yönü),Osmangazi Köprüsü(İzmir Yönü),2. Sınıf,API Hatası
+Osmangazi Köprüsü(İstanbul Yönü),Osmangazi Köprüsü(İzmir Yönü),3. Sınıf,API Hatası
+Osmangazi Köprüsü(İstanbul Yönü),Osmangazi Köprüsü(İzmir Yönü),4. Sınıf,API Hatası
+Osmangazi Köprüsü(İstanbul Yönü),Osmangazi Köprüsü(İzmir Yönü),5. Sınıf,API Hatası
+Osmangazi Köprüsü(İstanbul Yönü),Osmangazi Köprüsü(İzmir Yönü),6. Sınıf,API Hatası
+Osmangazi Köprüsü(İstanbul Yönü),Altınova,1. Sınıf,API Hatası
+Osmangazi Köprüsü(İstanbul Yönü),Altınova,2. Sınıf,API Hatası
+Osmangazi Köprüsü(İstanbul Yönü),Altınova,3. Sınıf,API Hatası
+Osmangazi Köprüsü(İstanbul Yönü),Altınova,4. Sınıf,API Hatası
+Osmangazi Köprüsü(İstanbul Yönü),Altınova,5. Sınıf,API Hatası
+Osmangazi Köprüsü(İstanbul Yönü),Altınova,6. Sınıf,API Hatası
+Osmangazi Köprüsü(İstanbul Yönü),Kılıç,1. Sınıf,API Hatası
+Osmangazi Köprüsü(İstanbul Yönü),Kılıç,2. Sınıf,API Hatası
+Osmangazi Köprüsü(İstanbul Yönü),Kılıç,3. Sınıf,API Hatası
+Osmangazi Köprüsü(İstanbul Yönü),Kılıç,4. Sınıf,API Hatası
+Osmangazi Köprüsü(İstanbul Yönü),Kılıç,5. Sınıf,API Hatası
+Osmangazi Köprüsü(İstanbul Yönü),Kılıç,6. Sınıf,API Hatası
+Osmangazi Köprüsü(İstanbul Yönü),Orhangazi,1. Sınıf,API Hatası
+Osmangazi Köprüsü(İstanbul Yönü),Orhangazi,2. Sınıf,API Hatası
+Osmangazi Köprüsü(İstanbul Yönü),Orhangazi,3. Sınıf,API Hatası
+Osmangazi Köprüsü(İstanbul Yönü),Orhangazi,4. Sınıf,API Hatası
+Osmangazi Köprüsü(İstanbul Yönü),Orhangazi,5. Sınıf,API Hatası
+Osmangazi Köprüsü(İstanbul Yönü),Orhangazi,6. Sınıf,API Hatası
+Osmangazi Köprüsü(İstanbul Yönü),Gemlik,1. Sınıf,API Hatası
+Osmangazi Köprüsü(İstanbul Yönü),Gemlik,2. Sınıf,API Hatası
+Osmangazi Köprüsü(İstanbul Yönü),Gemlik,3. Sınıf,API Hatası
+Osmangazi Köprüsü(İstanbul Yönü),Gemlik,4. Sınıf,API Hatası
+Osmangazi Köprüsü(İstanbul Yönü),Gemlik,5. Sınıf,API Hatası
+Osmangazi Köprüsü(İstanbul Yönü),Gemlik,6. Sınıf,API Hatası
+Osmangazi Köprüsü(İstanbul Yönü),Bursa Serbest Bölge,1. Sınıf,API Hatası
+Osmangazi Köprüsü(İstanbul Yönü),Bursa Serbest Bölge,2. Sınıf,API Hatası
+Osmangazi Köprüsü(İstanbul Yönü),Bursa Serbest Bölge,3. Sınıf,API Hatası
+Osmangazi Köprüsü(İstanbul Yönü),Bursa Serbest Bölge,4. Sınıf,API Hatası
+Osmangazi Köprüsü(İstanbul Yönü),Bursa Serbest Bölge,5. Sınıf,API Hatası
+Osmangazi Köprüsü(İstanbul Yönü),Bursa Serbest Bölge,6. Sınıf,API Hatası
+Osmangazi Köprüsü(İstanbul Yönü),Bursa Kuzey,1. Sınıf,API Hatası
+Osmangazi Köprüsü(İstanbul Yönü),Bursa Kuzey,2. Sınıf,API Hatası
+Osmangazi Köprüsü(İstanbul Yönü),Bursa Kuzey,3. Sınıf,API Hatası
+Osmangazi Köprüsü(İstanbul Yönü),Bursa Kuzey,4. Sınıf,API Hatası
+Osmangazi Köprüsü(İstanbul Yönü),Bursa Kuzey,5. Sınıf,API Hatası
+Osmangazi Köprüsü(İstanbul Yönü),Bursa Kuzey,6. Sınıf,API Hatası
+Osmangazi Köprüsü(İstanbul Yönü),Teknosab,1. Sınıf,API Hatası
+Osmangazi Köprüsü(İstanbul Yönü),Teknosab,2. Sınıf,API Hatası
+Osmangazi Köprüsü(İstanbul Yönü),Teknosab,3. Sınıf,API Hatası
+Osmangazi Köprüsü(İstanbul Yönü),Teknosab,4. Sınıf,API Hatası
+Osmangazi Köprüsü(İstanbul Yönü),Teknosab,5. Sınıf,API Hatası
+Osmangazi Köprüsü(İstanbul Yönü),Teknosab,6. Sınıf,API Hatası
+Osmangazi Köprüsü(İstanbul Yönü),Karacabey-Mustafakemalpaşa-1,1. Sınıf,API Hatası
+Osmangazi Köprüsü(İstanbul Yönü),Karacabey-Mustafakemalpaşa-1,2. Sınıf,API Hatası
+Osmangazi Köprüsü(İstanbul Yönü),Karacabey-Mustafakemalpaşa-1,3. Sınıf,API Hatası
+Osmangazi Köprüsü(İstanbul Yönü),Karacabey-Mustafakemalpaşa-1,4. Sınıf,API Hatası
+Osmangazi Köprüsü(İstanbul Yönü),Karacabey-Mustafakemalpaşa-1,5. Sınıf,API Hatası
+Osmangazi Köprüsü(İstanbul Yönü),Karacabey-Mustafakemalpaşa-1,6. Sınıf,API Hatası
+Osmangazi Köprüsü(İstanbul Yönü),Susurluk,1. Sınıf,API Hatası
+Osmangazi Köprüsü(İstanbul Yönü),Susurluk,2. Sınıf,API Hatası
+Osmangazi Köprüsü(İstanbul Yönü),Susurluk,3. Sınıf,API Hatası
+Osmangazi Köprüsü(İstanbul Yönü),Susurluk,4. Sınıf,API Hatası
+Osmangazi Köprüsü(İstanbul Yönü),Susurluk,5. Sınıf,API Hatası
+Osmangazi Köprüsü(İstanbul Yönü),Susurluk,6. Sınıf,API Hatası
+Osmangazi Köprüsü(İstanbul Yönü),Balıkesir Kuzey,1. Sınıf,API Hatası
+Osmangazi Köprüsü(İstanbul Yönü),Balıkesir Kuzey,2. Sınıf,API Hatası
+Osmangazi Köprüsü(İstanbul Yönü),Balıkesir Kuzey,3. Sınıf,API Hatası
+Osmangazi Köprüsü(İstanbul Yönü),Balıkesir Kuzey,4. Sınıf,API Hatası
+Osmangazi Köprüsü(İstanbul Yönü),Balıkesir Kuzey,5. Sınıf,API Hatası
+Osmangazi Köprüsü(İstanbul Yönü),Balıkesir Kuzey,6. Sınıf,API Hatası
+Osmangazi Köprüsü(İstanbul Yönü),Balıkesir Batı,1. Sınıf,API Hatası
+Osmangazi Köprüsü(İstanbul Yönü),Balıkesir Batı,2. Sınıf,API Hatası
+Osmangazi Köprüsü(İstanbul Yönü),Balıkesir Batı,3. Sınıf,API Hatası
+Osmangazi Köprüsü(İstanbul Yönü),Balıkesir Batı,4. Sınıf,API Hatası
+Osmangazi Köprüsü(İstanbul Yönü),Balıkesir Batı,5. Sınıf,API Hatası
+Osmangazi Köprüsü(İstanbul Yönü),Balıkesir Batı,6. Sınıf,API Hatası
+Osmangazi Köprüsü(İstanbul Yönü),Savaştepe,1. Sınıf,API Hatası
+Osmangazi Köprüsü(İstanbul Yönü),Savaştepe,2. Sınıf,API Hatası
+Osmangazi Köprüsü(İstanbul Yönü),Savaştepe,3. Sınıf,API Hatası
+Osmangazi Köprüsü(İstanbul Yönü),Savaştepe,4. Sınıf,API Hatası
+Osmangazi Köprüsü(İstanbul Yönü),Savaştepe,5. Sınıf,API Hatası
+Osmangazi Köprüsü(İstanbul Yönü),Savaştepe,6. Sınıf,API Hatası
+Osmangazi Köprüsü(İstanbul Yönü),Soma,1. Sınıf,API Hatası
+Osmangazi Köprüsü(İstanbul Yönü),Soma,2. Sınıf,API Hatası
+Osmangazi Köprüsü(İstanbul Yönü),Soma,3. Sınıf,API Hatası
+Osmangazi Köprüsü(İstanbul Yönü),Soma,4. Sınıf,API Hatası
+Osmangazi Köprüsü(İstanbul Yönü),Soma,5. Sınıf,API Hatası
+Osmangazi Köprüsü(İstanbul Yönü),Soma,6. Sınıf,API Hatası
+Osmangazi Köprüsü(İstanbul Yönü),Kırkağaç,1. Sınıf,API Hatası
+Osmangazi Köprüsü(İstanbul Yönü),Kırkağaç,2. Sınıf,API Hatası
+Osmangazi Köprüsü(İstanbul Yönü),Kırkağaç,3. Sınıf,API Hatası
+Osmangazi Köprüsü(İstanbul Yönü),Kırkağaç,4. Sınıf,API Hatası
+Osmangazi Köprüsü(İstanbul Yönü),Kırkağaç,5. Sınıf,API Hatası
+Osmangazi Köprüsü(İstanbul Yönü),Kırkağaç,6. Sınıf,API Hatası
+Osmangazi Köprüsü(İstanbul Yönü),Akhisar,1. Sınıf,API Hatası
+Osmangazi Köprüsü(İstanbul Yönü),Akhisar,2. Sınıf,API Hatası
+Osmangazi Köprüsü(İstanbul Yönü),Akhisar,3. Sınıf,API Hatası
+Osmangazi Köprüsü(İstanbul Yönü),Akhisar,4. Sınıf,API Hatası
+Osmangazi Köprüsü(İstanbul Yönü),Akhisar,5. Sınıf,API Hatası
+Osmangazi Köprüsü(İstanbul Yönü),Akhisar,6. Sınıf,API Hatası
+Osmangazi Köprüsü(İstanbul Yönü),Saruhanlı,1. Sınıf,API Hatası
+Osmangazi Köprüsü(İstanbul Yönü),Saruhanlı,2. Sınıf,API Hatası
+Osmangazi Köprüsü(İstanbul Yönü),Saruhanlı,3. Sınıf,API Hatası
+Osmangazi Köprüsü(İstanbul Yönü),Saruhanlı,4. Sınıf,API Hatası
+Osmangazi Köprüsü(İstanbul Yönü),Saruhanlı,5. Sınıf,API Hatası
+Osmangazi Köprüsü(İstanbul Yönü),Saruhanlı,6. Sınıf,API Hatası
+Osmangazi Köprüsü(İstanbul Yönü),Turgutlu,1. Sınıf,API Hatası
+Osmangazi Köprüsü(İstanbul Yönü),Turgutlu,2. Sınıf,API Hatası
+Osmangazi Köprüsü(İstanbul Yönü),Turgutlu,3. Sınıf,API Hatası
+Osmangazi Köprüsü(İstanbul Yönü),Turgutlu,4. Sınıf,API Hatası
+Osmangazi Köprüsü(İstanbul Yönü),Turgutlu,5. Sınıf,API Hatası
+Osmangazi Köprüsü(İstanbul Yönü),Turgutlu,6. Sınıf,API Hatası
+Osmangazi Köprüsü(İstanbul Yönü),İzmir,1. Sınıf,API Hatası
+Osmangazi Köprüsü(İstanbul Yönü),İzmir,2. Sınıf,API Hatası
+Osmangazi Köprüsü(İstanbul Yönü),İzmir,3. Sınıf,API Hatası
+Osmangazi Köprüsü(İstanbul Yönü),İzmir,4. Sınıf,API Hatası
+Osmangazi Köprüsü(İstanbul Yönü),İzmir,5. Sınıf,API Hatası
+Osmangazi Köprüsü(İstanbul Yönü),İzmir,6. Sınıf,API Hatası
